@@ -1,4 +1,4 @@
-# Pro Style 🧱 (CFB26 Playbook Style)
+Mke # Pro Style 🧱 (CFB26 Playbook Style)
 
 [← Back to Index](../README.md)
 
@@ -255,6 +255,15 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 - Inside zone
 - Boot with immediate flat
 - Safe quick game from gun (if needed)
+
+## Standard Audible Package (Pro Check) 🗣️
+
+Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix bad looks:
+
+1.  **Run Check:** **Inside Zone (Split)** - Call vs 2-High safety looks or light boxes.
+2.  **Quick Pass:** **Stick / Slants** - Call vs sudden blitz pressure.
+3.  **Deep Shot:** **PA Post / Verts** - Call vs single-high safety creeping down.
+4.  **Cover Beater:** **Flood / Sail** - Call vs Cover 3 / Cover 4 zones.
 
 ---
 
@@ -540,13 +549,13 @@ If you played a true Pro Style game, your stats should look like this:
 
 If you run Pro Style, prioritize these archetypes:
 
-| Position | Archetype / Key Stats                 | Why?                                                |
-| :------- | ------------------------------------- | --------------------------------------------------- |
-| **QB**   | **Field General** (THP, DAC, PAC)     | Needs to hit deep PA shots + intermediate windows.  |
-| **HB**   | **Power Back** (TRK, BTK, SFA)        | Must fall forward for 4 yards on 1st & 10.          |
-| **TE**   | **Blocking** (RBK, PBK, STR)          | You need two. One must be a glorified tackle.       |
-| **WR**   | **Deep Threat** (SPD, DRR)            | Just one speedster to blow the top off post-PA.     |
-| **OL**   | **Power** (STR, RBP, IBL)             | Moving people against their will is the whole plan. |
+| Position | Archetype / Key Stats             | Why?                                                |
+| :------- | --------------------------------- | --------------------------------------------------- |
+| **QB**   | **Field General** (THP, DAC, PAC) | Needs to hit deep PA shots + intermediate windows.  |
+| **HB**   | **Power Back** (TRK, BTK, SFA)    | Must fall forward for 4 yards on 1st & 10.          |
+| **TE**   | **Blocking** (RBK, PBK, STR)      | You need two. One must be a glorified tackle.       |
+| **WR**   | **Deep Threat** (SPD, DRR)        | Just one speedster to blow the top off post-PA.     |
+| **OL**   | **Power** (STR, RBP, IBL)         | Moving people against their will is the whole plan. |
 
 ---
 
