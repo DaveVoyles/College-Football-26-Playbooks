@@ -1,5 +1,7 @@
 # Veer and Shoot 🚀 (CFB26 Playbook Style)
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 Veer and Shoot is a **wide-split, tempo-friendly spread offense** that tries to:

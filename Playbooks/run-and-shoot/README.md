@@ -1,5 +1,7 @@
 # Run and Shoot 🎲 (CFB26 Playbook Style)
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 The Run and Shoot is a **spread passing offense** built around:

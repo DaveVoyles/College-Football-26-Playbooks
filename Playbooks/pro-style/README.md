@@ -1,5 +1,7 @@
 # Pro Style 🧱 (CFB26 Playbook Style)
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 “Pro Style” is a **balanced offense** that wants to:
@@ -500,6 +502,39 @@ You don’t have to huddle every snap. A simple approach:
 - Slow down after penalties/TFLs to reset.
 
 This keeps Pro Style from feeling “slow,” while still letting you control the game when you have a lead.
+
+---
+
+## Sample 15-play opening script (copy/paste idea) 📝
+
+The goal of a Pro Style script is to established the run and force the defense to bring a safety down.
+
+| Play # | Situation / Note         | Concept / Call                     | Why?                                   |
+| :----: | ------------------------ | ---------------------------------- | -------------------------------------- |
+| 1      | Scripted Opener (Safe)   | **Inside Zone** (Strong side)      | Test the interior DL strength          |
+| 2      | Scripted shot (PA?)      | **PA Crossers / Boot**             | Punish LBs for stepping up on play 1   |
+| 3      | Run: Base concept        | **Duo / Power**                    | Establish physical downhill presence   |
+| 4      | Quick game / RPO         | **Stick / Quick Out**              | Easy completion if they play off       |
+| 5      | Run: Counter/Power       | **Counter GY**                     | Show a different run blocking scheme   |
+| 6      | Shot play (Deep)         | **Yankee (Post + Cross)**          | Max protect deep shot                  |
+| 7      | Screen / Draw            | **Slip Screen**                    | Catch aggressive pass rushers          |
+| 8      | Base Pass                | **Mesh / Shallow Cross**           | Man-beater/zone-beater (safe yards)    |
+| 9      | Check with me (Audible)  | **Run/Pass Check**                 | Let QB verify coverage at the line     |
+| 10     | Run: Left hash           | **Stretch / Outside Zone**         | Force the defense to run sideline-to-sideline |
+| 11     | Run: Right hash          | **Cutback Zone**                   | Exploit over-pursuit                   |
+| 12     | Play-Action Boot         | **Naked Boot / Slide**             | Get QB on the edge for easy throw/run  |
+| 13     | Trick / Special          | **Reverse / Flea Flicker**         | High risk/reward if they are biting    |
+| 14     | 2-Minute Drill practice  | **4 Verts / Seams**                | Stress the deep safeties               |
+| 15     | 4-Minute Drill practice  | **Power / Jumbo Run**              | Practice closing out the game          |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true Pro Style game, your stats should look like this:
+
+- **Rushing Attempts:** > 25 (You must commit to the run)
+- **Play-Action Yards:** > 30% of Total Passing Yards
+- **Time of Possession:** > 55% (Control the clock)
+- **Turnovers:** < 2 (Ball security is paramount)
 
 ---
 

@@ -1,5 +1,7 @@
 # Option 🏃‍♂️🧠 (Spread / Triple Option) — CFB26 Playbook Style
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 “Option” isn’t one formation—it’s a **decision-based run game**.

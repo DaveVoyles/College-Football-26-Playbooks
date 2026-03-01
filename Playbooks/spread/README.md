@@ -1,5 +1,7 @@
 # Spread 🏃‍♂️💨 (CFB26 Playbook Style)
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 The Spread is a **space-creating offense** that widens the defense horizontally so you can:

@@ -12,6 +12,10 @@ Each folder contains one long-form scheme guide.
 - 🦵 [Option (Spread/Triple)](option/README.md)
 - 🎲 [Run and Shoot](run-and-shoot/README.md)
 
+## Tools & Templates 🛠️
+
+- 📝 [Weekly Gameplan & Call Sheet Template](_templates/Call_Sheet_Template.md) (Copy this to plan your games)
+
 ## Scheme comparison (at a glance) 🧠
 
 These are **starting points**.

@@ -1,5 +1,7 @@
 # West Coast 🌊 (CFB26 Playbook Style)
 
+[← Back to Index](../README.md)
+
 ## Quick definition 🧠
 
 The West Coast offense is a **timing + rhythm passing system** that treats:
