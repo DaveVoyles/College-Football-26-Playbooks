@@ -4,9 +4,16 @@
 
 The Spread is a **space-creating offense** that widens the defense horizontally so you can:
 
-- run vs light boxes
-- throw quick, high-efficiency passes
-- use RPOs and tempo to keep the defense in bad looks
+- ↔️ Run vs light boxes
+- ⚡ Throw quick, high-efficiency passes
+- 🧩 Use RPOs and tempo to keep the defense in bad looks
+
+```text
+      WR                      OL                       WR
+               SB                               BS
+                          QB (Gun)
+                             RB
+```
 
 Different teams “spread” differently. In games, the most common flavors are:
 
@@ -79,13 +86,13 @@ Spread in CFB-style playbooks often centers on:
 
 ### Formation families (quick pick table)
 
-| Family                   | What it’s great for                             | When to lean on it                    |
-| ------------------------ | ----------------------------------------------- | ------------------------------------ |
-| Gun Trips / Trips Offset | RPOs, quick game, simple box-count reads        | Base menu; tempo                      |
-| Gun Doubles (2x2)        | Balanced run/pass; mesh and intermediate reads  | 3rd-and-medium; “stay on schedule”    |
-| Gun Spread / Wide        | Max spacing; screens + light-box runs           | When defense is packed inside         |
-| Empty (situational)      | Quick answers; option routes; 2-minute          | 3rd-and-long; end-of-half             |
-| Pistol (if present)      | Downhill run feel with spread spacing           | Mix-up; QB run tags                   |
+| Family                   | What it’s great for                            | When to lean on it                 |
+| ------------------------ | ---------------------------------------------- | ---------------------------------- |
+| Gun Trips / Trips Offset | RPOs, quick game, simple box-count reads       | Base menu; tempo                   |
+| Gun Doubles (2x2)        | Balanced run/pass; mesh and intermediate reads | 3rd-and-medium; “stay on schedule” |
+| Gun Spread / Wide        | Max spacing; screens + light-box runs          | When defense is packed inside      |
+| Empty (situational)      | Quick answers; option routes; 2-minute         | 3rd-and-long; end-of-half          |
+| Pistol (if present)      | Downhill run feel with spread spacing          | Mix-up; QB run tags                |
 
 ### Suggested “small menu”
 

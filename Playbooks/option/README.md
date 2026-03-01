@@ -6,9 +6,15 @@
 
 Instead of blocking every defender, you **leave one unblocked** and make him wrong by:
 
-- giving the ball
-- keeping the ball
-- pitching (triple option)
+- 🏈 Giving the ball (Dive)
+- 🏃 Keeping the ball (Keeper)
+- ⚾ Pitching (Pitch/Option)
+
+```text
+       WR            OL            WR
+              SB     QB     SB
+                     FB
+```
 
 In games, option playbooks typically blend:
 
@@ -88,11 +94,11 @@ Common read keys:
 
 ### Read-key cheat table
 
-| Play family   | Typical read key        | Your decision                                   |
-| ------------- | ----------------------- | ----------------------------------------------- |
-| Zone read     | Backside DE             | Give vs squeeze/crash • Keep vs slow/play wide  |
-| Speed option  | Play-side edge (DE/OLB) | Pitch if he takes QB • Keep if he takes pitch   |
-| Triple option | Dive key + pitch key    | Give/keep/pitch based on first commitment       |
+| Play family   | Typical read key        | Your decision                                  |
+| ------------- | ----------------------- | ---------------------------------------------- |
+| Zone read     | Backside DE             | Give vs squeeze/crash • Keep vs slow/play wide |
+| Speed option  | Play-side edge (DE/OLB) | Pitch if he takes QB • Keep if he takes pitch  |
+| Triple option | Dive key + pitch key    | Give/keep/pitch based on first commitment      |
 
 If you can’t identify the key pre-snap, don’t call the play.
 

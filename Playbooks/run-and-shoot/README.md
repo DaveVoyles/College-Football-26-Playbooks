@@ -4,9 +4,15 @@
 
 The Run and Shoot is a **spread passing offense** built around:
 
-- four-receiver spacing (often 10 personnel)
-- **option routes** where receivers adjust based on coverage/leverage
-- attacking defenders who “miscommunicate”
+- 📡 Four-receiver spacing (often 10 personnel)
+- ⚡ **Option routes** where receivers adjust based on coverage/leverage
+- 🎭 Attacking defenders who “miscommunicate”
+
+```text
+      WR           OL           WR
+           SB      QB      SB
+                   RB
+```
 
 Unlike many systems where routes are fixed, Run and Shoot asks:
 
@@ -79,12 +85,12 @@ Suggested “small menu”:
 
 ### Formation families (quick pick table)
 
-| Family            | What it’s great for                             | When to lean on it                   |
-| ----------------- | ----------------------------------------------- | ------------------------------------ |
-| Gun Spread / Wide | Core spacing + option routes + vertical stress  | Base menu                            |
-| Gun Trips         | Matchup creation + switch releases              | When you want to isolate a defender  |
-| Gun Empty         | Fast reads; 2-minute; pressure identification   | 3rd-and-long; end-of-half            |
-| Stacks/slots      | Helps vs press; stresses match coverage rules   | Red zone; vs man-heavy defenses      |
+| Family            | What it’s great for                            | When to lean on it                  |
+| ----------------- | ---------------------------------------------- | ----------------------------------- |
+| Gun Spread / Wide | Core spacing + option routes + vertical stress | Base menu                           |
+| Gun Trips         | Matchup creation + switch releases             | When you want to isolate a defender |
+| Gun Empty         | Fast reads; 2-minute; pressure identification  | 3rd-and-long; end-of-half           |
+| Stacks/slots      | Helps vs press; stresses match coverage rules  | Red zone; vs man-heavy defenses     |
 
 - Major: 2x2 spread + trips
 - Minor: empty for 3rd-and-long and 2-minute

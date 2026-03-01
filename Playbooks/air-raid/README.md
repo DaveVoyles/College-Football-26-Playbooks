@@ -4,10 +4,17 @@
 
 The Air Raid is a **spread passing system** built on:
 
-- high repetition
-- spacing and leverage
-- simple reads that scale from quick game to deep shots
-- using short passes as “runs” to stay on schedule
+- 🔄 High repetition
+- 📐 Spacing and leverage
+- 👓 Simple reads that scale from quick game to deep shots
+- 🏃 Using short passes as “runs” to stay on schedule
+
+```text
+      WR          LT LG C RG RT          WR
+           SB                        SB
+                    QB (Gun)
+                       RB
+```
 
 It’s at its best when you can reliably throw on early downs, force the defense to widen, and then **run into light boxes**.
 

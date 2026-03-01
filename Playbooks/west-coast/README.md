@@ -4,9 +4,16 @@
 
 The West Coast offense is a **timing + rhythm passing system** that treats:
 
-- short and intermediate passes as the primary way to move the ball
-- run plays as complements that keep defenses honest
-- YAC (yards after catch) as a core metric
+- ⏱️ short and intermediate passes as the primary way to move the ball
+- 🏃 run plays as complements that keep defenses honest
+- 💨 **YAC (yards after catch)** as a core metric
+
+```text
+      WR                  OL   TE
+                                     WR (Flanker)
+             RB    QB    RB
+              (Split Backs)
+```
 
 Compared to Air Raid, West Coast is often more:
 
@@ -78,12 +85,12 @@ West Coast playbooks often include:
 
 ### Formation families (quick pick table)
 
-| Family                 | What it’s great for                               | When to lean on it                   |
-| ---------------------- | ------------------------------------------------- | ------------------------------------ |
-| Singleback (Ace/Wing)  | Core boots + play-action + balanced run game      | Base menu; early downs               |
-| Gun 11 (packages)      | Modern rhythm throws; quick answers vs pressure   | 2-minute; when behind; 3rd down      |
-| I-Form (packages)      | Physicality and short yardage; tendency breakers  | Short yardage; red zone              |
-| Strong/Weak (two-back) | Defined fits; easy PA off downhill looks          | When you want FB/H-back involvement  |
+| Family                 | What it’s great for                              | When to lean on it                  |
+| ---------------------- | ------------------------------------------------ | ----------------------------------- |
+| Singleback (Ace/Wing)  | Core boots + play-action + balanced run game     | Base menu; early downs              |
+| Gun 11 (packages)      | Modern rhythm throws; quick answers vs pressure  | 2-minute; when behind; 3rd down     |
+| I-Form (packages)      | Physicality and short yardage; tendency breakers | Short yardage; red zone             |
+| Strong/Weak (two-back) | Defined fits; easy PA off downhill looks         | When you want FB/H-back involvement |
 
 Suggested approach:
 

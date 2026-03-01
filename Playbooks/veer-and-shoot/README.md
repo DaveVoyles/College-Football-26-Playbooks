@@ -4,10 +4,17 @@
 
 Veer and Shoot is a **wide-split, tempo-friendly spread offense** that tries to:
 
-- force defenses to declare numbers and leverage with extreme spacing
-- run “veer” (inside zone / split-flow looks) into light boxes
-- throw **quick access passes** (now screens, hitches, quick outs) when defenders widen
-- hit vertical shots when safeties cheat
+- ↔️ force defenses to declare numbers and leverage with **extreme spacing**
+- 🏃 run “veer” (inside zone / split-flow looks) into light boxes
+- 🎯 throw **quick access passes** (now screens, hitches, quick outs) when defenders widen
+- 💣 hit vertical shots when safeties cheat
+
+```text
+WR (Far out)                                   WR (Far out)
+           SB        OL        SB
+                     QB
+                     RB
+```
 
 In real football it’s often associated with **ultra-wide WR splits**, fast pace, and simple, repeatable reads that create “easy yards” over and over.
 
