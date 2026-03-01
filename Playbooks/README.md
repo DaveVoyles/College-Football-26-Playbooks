@@ -1,5 +1,7 @@
 # Playbooks (Offensive Scheme Families) 📚
 
+**Curated by Dave Voyles**
+
 Each folder contains one long-form scheme guide.
 
 ## Major styles 🏈

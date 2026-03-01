@@ -1,5 +1,7 @@
 # 🧠 Route Concepts & Coverage Beaters Cheat Sheet
 
+**Author: Dave Voyles**
+
 Use this guide to understand **why** certain plays work against specific defenses.
 
 [← Back to Index](README.md)

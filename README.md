@@ -1,5 +1,7 @@
 # CFB26 Playbook Library 🏈
 
+**Created by Dave Voyles**
+
 This repo is a **playbook + gameplan reference library** for _EA Sports College Football 2026_ (CFB26).
 
 Use it to pick a scheme, understand **how it wants to win**, and build a consistent plan (opening script, 3rd down, red zone, 2-minute, etc.).

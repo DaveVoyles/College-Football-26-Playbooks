@@ -1,5 +1,5 @@
 # 📝 Weekly Gameplan & Call Sheet
-
+**Author: Dave Voyles**
 **Opponent Week #:** **\_**
 **Defensive Tendency:** (Aggressive / Passive / Zone-Heavy / Man-Heavy / Blitz-Happy)
 

@@ -1,5 +1,5 @@
 # 🏟️ CFB26 Team Scheme Guide
-
+**Author: Dave Voyles**
 Use this guide to find teams that match the playbooks in this repo.
 _Note: Assignments are based on real-world coaching staffs as of 2025/2026. Verify within CFB26 dynasty mode._
 

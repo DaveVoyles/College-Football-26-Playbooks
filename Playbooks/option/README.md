@@ -1,5 +1,7 @@
 # Option 🏃‍♂️🧠 (Spread / Triple Option) — CFB26 Playbook Style
 
+**Author: Dave Voyles**
+
 [← Back to Index](../README.md)
 
 ## Quick definition 🧠
