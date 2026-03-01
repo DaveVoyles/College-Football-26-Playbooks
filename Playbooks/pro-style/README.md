@@ -17,7 +17,7 @@ Mke # Pro Style 🧱 (CFB26 Playbook Style)
                            RB
 ```
 
-*Note: SB/Split Backs or Slot Back is not typically used here. This is a classic Power-I or Singleback look.*
+_Note: SB/Split Backs or Slot Back is not typically used here. This is a classic Power-I or Singleback look._
 
 In video game terms, Pro Style is often the best “do everything” identity if you enjoy **huddling 🗣️, shifting 🔄, and setting up tendencies 📉**.
 
