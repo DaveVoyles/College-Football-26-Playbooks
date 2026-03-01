@@ -14,6 +14,7 @@ Veer and Shoot is a **wide-split, tempo-friendly spread offense** that tries to:
 ```text
 WR (Far out)                                   WR (Far out)
            SB        OL        SB
+        (Slot)                (Slot)
                      QB
                      RB
 ```

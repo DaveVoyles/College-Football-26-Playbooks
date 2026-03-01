@@ -12,10 +12,12 @@ Mke # Pro Style 🧱 (CFB26 Playbook Style)
 
 ```text
        WR                  OL   TE
-                                     WR
+                                     WR (Flanker)
               TE           QB
                            RB
 ```
+
+*Note: SB/Split Backs or Slot Back is not typically used here. This is a classic Power-I or Singleback look.*
 
 In video game terms, Pro Style is often the best “do everything” identity if you enjoy **huddling 🗣️, shifting 🔄, and setting up tendencies 📉**.
 
@@ -260,10 +262,10 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix bad looks:
 
-1.  **Run Check:** **Inside Zone (Split)** - Call vs 2-High safety looks or light boxes.
-2.  **Quick Pass:** **Stick / Slants** - Call vs sudden blitz pressure.
-3.  **Deep Shot:** **PA Post / Verts** - Call vs single-high safety creeping down.
-4.  **Cover Beater:** **Flood / Sail** - Call vs Cover 3 / Cover 4 zones.
+1. **Run Check:** **Inside Zone (Split)** - Call vs 2-High safety looks or light boxes.
+2. **Quick Pass:** **Stick / Slants** - Call vs sudden blitz pressure.
+3. **Deep Shot:** **PA Post / Verts** - Call vs single-high safety creeping down.
+4. **Cover Beater:** **Flood / Sail** - Call vs Cover 3 / Cover 4 zones.
 
 ---
 

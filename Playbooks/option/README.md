@@ -15,6 +15,7 @@ Instead of blocking every defender, you **leave one unblocked** and make him wro
 ```text
        WR            OL            WR
               SB     QB     SB
+           (Slot)          (Slot)
                      FB
 ```
 

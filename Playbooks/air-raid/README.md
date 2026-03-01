@@ -14,6 +14,7 @@ The Air Raid is a **spread passing system** built on:
 ```text
       WR          LT LG C RG RT          WR
            SB                        SB
+     (Slot Receiver)           (Slot Receiver)
                     QB (Gun)
                        RB
 ```

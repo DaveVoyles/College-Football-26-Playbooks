@@ -13,6 +13,7 @@ The Spread is a **space-creating offense** that widens the defense horizontally 
 ```text
       WR                      OL                       WR
                SB                               BS
+        (Slot Receiver)                   (Big Slot/TE)
                           QB (Gun)
                              RB
 ```

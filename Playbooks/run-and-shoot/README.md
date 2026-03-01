@@ -13,6 +13,7 @@ The Run and Shoot is a **spread passing offense** built around:
 ```text
       WR           OL           WR
            SB      QB      SB
+        (Slot)            (Slot)
                    RB
 ```
 
