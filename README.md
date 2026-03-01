@@ -26,15 +26,15 @@ Use it to pick a scheme, understand **how it wants to win**, and build a consist
 
 ## Pick a scheme (fast chooser) 🧭
 
-| If you like…                     | Start with…                                          | Why                                          | Typical personnel |
-| -------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ----------------- |
-| Quick passes + spacing           | [Air Raid](Playbooks/air-raid/README.md)             | High repetition, answers vs pressure         | 10 / 11           |
-| Physical run + play-action       | [Pro Style](Playbooks/pro-style/README.md)           | Controls tempo, strong red zone              | 12 / 21           |
-| RPOs + box-count football        | [Spread](Playbooks/spread/README.md)                 | Easy run/pass decisions, tempo-friendly      | 10 / 11           |
-| Wide splits + tempo + free yards | [Veer and Shoot](Playbooks/veer-and-shoot/README.md) | Access throws + inside zone into light boxes | 10 / 11           |
-| Rhythm throws + YAC              | [West Coast](Playbooks/west-coast/README.md)         | Timing concepts, layered progressions        | 11 / 12 / 21      |
-| QB as a runner (read/pitch)      | [Option](Playbooks/option/README.md)                 | Numbers advantage in the run game            | 11 / 20 / 21      |
-| Option routes + explosives       | [Run and Shoot](Playbooks/run-and-shoot/README.md)   | Leverage reads, big plays off mistakes       | 10 / 11           |
+| If you like…                     | Start with…                                          | Why                                          | Typical personnel (RB/TE/WR) |
+| -------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ---------------------------- |
+| Quick passes + spacing           | [Air Raid](Playbooks/air-raid/README.md)             | High repetition, answers vs pressure         | 10 / 11                      |
+| Physical run + play-action       | [Pro Style](Playbooks/pro-style/README.md)           | Controls tempo, strong red zone              | 12 / 21                      |
+| RPOs + box-count football        | [Spread](Playbooks/spread/README.md)                 | Easy run/pass decisions, tempo-friendly      | 10 / 11                      |
+| Wide splits + tempo + free yards | [Veer and Shoot](Playbooks/veer-and-shoot/README.md) | Access throws + inside zone into light boxes | 10 / 11                      |
+| Rhythm throws + YAC              | [West Coast](Playbooks/west-coast/README.md)         | Timing concepts, layered progressions        | 11 / 12 / 21                 |
+| QB as a runner (read/pitch)      | [Option](Playbooks/option/README.md)                 | Numbers advantage in the run game            | 11 / 20 / 21                 |
+| Option routes + explosives       | [Run and Shoot](Playbooks/run-and-shoot/README.md)   | Leverage reads, big plays off mistakes       | 10 / 11                      |
 
 ## What’s inside each playbook folder 📁
 

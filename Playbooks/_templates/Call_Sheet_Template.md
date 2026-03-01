@@ -1,4 +1,5 @@
 # 📝 Weekly Gameplan & Call Sheet
+
 **Author: Dave Voyles**
 **Opponent Week #:** **\_**
 **Defensive Tendency:** (Aggressive / Passive / Zone-Heavy / Man-Heavy / Blitz-Happy)
@@ -59,5 +60,5 @@ _Sticking to the plan helps you gather info on how they align._
 - **Score:** **\_** - **\_** (W / L)
 - **Key Stat 1 (Rush Yds / Comp %):** **\_**
 - **Turnovers:** **\_**
-- **What worked best?** ********************************\_\_********************************
-- **What got stopped?** ********************************\_\_********************************
+- **What worked best?** **************\*\*\*\***************\_\_**************\*\*\*\***************
+- **What got stopped?** **************\*\*\*\***************\_\_**************\*\*\*\***************
