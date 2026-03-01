@@ -467,6 +467,30 @@ The QB run threat becomes stronger.
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+If you want a true option feel, start with service academies and classic option programs.
+
+Start here and **verify in-game**:
+
+- Army
+- Navy
+- Air Force
+- Georgia Tech (historical)
+- New Mexico (option elements)
+
+## NFL analogs (closest cousins) 🏈
+
+The NFL doesn’t run true triple option as a base offense, but several teams feature meaningful QB-run/option packages.
+
+| NFL team (varies by year) | What matches Option principles    |
+| ------------------------- | --------------------------------- |
+| Baltimore Ravens          | QB run game, read-option elements |
+| Philadelphia Eagles       | QB run/option packages            |
+| Buffalo Bills             | QB run threat + numbers advantage |
+
+---
+
 ## Teams in CFB26 that use an Option playbook (fill this in)
 
 | Team | In-game offensive playbook name | Notes (QB run %, option types, favorite constraint plays) |

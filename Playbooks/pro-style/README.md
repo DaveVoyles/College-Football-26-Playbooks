@@ -432,6 +432,32 @@ This keeps Pro Style from feeling “slow,” while still letting you control th
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+Pro Style is a broad label in college football, but these programs are commonly associated with physical run games, heavier personnel, and play-action staples.
+
+Start here and **verify in-game**:
+
+- Michigan
+- Georgia
+- Alabama
+- Notre Dame
+- Wisconsin
+- Iowa
+
+## NFL analogs (closest cousins) 🏈
+
+“Pro Style” is also a broad NFL label, so think of this as teams that frequently major in a credible run game plus play-action and condensed formations.
+
+| NFL team (varies by year) | What matches Pro Style                            |
+| ------------------------- | ------------------------------------------------- |
+| San Francisco 49ers       | Run-game identity + play-action explosives        |
+| Los Angeles Rams          | Under-center play-action, condensed formations    |
+| Detroit Lions             | Physical run + play-action + intermediate passing |
+| Green Bay Packers         | West Coast-derived pro offense structure          |
+
+---
+
 ## Teams in CFB26 that use a Pro Style playbook (fill this in)
 
 Use this as a living list you update as you confirm playbook assignments in-game.

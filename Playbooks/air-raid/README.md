@@ -439,6 +439,32 @@ This keeps your play calling fast and reduces “random” calls that don’t fi
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+These are programs commonly associated with Air Raid principles historically or in recent eras.
+
+**Verify in-game** (playbook assignments can change), but these are good teams to start checking:
+
+- Texas Tech
+- Washington State
+- Mississippi State
+- Hawaii (Air Raid influence in some eras)
+- Western Kentucky (Air Raid influence)
+- USC / Oklahoma (spread pass influence; not always “pure” Air Raid)
+
+## NFL analogs (closest cousins) 🏈
+
+The NFL rarely runs a “pure” Air Raid, but many teams borrow the spacing/quick-game DNA.
+
+| NFL team (varies by year)                  | What feels Air Raid-ish                       |
+| ------------------------------------------ | --------------------------------------------- |
+| Kansas City Chiefs                         | Spacing, quick game answers, option routes    |
+| Cincinnati Bengals                         | Shot plays off spread looks, rhythm passing   |
+| Buffalo Bills                              | Spread formations + QB-driven quick decisions |
+| Arizona Cardinals (Air Raid-era influence) | Spread/quick-game emphasis in certain seasons |
+
+---
+
 ## Teams in CFB26 that use an Air Raid playbook (fill this in)
 
 Because team playbook assignments can change, this is a **tracking table**.

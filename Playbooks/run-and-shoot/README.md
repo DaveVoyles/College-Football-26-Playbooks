@@ -453,6 +453,28 @@ Goal: you should be able to say “I’m throwing the slot option unless the def
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+Run and Shoot is less common today as a “pure” identity, but these programs are famously associated with it historically.
+
+Start here and **verify in-game**:
+
+- Hawaii (June Jones-era)
+- SMU (historical)
+- Houston (run-and-shoot influence)
+
+## NFL analogs (closest cousins) 🏈
+
+The NFL doesn’t typically label teams “Run and Shoot” anymore, but option/choice routes are everywhere.
+
+| NFL team (varies by year) | What feels Run-and-Shoot-ish                |
+| ------------------------- | ------------------------------------------- |
+| New England Patriots      | Choice routes / option routes as core tools |
+| Kansas City Chiefs        | Option routes + spacing answers             |
+| Green Bay Packers         | Option-route packages + timing              |
+
+---
+
 ## Teams in CFB26 that use a Run and Shoot playbook (fill this in)
 
 | Team | In-game offensive playbook name | Notes (base personnel, option-route frequency, favorite shots) |

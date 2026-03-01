@@ -476,6 +476,30 @@ Adjust on the fly:
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+West Coast is also a broad label in college, but these programs are commonly associated with pro-style timing concepts, boots, and layered progressions.
+
+Start here and **verify in-game**:
+
+- Stanford (historical)
+- Utah
+- Notre Dame
+- BYU
+
+## NFL analogs (closest cousins) 🏈
+
+Modern NFL offenses are largely West Coast-derived. These teams are commonly associated with West Coast timing + YAC principles.
+
+| NFL team (varies by year) | What feels West Coast               |
+| ------------------------- | ----------------------------------- |
+| San Francisco 49ers       | YAC, motion, layered concepts       |
+| Green Bay Packers         | Timing throws, progression concepts |
+| Los Angeles Rams          | Play-action, layered routes         |
+| Minnesota Vikings         | Timing/structure passing            |
+
+---
+
 ## Teams in CFB26 that use a West Coast playbook (fill this in)
 
 | Team | In-game offensive playbook name | Notes (favorite concepts, boot frequency, base personnel) |

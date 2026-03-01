@@ -471,6 +471,32 @@ Practical habits:
 
 ---
 
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+Spread is extremely common, but these programs are widely associated with spread formations, tempo, and RPO/box-count football.
+
+Start here and **verify in-game**:
+
+- Oregon
+- Ohio State
+- Ole Miss
+- TCU
+- Baylor
+- Tennessee
+
+## NFL analogs (closest cousins) 🏈
+
+Most NFL offenses incorporate spread elements now. These teams often lean into spread spacing, motion, and QB-driven answers.
+
+| NFL team (varies by year) | What feels “Spread-ish”            |
+| ------------------------- | ---------------------------------- |
+| Philadelphia Eagles       | Spread formations + QB run package |
+| Buffalo Bills             | Spread spacing + QB run threat     |
+| Kansas City Chiefs        | Spread passing menu + spacing      |
+| Dallas Cowboys            | Shot concepts from spread sets     |
+
+---
+
 ## Teams in CFB26 that use a Spread playbook (fill this in)
 
 | Team | In-game offensive playbook name | Notes (tempo, RPO frequency, QB run presence) |

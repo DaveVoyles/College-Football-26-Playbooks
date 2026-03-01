@@ -349,13 +349,13 @@ If you’re building a Dynasty roster for Veer and Shoot, these are usually the 
 
 If you only keep 12–16 plays favorited, pick them by situation.
 
-| Situation | Calls to favorite |
-| --- | --- |
-| Early downs | inside zone; hitch/now; bubble/now; RPO bubble/glance |
-| Medium (2nd/3rd & 4–6) | stick/spacing; tunnel screen; quick out |
-| Long (3rd & 7+) | seams/verts with checkdown; crosser concept (if available) |
-| Red zone | smash; rub concept; quick slant with leverage; inside zone |
-| Blitz answers | RB swing/flat; quick hitch; screen |
+| Situation              | Calls to favorite                                          |
+| ---------------------- | ---------------------------------------------------------- |
+| Early downs            | inside zone; hitch/now; bubble/now; RPO bubble/glance      |
+| Medium (2nd/3rd & 4–6) | stick/spacing; tunnel screen; quick out                    |
+| Long (3rd & 7+)        | seams/verts with checkdown; crosser concept (if available) |
+| Red zone               | smash; rub concept; quick slant with leverage; inside zone |
+| Blitz answers          | RB swing/flat; quick hitch; screen                         |
 
 This keeps your calls consistent and makes tempo safer because you’re not scrolling and guessing.
 
@@ -385,6 +385,30 @@ Great triggers:
 - Overhang defenders widening hard to screens (seams open behind them)
 
 If you don’t see a trigger, keep stacking efficient plays. The explosive usually arrives because the defense gets impatient.
+
+---
+
+## Teams to check first in CFB26 (real-world scheme fit) 🔍
+
+Veer and Shoot is most often associated with wide splits, tempo, and access throws.
+
+Start here and **verify in-game**:
+
+- Tennessee (Heupel)
+- UCF (Heupel-era)
+- Baylor (Briles-tree concepts)
+- Houston (tempo spread influence)
+
+## NFL analogs (closest cousins) 🏈
+
+The NFL rarely runs a true Veer and Shoot, but several teams use **wide splits + quick access** concepts that can feel similar.
+
+| NFL team (varies by year) | What matches the vibe                                |
+| ------------------------- | ---------------------------------------------------- |
+| Miami Dolphins            | Wide splits / spacing stress + quick throws          |
+| Los Angeles Rams          | Spacing + condensed-to-wide presentation, quick game |
+| Cincinnati Bengals        | Spread spacing + shot timing                         |
+| Kansas City Chiefs        | Space creation + quick answers                       |
 
 ---
 
