@@ -5,14 +5,14 @@ This repo is a **playbook + gameplan reference library** for _EA Sports College 
 Use it to pick a scheme, understand **how it wants to win**, and build a consistent plan (opening script, 3rd down, red zone, 2-minute, etc.).
 
 ```text
-       ___________________________________________
-      |      |      |      |      |      |      |
-      |      |      |      |      |      |      |
-      |  E   |  1   |  2   |  3   |  4   |  E   |
-      |  N   |  0   |  0   |  0   |  0   |  N   |
-      |  D   |      |      |      |      |  D   |
-      |      |      |      |      |      |      |
-      |______|______|______|______|______|______|
+       _______________________________________________________________________
+      |      |      |      |      |      |      |      |      |      |      |
+      |      |      |      |      |      |      |      |      |      |      |
+      |  E   |  1   |  2   |  3   |  4   |  5   |  4   |  3   |  2   |  1   |
+      |  N   |  0   |  0   |  0   |  0   |  0   |  0   |  0   |  0   |  0   |
+      |  D   |      |      |      |      |      |      |      |      |      |
+      |      |      |      |      |      |      |      |      |      |      |
+      |______|______|______|______|______|______|______|______|______|______|
 ```
 
 ## Quick start 🚀
