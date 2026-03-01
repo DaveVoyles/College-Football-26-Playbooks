@@ -1,6 +1,6 @@
 # CFB26 Playbook Library
 
-This repo is a **playbook + gameplan reference library** for _EA Sports College Football 2026_ (CFB26).
+This repo is a **playbook + gameplan reference library** for _EA Sports College Football 2026_ (CFB26) 🏈.
 
 The goal is to make it easy to pick a scheme (Air Raid, Pro Style, etc.), understand **how it wants to win**, and then build a consistent weekly plan:
 
@@ -11,7 +11,7 @@ The goal is to make it easy to pick a scheme (Air Raid, Pro Style, etc.), unders
 
 ## How this repo is organized
 
-- `Playbooks/` — one folder per major offensive playbook style
+- `Playbooks/` — one folder per major offensive playbook style (Air Raid, Pro Style, Spread, Veer and Shoot, West Coast, Option, Run and Shoot)
   - Each style has a long-form guide with:
     - Pros/cons
     - Typical personnel groupings (e.g., 11 personnel = 1 RB / 1 TE / 3 WR)
