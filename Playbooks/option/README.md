@@ -46,6 +46,33 @@ In games, option playbooks typically blend:
 - Some defenses can “scrape exchange” or set hard edges, forcing you to prove you can pass.
 - Turnover risk increases if you get sloppy with pitch/keep timing.
 
+## Sample opening script (Option grind) 📝
+
+The goal is to physically exhaust the DL and frustrate the LBs.
+
+| Play # | Situation / Note       | Concept / Call                     | Why?                                |
+| :----: | ---------------------- | ---------------------------------- | ----------------------------------- |
+| 1      | Opener                 | **Triple Option / Veer**           | Establish the read immediately      |
+| 2      | Constraint             | **Rocket Toss**                    | Beat them to the edge fast          |
+| 3      | Counter                | **F-Counter / Trap**               | Catch LBs flowing to the motion     |
+| 4      | Pass (Surprise)        | **Veer Pass / Pop**                | TE slips behind aggressive LBs      |
+| 5      | Run                    | **Midline Option**                 | Read the DT instead of the DE       |
+| 6      | Run                    | **Triple Option**                  | Repetition breaks the defense       |
+| 7      | Short Yardage          | **FB Dive**                        | 4 yards and a cloud of dust         |
+| 8      | Shot Play              | **Switch Verticals**               | Wheel routes usually wide open      |
+
+## Dynasty Recruiting Guide 🎓
+
+Option recruiting is weird. You don't want "stars"; you want **specific traits**.
+
+| Position | Archetype / Key Stats                 | Why?                                                |
+| :------- | ------------------------------------- | --------------------------------------------------- |
+| **QB**   | **Scrambler** (SPD, ACC, CAR)         | Carrying (CAR) is critical. Fumbles kill this.      |
+| **HB/SB**| **All-Purpose** (SPD, ACC, CTH)       | Speed kills on the pitch. Needs to catch occasionaly.|
+| **FB**   | **Power Back** (TRK, STR, CAR)        | The engine. 20 carries/game inside.                 |
+| **OL**   | **Agile** (ACC, IBL, RBS)             | Need speed to down-block LBs. Size doesn't matter.  |
+| **WR**   | **Blocking** (RBK, IBL, STR)          | If they can't block, they don't play.               |
+
 ---
 
 ## Typical personnel 🧩

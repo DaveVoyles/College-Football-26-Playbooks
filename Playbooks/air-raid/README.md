@@ -43,6 +43,40 @@ It’s at its best when you can reliably throw on early downs, force the defense
 - If your QB is inaccurate under heat, the system can **stall quickly** (incompletions stop clock).
 - Some defenses will sit in **two-high shells** and rally/tackle, forcing you to string long drives.
 
+## Sample 15-play opening script (Air Raid tempo) 📝
+
+The goal is to find the "lazy" defender and throw at him repeatedly.
+
+| Play # | Situation / Note       | Concept / Call                     | Why?                                |
+| :----: | ---------------------- | ---------------------------------- | ----------------------------------- |
+| 1      | Scripted Opener        | **Mesh**                           | Easy completion vs man or zone      |
+| 2      | Tempo Shot             | **4 Verts**                        | Force safeties to back up early     |
+| 3      | Quick Game             | **Stick**                          | Take the free 5 yards if LB retreats|
+| 4      | Screen                 | **Bubble Screen**                  | Punish off-coverage on the outside  |
+| 5      | Run (Honest Work)      | **Zone Read / Draw**               | If the box is light (5 or less)     |
+| 6      | Base Pass              | **Shallow Cross**                  | The bread & butter. High % throw.   |
+| 7      | Shot Play              | **Y-Cross**                        | Hits the intermediate void          |
+| 8      | Quick Game             | **Corner Strike**                  | Beat cover 3 or man                 |
+| 9      | Screen                 | **Tunnel Screen**                  | Slow down the pass rush             |
+| 10     | Base Pass              | **Mesh (Return)**                  | Go back to what works               |
+| 11     | Run (Draw)             | **HB Draw**                        | Catch DL penetrating upfield        |
+| 12     | Red Zone High          | **Spacing**                        | 5-yard hitch windows                |
+| 13     | Goal Line              | **Sprint Out / Whip**              | Create leverage in tight space      |
+| 14     | 2-Point / 4th Down     | **Mesh (Wheel Tag)**               | The ultimate answers play           |
+| 15     | Shot (End of Q1)       | **Post-Wheel**                     | Try to steal a TD                   |
+
+## Dynasty Recruiting Guide 🎓
+
+Air Raid recruiting is about **speed and hands**, not size or blocking strength.
+
+| Position | Archetype / Key Stats                 | Why?                                               |
+| :------- | ------------------------------------- | -------------------------------------------------- |
+| **QB**   | **Improviser** (SAC, MAC, TUP)        | Accuracy > arm strength. Must throw under pressure.|
+| **HB**   | **Receiving Back** (CTH, CIT, SRR)    | Basically a 5th WR in this offense.                |
+| **WR**   | **Route Runner** (SRR, MRR, REL)      | Separation is everything. Need 10+ recruits here.  |
+| **TE**   | **Vertical Threat** (SPD, CTH)        | Doesn't need to block. Needs to win seam routes.   |
+| **OL**   | **Pass Protector** (PBP, PBF, AWR)    | They will pass set 50 times a game.                |
+
 ---
 
 ## Typical personnel (who’s on the field) 🧩

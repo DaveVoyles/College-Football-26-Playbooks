@@ -509,23 +509,23 @@ This keeps Pro Style from feeling “slow,” while still letting you control th
 
 The goal of a Pro Style script is to established the run and force the defense to bring a safety down.
 
-| Play # | Situation / Note         | Concept / Call                     | Why?                                   |
-| :----: | ------------------------ | ---------------------------------- | -------------------------------------- |
-| 1      | Scripted Opener (Safe)   | **Inside Zone** (Strong side)      | Test the interior DL strength          |
-| 2      | Scripted shot (PA?)      | **PA Crossers / Boot**             | Punish LBs for stepping up on play 1   |
-| 3      | Run: Base concept        | **Duo / Power**                    | Establish physical downhill presence   |
-| 4      | Quick game / RPO         | **Stick / Quick Out**              | Easy completion if they play off       |
-| 5      | Run: Counter/Power       | **Counter GY**                     | Show a different run blocking scheme   |
-| 6      | Shot play (Deep)         | **Yankee (Post + Cross)**          | Max protect deep shot                  |
-| 7      | Screen / Draw            | **Slip Screen**                    | Catch aggressive pass rushers          |
-| 8      | Base Pass                | **Mesh / Shallow Cross**           | Man-beater/zone-beater (safe yards)    |
-| 9      | Check with me (Audible)  | **Run/Pass Check**                 | Let QB verify coverage at the line     |
-| 10     | Run: Left hash           | **Stretch / Outside Zone**         | Force the defense to run sideline-to-sideline |
-| 11     | Run: Right hash          | **Cutback Zone**                   | Exploit over-pursuit                   |
-| 12     | Play-Action Boot         | **Naked Boot / Slide**             | Get QB on the edge for easy throw/run  |
-| 13     | Trick / Special          | **Reverse / Flea Flicker**         | High risk/reward if they are biting    |
-| 14     | 2-Minute Drill practice  | **4 Verts / Seams**                | Stress the deep safeties               |
-| 15     | 4-Minute Drill practice  | **Power / Jumbo Run**              | Practice closing out the game          |
+| Play # | Situation / Note        | Concept / Call                | Why?                                          |
+| :----: | ----------------------- | ----------------------------- | --------------------------------------------- |
+|   1    | Scripted Opener (Safe)  | **Inside Zone** (Strong side) | Test the interior DL strength                 |
+|   2    | Scripted shot (PA?)     | **PA Crossers / Boot**        | Punish LBs for stepping up on play 1          |
+|   3    | Run: Base concept       | **Duo / Power**               | Establish physical downhill presence          |
+|   4    | Quick game / RPO        | **Stick / Quick Out**         | Easy completion if they play off              |
+|   5    | Run: Counter/Power      | **Counter GY**                | Show a different run blocking scheme          |
+|   6    | Shot play (Deep)        | **Yankee (Post + Cross)**     | Max protect deep shot                         |
+|   7    | Screen / Draw           | **Slip Screen**               | Catch aggressive pass rushers                 |
+|   8    | Base Pass               | **Mesh / Shallow Cross**      | Man-beater/zone-beater (safe yards)           |
+|   9    | Check with me (Audible) | **Run/Pass Check**            | Let QB verify coverage at the line            |
+|   10   | Run: Left hash          | **Stretch / Outside Zone**    | Force the defense to run sideline-to-sideline |
+|   11   | Run: Right hash         | **Cutback Zone**              | Exploit over-pursuit                          |
+|   12   | Play-Action Boot        | **Naked Boot / Slide**        | Get QB on the edge for easy throw/run         |
+|   13   | Trick / Special         | **Reverse / Flea Flicker**    | High risk/reward if they are biting           |
+|   14   | 2-Minute Drill practice | **4 Verts / Seams**           | Stress the deep safeties                      |
+|   15   | 4-Minute Drill practice | **Power / Jumbo Run**         | Practice closing out the game                 |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -535,6 +535,18 @@ If you played a true Pro Style game, your stats should look like this:
 - **Play-Action Yards:** > 30% of Total Passing Yards
 - **Time of Possession:** > 55% (Control the clock)
 - **Turnovers:** < 2 (Ball security is paramount)
+
+## Dynasty Recruiting Guide 🎓
+
+If you run Pro Style, prioritize these archetypes:
+
+| Position | Archetype / Key Stats                 | Why?                                                |
+| :------- | ------------------------------------- | --------------------------------------------------- |
+| **QB**   | **Field General** (THP, DAC, PAC)     | Needs to hit deep PA shots + intermediate windows.  |
+| **HB**   | **Power Back** (TRK, BTK, SFA)        | Must fall forward for 4 yards on 1st & 10.          |
+| **TE**   | **Blocking** (RBK, PBK, STR)          | You need two. One must be a glorified tackle.       |
+| **WR**   | **Deep Threat** (SPD, DRR)            | Just one speedster to blow the top off post-PA.     |
+| **OL**   | **Power** (STR, RBP, IBL)             | Moving people against their will is the whole plan. |
 
 ---
 
