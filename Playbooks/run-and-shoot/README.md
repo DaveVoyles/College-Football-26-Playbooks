@@ -1,6 +1,6 @@
-# Run and Shoot (CFB26 Playbook Style)
+# Run and Shoot 🎲 (CFB26 Playbook Style)
 
-## Quick definition
+## Quick definition 🧠
 
 The Run and Shoot is a **spread passing offense** built around:
 
@@ -13,13 +13,13 @@ Unlike many systems where routes are fixed, Run and Shoot asks:
 - WRs to read coverage and convert routes
 - QBs to throw to space, not to a pre-called spot
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Stress the defense with four vertical threats and option routes until someone is wrong—then throw it there immediately.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -37,7 +37,7 @@ Unlike many systems where routes are fixed, Run and Shoot asks:
 
 ---
 
-## Typical personnel
+## Typical personnel 🧩
 
 Classic Run and Shoot lives in:
 
@@ -48,6 +48,13 @@ Common modern variants also use:
 - **11 personnel**: 1 RB, 1 TE, 3 WR
   - Gives a seam/flat element and helps protection.
 
+### Personnel cheat table
+
+| Personnel | On-field           | Why you’d use it in Run and Shoot            |
+| --------- | ------------------ | -------------------------------------------- |
+| 10        | 1 RB / 4 WR        | Classic spacing; maximum option-route stress |
+| 11        | 1 RB / 1 TE / 3 WR | Adds protection help + seam/flat answers     |
+
 ### Role archetypes
 
 - **QB:** quick release, strong short/intermediate accuracy, calm under pressure.
@@ -57,7 +64,7 @@ Common modern variants also use:
 
 ---
 
-## Typical formations
+## Typical formations 📐
 
 Run and Shoot is more about **alignment rules** than lots of formations.
 
@@ -69,6 +76,15 @@ Common families:
 - Stack/slot variations (if the playbook has them)
 
 Suggested “small menu”:
+
+### Formation families (quick pick table)
+
+| Family            | What it’s great for                             | When to lean on it                   |
+| ----------------- | ----------------------------------------------- | ------------------------------------ |
+| Gun Spread / Wide | Core spacing + option routes + vertical stress  | Base menu                            |
+| Gun Trips         | Matchup creation + switch releases              | When you want to isolate a defender  |
+| Gun Empty         | Fast reads; 2-minute; pressure identification   | 3rd-and-long; end-of-half            |
+| Stacks/slots      | Helps vs press; stresses match coverage rules   | Red zone; vs man-heavy defenses      |
 
 - Major: 2x2 spread + trips
 - Minor: empty for 3rd-and-long and 2-minute

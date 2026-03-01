@@ -1,6 +1,6 @@
-# Air Raid (CFB26 Playbook Style)
+# Air Raid 🎯 (CFB26 Playbook Style)
 
-## Quick definition
+## Quick definition 🧠
 
 The Air Raid is a **spread passing system** built on:
 
@@ -11,13 +11,13 @@ The Air Raid is a **spread passing system** built on:
 
 It’s at its best when you can reliably throw on early downs, force the defense to widen, and then **run into light boxes**.
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Throw efficient, high-percentage routes until the defense breaks, then hit the seam or the deep shot.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -36,7 +36,7 @@ It’s at its best when you can reliably throw on early downs, force the defense
 
 ---
 
-## Typical personnel (who’s on the field)
+## Typical personnel (who’s on the field) 🧩
 
 Air Raid playbooks commonly live in:
 
@@ -49,6 +49,14 @@ Air Raid playbooks commonly live in:
 - **20 personnel**: 2 RB, 0 TE, 3 WR
   - Used for “pony” packages (two backs) to force mismatches.
 
+### Personnel cheat table
+
+| Personnel | On-field           | Why you’d use it in Air Raid                          |
+| --------- | ------------------ | ----------------------------------------------------- |
+| 10        | 1 RB / 4 WR        | Maximum spacing; quick game and empty variations      |
+| 11        | 1 RB / 1 TE / 3 WR | Balanced base; seams/benders + better protection help |
+| 20        | 2 RB / 3 WR        | Pony mismatches; easy checkdowns and pass-pro options |
+
 ### Role archetypes (more useful than position labels)
 
 - **QB:** accurate short-to-intermediate, quick decision-maker, calm vs pressure.
@@ -59,7 +67,7 @@ Air Raid playbooks commonly live in:
 
 ---
 
-## Typical formations (what you should major in)
+## Typical formations (what you should major in) 📐
 
 You don’t need many. Pick a small “family” and get great at it.
 
@@ -69,6 +77,15 @@ You don’t need many. Pick a small “family” and get great at it.
 - **Gun Doubles (2x2)**: mesh, Y-cross, four verts, shallow.
 - **Gun Empty**: quick game, spacing, option routes, quick outs.
 - **Gun Bunch**: natural picks/rubs, flood, corner routes, quick screens.
+
+### Formation families (quick pick table)
+
+| Family            | What it’s great for                                  | When to lean on it             |
+| ----------------- | ---------------------------------------------------- | ------------------------------ |
+| Gun Trips         | Spacing/stick/verts; consistent reads                | Early downs; tempo drives      |
+| Gun Doubles (2x2) | Mesh/Y-Cross/verts; balanced access                  | Base menu; 3rd-and-medium      |
+| Gun Empty         | Quick game; option routes; fast “get it out” answers | 2-minute; vs heavy blitz looks |
+| Gun Bunch         | Rubs/picks; flood; red zone spacing                  | Red zone; short yardage passes |
 
 **A simple “major/minor” menu:**
 

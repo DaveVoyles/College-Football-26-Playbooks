@@ -1,6 +1,6 @@
-# Option (Spread / Triple Option) — CFB26 Playbook Style
+# Option 🏃‍♂️🧠 (Spread / Triple Option) — CFB26 Playbook Style
 
-## Quick definition
+## Quick definition 🧠
 
 “Option” isn’t one formation—it’s a **decision-based run game**.
 
@@ -15,13 +15,13 @@ In games, option playbooks typically blend:
 - **spread option** (gun reads, QB keepers, RPO tags)
 - **traditional option** (speed option, triple option, flexbone variants)
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Create a numbers advantage in the run game every snap, then hit constraint passes when the defense overreacts.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -40,7 +40,7 @@ In games, option playbooks typically blend:
 
 ---
 
-## Typical personnel
+## Typical personnel 🧩
 
 Option systems vary more than other styles. Common groupings:
 
@@ -50,6 +50,14 @@ Option systems vary more than other styles. Common groupings:
   - Great for speed option and misdirection.
 - **21 personnel**: 2 RB, 1 TE, 2 WR
   - More downhill QB run + lead concepts.
+
+### Personnel cheat table
+
+| Personnel | On-field           | Why you’d use it in Option                              |
+| --------- | ------------------ | ------------------------------------------------------- |
+| 11        | 1 RB / 1 TE / 3 WR | Spread option base: zone read, RPO, QB keep             |
+| 20        | 2 RB / 3 WR        | Speed option/misdirection; pitch relationships in space |
+| 21        | 2 RB / 1 TE / 2 WR | More downhill; lead blockers; short yardage QB run menu |
 
 Traditional option variants sometimes use heavier looks (not always labeled cleanly in-game), but the “idea” is:
 
@@ -66,7 +74,7 @@ Traditional option variants sometimes use heavier looks (not always labeled clea
 
 ---
 
-## Option fundamentals (the rules that make it work)
+## Option fundamentals (the rules that make it work) 🧠
 
 ### Rule #1: know who you’re reading
 
@@ -77,6 +85,14 @@ Common read keys:
 - backside defensive end (zone read)
 - play-side end/outside linebacker (speed option)
 - first man outside the tackle (triple option)
+
+### Read-key cheat table
+
+| Play family   | Typical read key        | Your decision                                   |
+| ------------- | ----------------------- | ----------------------------------------------- |
+| Zone read     | Backside DE             | Give vs squeeze/crash • Keep vs slow/play wide  |
+| Speed option  | Play-side edge (DE/OLB) | Pitch if he takes QB • Keep if he takes pitch   |
+| Triple option | Dive key + pitch key    | Give/keep/pitch based on first commitment       |
 
 If you can’t identify the key pre-snap, don’t call the play.
 

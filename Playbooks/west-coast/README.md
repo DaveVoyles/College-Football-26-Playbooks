@@ -1,6 +1,6 @@
-# West Coast (CFB26 Playbook Style)
+# West Coast 🌊 (CFB26 Playbook Style)
 
-## Quick definition
+## Quick definition 🧠
 
 The West Coast offense is a **timing + rhythm passing system** that treats:
 
@@ -14,13 +14,13 @@ Compared to Air Raid, West Coast is often more:
 - progression-based (1–2–3 reads)
 - route-combo specific (concept names matter)
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Win with on-time throws into defined windows, then let your skill players create YAC.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -39,7 +39,7 @@ Compared to Air Raid, West Coast is often more:
 
 ---
 
-## Typical personnel
+## Typical personnel 🧩
 
 Common West Coast bases:
 
@@ -50,6 +50,14 @@ Common West Coast bases:
 - **21 personnel**: 2 RB, 1 TE, 2 WR
   - Classic pro feel; good for boots and play-action.
 
+### Personnel cheat table
+
+| Personnel | On-field           | Why you’d use it in West Coast                         |
+| --------- | ------------------ | ------------------------------------------------------ |
+| 11        | 1 RB / 1 TE / 3 WR | Best all-around rhythm menu + spacing                  |
+| 12        | 1 RB / 2 TE / 2 WR | Stronger run look; more boots; TE-centric progressions |
+| 21        | 2 RB / 1 TE / 2 WR | Classic play-action structure; strong protection looks |
+
 ### Role archetypes
 
 - **QB:** accurate on short/intermediate, good anticipation.
@@ -59,7 +67,7 @@ Common West Coast bases:
 
 ---
 
-## Typical formations
+## Typical formations 📐
 
 West Coast playbooks often include:
 
@@ -67,6 +75,15 @@ West Coast playbooks often include:
 - I-Form (select packages)
 - Gun (11 personnel for modern variants)
 - Strong/Weak two-back sets (in some books)
+
+### Formation families (quick pick table)
+
+| Family                 | What it’s great for                               | When to lean on it                   |
+| ---------------------- | ------------------------------------------------- | ------------------------------------ |
+| Singleback (Ace/Wing)  | Core boots + play-action + balanced run game      | Base menu; early downs               |
+| Gun 11 (packages)      | Modern rhythm throws; quick answers vs pressure   | 2-minute; when behind; 3rd down      |
+| I-Form (packages)      | Physicality and short yardage; tendency breakers  | Short yardage; red zone              |
+| Strong/Weak (two-back) | Defined fits; easy PA off downhill looks          | When you want FB/H-back involvement  |
 
 Suggested approach:
 

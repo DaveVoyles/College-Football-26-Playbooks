@@ -1,6 +1,6 @@
-# Pro Style (CFB26 Playbook Style)
+# Pro Style 🧱 (CFB26 Playbook Style)
 
-## Quick definition
+## Quick definition 🧠
 
 “Pro Style” is a **balanced offense** that wants to:
 
@@ -10,13 +10,13 @@
 
 In video game terms, Pro Style is often the best “do everything” identity if you enjoy **huddling, shifting, and setting up tendencies**.
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Run the ball with physicality, force the defense into the box, then punish them with play-action and isolation routes.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -35,7 +35,7 @@ In video game terms, Pro Style is often the best “do everything” identity if
 
 ---
 
-## Typical personnel (who’s on the field)
+## Typical personnel (who’s on the field) 🧩
 
 Pro Style playbooks commonly major in heavier groupings:
 
@@ -47,6 +47,15 @@ Pro Style playbooks commonly major in heavier groupings:
   - Used for 2-minute, obvious pass, or to lighten the box after pounding.
 - **22 personnel**: 2 RB, 2 TE, 1 WR
   - Short yardage and goal line.
+
+### Personnel cheat table
+
+| Personnel | On-field           | What it’s best for in Pro Style                         |
+| --------- | ------------------ | ------------------------------------------------------- |
+| 12        | 1 RB / 2 TE / 2 WR | Modern base; credible run looks + strong play-action    |
+| 21        | 2 RB / 1 TE / 2 WR | Downhill runs; lead blocks; short yardage and goal line |
+| 11        | 1 RB / 1 TE / 3 WR | Comeback/2-minute; spreads out stacked boxes            |
+| 22        | 2 RB / 2 TE / 1 WR | True heavy package; goal line / “get 2 yards” football  |
 
 ### Role archetypes
 
@@ -60,7 +69,7 @@ Pro Style playbooks commonly major in heavier groupings:
 
 ---
 
-## Typical formations
+## Typical formations 📐
 
 “Pro Style” in EA-style games usually includes a mix of:
 
@@ -70,6 +79,16 @@ Pro Style playbooks commonly major in heavier groupings:
 - **Pistol** (in some pro-style books)
 - **Gun** (11 personnel packages)
 
+### Formation families (quick pick table)
+
+| Family                 | Why it’s in Pro Style                                                | When to lean on it                                  |
+| ---------------------- | -------------------------------------------------------------------- | --------------------------------------------------- |
+| I-Form / Strong-I      | Downhill identity; easy short-yardage calls                           | Ahead / short yardage / red zone                    |
+| Singleback (Ace/Wing)  | Versatile; lots of run looks + boot/play-action                       | Neutral script / early downs                        |
+| Strong/Weak (two-back) | Forces box fits and personnel responses                               | When you want mismatch via FB/H-back                |
+| Pistol (if available)  | Keeps downhill run feel with quicker shotgun access                   | Mixed tempo; QB run tags if you have them           |
+| Gun 11 (packages)      | Spreads out stacked boxes; clean 3rd down / 2-minute menu             | When behind / long down-and-distance                |
+
 ### A simple structure that works
 
 - Major: Singleback + I-Form
@@ -77,9 +96,18 @@ Pro Style playbooks commonly major in heavier groupings:
 
 ---
 
-## Core run game families
+## Core run game families 🏃
 
 You’ll be most consistent if you pick **two run families** and build everything off them.
+
+### Run family cheat table
+
+| Family                 | Why you want it                                                      | Best complements                      |
+| ---------------------- | -------------------------------------------------------------------- | ------------------------------------ |
+| Inside zone / split    | Stay on schedule; works from almost any personnel                    | Play-action crossers; boot flood      |
+| Power / counter        | Defined angles; physical identity; great in short yardage            | Boot/play-action; shot concepts       |
+| Stretch / outside zone | Forces pursuit; creates cutbacks                                     | Play-action keepers; TE leak          |
+| Duo (if available)     | Downhill double teams; “zone look, power feel”                       | PA seams/corners; quick flats         |
 
 ### 1) Inside zone / split zone
 
@@ -108,7 +136,17 @@ You’ll be most consistent if you pick **two run families** and build everythin
 
 ---
 
-## Core pass game families
+## Core pass game families 🧨
+
+### Pass family cheat table
+
+| Family / concept         | What it gives you                 | When to call                                     |
+| ------------------------ | --------------------------------- | ----------------------------------------------- |
+| PA deep cross / Yankee   | Explosives off LB/safety trigger  | After successful runs; 1st down near midfield   |
+| Boot / rollout flood     | Easy layered read; move pocket    | Early downs; vs heavy rush; “need a completion” |
+| Dagger (dig + clear-out) | Reliable intermediate chunk       | 3rd & 6–10; vs two-high                          |
+| Smash / corners          | Sideline + red zone beater        | Red zone; vs Cover 2 looks                       |
+| Screens/checkdowns       | Blitz punish + drive sustain      | vs pressure; when defense overplays deep shots   |
 
 ### 1) Play-action deep cross / Yankee concepts
 
@@ -155,7 +193,17 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 ---
 
-## Building your Pro Style call sheet (practical CFB26 plan)
+## Building your Pro Style call sheet (practical CFB26 plan) 🗂️
+
+### Situational call sheet table
+
+| Situation   | Go-to calls (examples)                                                   | Point of emphasis                        |
+| ----------- | ----------------------------------------------------------------------- | --------------------------------------- |
+| Early downs | Inside zone, power/counter, boot flood, PA cross (sprinkle)              | Stay on schedule; force safety trigger  |
+| 2nd & short | PA shot (post/cross), max protect dig, outside zone PA                   | Attack; don’t “waste” advantage         |
+| 3rd down    | 1–2: power/sneak/flat • 3–6: boot/smash • 7+: dagger/deep cross/mesh     | Know your money concept by distance     |
+| Red zone    | Heavy run, PA TE corner/leak, fades/stops, bunch rubs                    | Condensed field: win leverage quickly   |
+| Backed up   | Inside zone, boot to flat, safe quick game                               | Avoid sacks/TFLs; take easy completions |
 
 ### Early downs (establish identity)
 
@@ -194,7 +242,14 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 ---
 
-## “If they do X, I do Y” (defensive answers)
+## “If they do X, I do Y” (defensive answers) 🛡️
+
+| Defensive look/problem      | Your answer                                 | Notes                                    |
+| --------------------------- | ------------------------------------------- | ---------------------------------------- |
+| Light box (two-high, dime)  | Run until they stop it; add stretch         | Make them add a fitter                   |
+| Aggressive LBs crashing run | PA crossers/seams; leak opposite run action | Throw where they vacated                 |
+| Cover 3 / single-high zone  | Flood/deep outs; posts if you can protect   | Stress the seams and outside thirds      |
+| Heavy blitz tendency        | Max protect + 1-on-1 shot; screens          | Don’t drift; take the cheap answer early |
 
 ### They play light box (two-high, dime)
 
@@ -219,13 +274,15 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 ---
 
-## Roster building priorities
+## Roster building priorities 🧬
 
-1. **Offensive line** (tackles especially)
-2. **RB who falls forward** (contact balance / break tackle)
-3. **TE who can block** (so your formations are credible)
-4. **One true X receiver** (beats press and wins digs/fades)
-5. **QB play-action + mid/deep accuracy**
+| Priority | What to target                          | Why it matters in Pro Style                               |
+| -------- | --------------------------------------- | --------------------------------------------------------- |
+| 1        | Offensive line (tackles especially)     | Protects longer play-action; keeps run game on schedule    |
+| 2        | RB who falls forward (contact balance)  | Turns 2-yard plays into 4; keeps 2nd/3rd down manageable   |
+| 3        | TE who can block (credible run looks)   | Makes heavy personnel real; improves PA and edges          |
+| 4        | True X receiver (wins 1-on-1)           | Punishes loaded boxes with isolations and comebacks/digs   |
+| 5        | QB with play-action + mid/deep accuracy | Converts your “setup” into explosives                      |
 
 ---
 

@@ -1,6 +1,6 @@
-# Spread (CFB26 Playbook Style)
+# Spread 🏃‍♂️💨 (CFB26 Playbook Style)
 
-## Quick definition
+## Quick definition 🧠
 
 The Spread is a **space-creating offense** that widens the defense horizontally so you can:
 
@@ -14,13 +14,13 @@ Different teams “spread” differently. In games, the most common flavors are:
 - **Spread-to-throw** (quick game, screens, option routes)
 - **Balanced spread** (a bit of both)
 
-## The identity (one sentence)
+## The identity (one sentence) 🎯
 
 **Force the defense to defend every blade of grass, then take the easiest yards available on every snap.**
 
 ---
 
-## Pros and cons
+## Pros ✅ and cons ⚠️
 
 ### Pros
 
@@ -39,7 +39,7 @@ Different teams “spread” differently. In games, the most common flavors are:
 
 ---
 
-## Typical personnel (who’s on the field)
+## Typical personnel (who’s on the field) 🧩
 
 Spread playbooks commonly live in:
 
@@ -50,6 +50,14 @@ Spread playbooks commonly live in:
 - **20 personnel**: 2 RB, 0 TE, 3 WR
   - “Pony” sets create mismatch headaches.
 
+### Personnel cheat table
+
+| Personnel | On-field           | Why you’d use it in Spread                        |
+| --------- | ------------------ | ------------------------------------------------- |
+| 11        | 1 RB / 1 TE / 3 WR | Best all-around base for RPO + zone + play-action |
+| 10        | 1 RB / 4 WR        | Maximum spacing; easiest box-count decisions      |
+| 20        | 2 RB / 3 WR        | Pony mismatches; motion; option/RPO variants      |
+
 ### Role archetypes
 
 - **QB:** quick processor, accurate short, plus mobility (even if not a true runner).
@@ -59,7 +67,7 @@ Spread playbooks commonly live in:
 
 ---
 
-## Typical formations
+## Typical formations 📐
 
 Spread in CFB-style playbooks often centers on:
 
@@ -68,6 +76,16 @@ Spread in CFB-style playbooks often centers on:
 - **Gun Spread / Wide** (max splits)
 - **Gun Empty** (situational)
 - **Pistol Spread** (in some books)
+
+### Formation families (quick pick table)
+
+| Family                   | What it’s great for                             | When to lean on it                    |
+| ------------------------ | ----------------------------------------------- | ------------------------------------ |
+| Gun Trips / Trips Offset | RPOs, quick game, simple box-count reads        | Base menu; tempo                      |
+| Gun Doubles (2x2)        | Balanced run/pass; mesh and intermediate reads  | 3rd-and-medium; “stay on schedule”    |
+| Gun Spread / Wide        | Max spacing; screens + light-box runs           | When defense is packed inside         |
+| Empty (situational)      | Quick answers; option routes; 2-minute          | 3rd-and-long; end-of-half             |
+| Pistol (if present)      | Downhill run feel with spread spacing           | Mix-up; QB run tags                   |
 
 ### Suggested “small menu”
 
