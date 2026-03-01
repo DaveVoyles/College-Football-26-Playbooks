@@ -1,16 +1,16 @@
-# Playbooks (Offensive Scheme Families)
+# Playbooks (Offensive Scheme Families) 📚
 
 Each folder contains one long-form scheme guide.
 
-## Major styles
+## Major styles 🏈
 
-- [Air Raid](air-raid/README.md)
-- [Pro Style](pro-style/README.md)
-- [Spread](spread/README.md)
-- [Veer and Shoot](veer-and-shoot/README.md)
-- [West Coast](west-coast/README.md)
-- [Option (Spread/Triple)](option/README.md)
-- [Run and Shoot](run-and-shoot/README.md)
+- 🎯 [Air Raid](air-raid/README.md)
+- 🧱 [Pro Style](pro-style/README.md)
+- 🏃 [Spread](spread/README.md)
+- 🚀 [Veer and Shoot](veer-and-shoot/README.md)
+- 🌊 [West Coast](west-coast/README.md)
+- 🦵 [Option (Spread/Triple)](option/README.md)
+- 🎲 [Run and Shoot](run-and-shoot/README.md)
 
 ## Scheme comparison (at a glance) 🧠
 
