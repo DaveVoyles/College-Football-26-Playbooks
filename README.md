@@ -30,18 +30,6 @@ Use it to pick a scheme, understand **how it wants to win**, and build a consist
 - 🏃‍♂️ [Route Concepts & Coverage Cheat Sheet](ROUTE_CONCEPTS.md) (When to throw what)
 - 📝 [Weekly Gameplan & Call Sheet Template](Playbooks/_templates/Call_Sheet_Template.md) (Copy this to plan your games)
 
-## Pick a scheme (fast chooser) 🧭
-
-| If you like…                     | Start with…                                          | Why                                          | Typical personnel (RB/TE/WR) |
-| -------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ---------------------------- |
-| Quick passes + spacing           | [Air Raid](Playbooks/air-raid/README.md)             | High repetition, answers vs pressure         | 10 / 11                      |
-| Physical run + play-action       | [Pro Style](Playbooks/pro-style/README.md)           | Controls tempo, strong red zone              | 12 / 21                      |
-| RPOs + box-count football        | [Spread](Playbooks/spread/README.md)                 | Easy run/pass decisions, tempo-friendly      | 10 / 11                      |
-| Wide splits + tempo + free yards | [Veer and Shoot](Playbooks/veer-and-shoot/README.md) | Access throws + inside zone into light boxes | 10 / 11                      |
-| Rhythm throws + YAC              | [West Coast](Playbooks/west-coast/README.md)         | Timing concepts, layered progressions        | 11 / 12 / 21                 |
-| QB as a runner (read/pitch)      | [Option](Playbooks/option/README.md)                 | Numbers advantage in the run game            | 11 / 20 / 21                 |
-| Option routes + explosives       | [Run and Shoot](Playbooks/run-and-shoot/README.md)   | Leverage reads, big plays off mistakes       | 10 / 11                      |
-
 ## Scheme comparison (at a glance) 🧠
 
 These are **starting points**.
