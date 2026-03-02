@@ -61,11 +61,11 @@ Common West Coast bases:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in West Coast                         |
-| --------- | ------------------ | ------------------------------------------------------ |
-| 11        | 1 RB / 1 TE / 3 WR | Best all-around rhythm menu + spacing                  |
-| 12        | 1 RB / 2 TE / 2 WR | Stronger run look; more boots; TE-centric progressions |
-| 21        | 2 RB / 1 TE / 2 WR | Classic play-action structure; strong protection looks |
+| **Personnel** | **On-field**       | **Why you’d use it in West Coast**                     |
+| ------------- | ------------------ | ------------------------------------------------------ |
+| 11            | 1 RB / 1 TE / 3 WR | Best all-around rhythm menu + spacing                  |
+| 12            | 1 RB / 2 TE / 2 WR | Stronger run look; more boots; TE-centric progressions |
+| 21            | 2 RB / 1 TE / 2 WR | Classic play-action structure; strong protection looks |
 
 ### Role archetypes
 
@@ -87,7 +87,7 @@ West Coast playbooks often include:
 
 ### Formation families (quick pick table)
 
-| Family                 | What it’s great for                              | When to lean on it                  |
+| **Family**             | **What it’s great for**                          | **When to lean on it**              |
 | ---------------------- | ------------------------------------------------ | ----------------------------------- |
 | Singleback (Ace/Wing)  | Core boots + play-action + balanced run game     | Base menu; early downs              |
 | Gun 11 (packages)      | Modern rhythm throws; quick answers vs pressure  | 2-minute; when behind; 3rd down     |
@@ -511,23 +511,23 @@ Adjust on the fly:
 
 The West Coast offense is about rhythm. The first drive must get the QB comfortable and the defense moving laterally.
 
-| Play # | Situation / Note       | Concept / Call             | Why?                                         |
-| :----: | ---------------------- | -------------------------- | -------------------------------------------- |
-|   1    | Scripted Opener (Safe) | **Slant / Flat**           | Easy read, gets the ball out fast            |
-|   2    | Rhythm Throws          | **Stick / Spacing**        | Force LBs to widen or freeze                 |
-|   3    | Run: Base Zone         | **Inside Zone**            | Keep the DL honest                           |
-|   4    | Quick Game             | **Dragon (Slant/Window)**  | Attack the middle voids                      |
-|   5    | Screen                 | **HB Slip Screen**         | Punish aggressive pass rush                  |
-|   6    | Base Concept           | **Mesh**                   | Man-beater staple; easy yards                |
-|   7    | Run: Outside           | **Stretch / Toss**         | Test their perimeter discipline              |
-|   8    | Play-Action Shot       | **PA Post / Cross**        | Capitalize on LBs biting up on the run/short |
-|   9    | Intermediate           | **Drive (Shallow + Dig)**  | High-low the LBs                             |
-|   10   | Run: Cutback           | **Split Zone**             | Misdirection with the TE                     |
-|   11   | Checkdown / Outlet     | **Texas (RB Angle)**       | Isolate the RB on a LB                       |
-|   12   | Deep Shot              | **All Go / 4 Verts**       | Stretch the field vertically                 |
-|   13   | Red Zone Prep          | **Smash (Hitch + Corner)** | High-low the CB                              |
-|   14   | 3rd Down Call          | **Levels / Y-Sail**        | Flood a zone with 3 levels of routes         |
-|   15   | Goal Line              | **FB Dive / QB Sneak**     | Simple, physical finish                      |
+| **Play #** | **Situation / Note**   | **Concept / Call**         | **Why?**                                        |
+| :--------: | ---------------------- | -------------------------- | ----------------------------------------------- |
+|     1      | Scripted Opener (Safe) | **Slant / Flat**           | 🟢 Easy read, gets the ball out fast            |
+|     2      | Rhythm Throws          | **Stick / Spacing**        | 🟢 Force LBs to widen or freeze                 |
+|     3      | Run: Base Zone         | **Inside Zone**            | 🟡 Keep the DL honest                           |
+|     4      | Quick Game             | **Dragon (Slant/Window)**  | 🟢 Attack the middle voids                      |
+|     5      | Screen                 | **HB Slip Screen**         | 🟡 Punish aggressive pass rush                  |
+|     6      | Base Concept           | **Mesh**                   | 🟢 Man-beater staple; easy yards                |
+|     7      | Run: Outside           | **Stretch / Toss**         | 🟡 Test their perimeter discipline              |
+|     8      | Play-Action Shot       | **PA Post / Cross**        | 🔴 Capitalize on LBs biting up on the run/short |
+|     9      | Intermediate           | **Drive (Shallow + Dig)**  | 🟢 High-low the LBs                             |
+|     10     | Run: Cutback           | **Split Zone**             | 🟡 Misdirection with the TE                     |
+|     11     | Checkdown / Outlet     | **Texas (RB Angle)**       | 🟢 Isolate the RB on a LB                       |
+|     12     | Deep Shot              | **All Go / 4 Verts**       | 🔴 Stretch the field vertically                 |
+|     13     | Red Zone Prep          | **Smash (Hitch + Corner)** | 🟢 High-low the CB                              |
+|     14     | 3rd Down Call          | **Levels / Y-Sail**        | 🟢 Flood a zone with 3 levels of routes         |
+|     15     | Goal Line              | **FB Dive / QB Sneak**     | 🟢 Simple, physical finish                      |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -542,13 +542,13 @@ If you played a true West Coast game, your stats should look like this:
 
 If you run the West Coast, prioritize these archetypes:
 
-| Position | Archetype / Key Stats            | Why?                                                |
-| :------- | -------------------------------- | --------------------------------------------------- |
-| **QB**   | **Field General** (SAC, MAC)     | Short/Medium accuracy is non-negotiable.            |
-| **HB**   | **Receiving Back** (CTH, SRR)    | Your RB is your 5th receiver. They get 5+ catches.  |
-| **TE**   | **Possession** (CTH, CIT)        | Safety valve over the middle. Hands > Speed.        |
-| **WR**   | **Route Runner** (SRR, MRR, CTH) | Separation is created by cuts, not just speed.      |
-| **OL**   | **Pass Protector** (PBP, PBF)    | Quick sets are key; don't need maulers, need walls. |
+| **Position** | **Archetype / Key Stats**        | **Why?**                                               |
+| :----------- | -------------------------------- | ------------------------------------------------------ |
+| **QB**       | **Field General** (SAC, MAC)     | 🧠 Short/Medium accuracy is non-negotiable.            |
+| **HB**       | **Receiving Back** (CTH, SRR)    | 🏃 Your RB is your 5th receiver. They get 5+ catches.  |
+| **TE**       | **Possession** (CTH, CIT)        | 🧲 Safety valve over the middle. Hands > Speed.        |
+| **WR**       | **Route Runner** (SRR, MRR, CTH) | 🧤 Separation is created by cuts, not just speed.      |
+| **OL**       | **Pass Protector** (PBP, PBF)    | 🧱 Quick sets are key; don't need maulers, need walls. |
 
 ---
 
@@ -567,22 +567,22 @@ Start here and **verify in-game**:
 
 Modern NFL offenses are largely West Coast-derived. These teams are commonly associated with West Coast timing + YAC principles.
 
-| NFL team (varies by year) | What feels West Coast               |
-| ------------------------- | ----------------------------------- |
-| San Francisco 49ers       | YAC, motion, layered concepts       |
-| Green Bay Packers         | Timing throws, progression concepts |
-| Los Angeles Rams          | Play-action, layered routes         |
-| Minnesota Vikings         | Timing/structure passing            |
+| **NFL team (varies by year)** | **What feels West Coast**           |
+| ----------------------------- | ----------------------------------- |
+| San Francisco 49ers           | YAC, motion, layered concepts       |
+| Green Bay Packers             | Timing throws, progression concepts |
+| Los Angeles Rams              | Play-action, layered routes         |
+| Minnesota Vikings             | Timing/structure passing            |
 
 ---
 
 ## Teams in CFB26 that use a West Coast playbook (fill this in) 🏟️
 
-| Team | In-game offensive playbook name | Notes (favorite concepts, boot frequency, base personnel) |
-| ---- | ------------------------------- | --------------------------------------------------------- |
-|      |                                 |                                                           |
-|      |                                 |                                                           |
-|      |                                 |                                                           |
+| **Team** | **In-game offensive playbook name** | **Notes (favorite concepts, boot frequency, base personnel)** |
+| -------- | ----------------------------------- | ------------------------------------------------------------- |
+|          |                                     |                                                               |
+|          |                                     |                                                               |
+|          |                                     |                                                               |
 
 ---
 

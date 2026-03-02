@@ -61,12 +61,12 @@ Pro Style playbooks commonly major in heavier groupings:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | What it’s best for in Pro Style                         |
-| --------- | ------------------ | ------------------------------------------------------- |
-| 12        | 1 RB / 2 TE / 2 WR | Modern base; credible run looks + strong play-action    |
-| 21        | 2 RB / 1 TE / 2 WR | Downhill runs; lead blocks; short yardage and goal line |
-| 11        | 1 RB / 1 TE / 3 WR | Comeback/2-minute; spreads out stacked boxes            |
-| 22        | 2 RB / 2 TE / 1 WR | True heavy package; goal line / “get 2 yards” football  |
+| **Personnel** | **On-field**       | **What it’s best for in Pro Style**                     |
+| ------------- | ------------------ | ------------------------------------------------------- |
+| 12            | 1 RB / 2 TE / 2 WR | Modern base; credible run looks + strong play-action    |
+| 21            | 2 RB / 1 TE / 2 WR | Downhill runs; lead blocks; short yardage and goal line |
+| 11            | 1 RB / 1 TE / 3 WR | Comeback/2-minute; spreads out stacked boxes            |
+| 22            | 2 RB / 2 TE / 1 WR | True heavy package; goal line / “get 2 yards” football  |
 
 ### Role archetypes
 
@@ -92,7 +92,7 @@ Pro Style playbooks commonly major in heavier groupings:
 
 ### Formation families (quick pick table)
 
-| Family                 | Why it’s in Pro Style                                     | When to lean on it                        |
+| **Family**             | **Why it’s in Pro Style**                                 | **When to lean on it**                    |
 | ---------------------- | --------------------------------------------------------- | ----------------------------------------- |
 | I-Form / Strong-I      | Downhill identity; easy short-yardage calls               | Ahead / short yardage / red zone          |
 | Singleback (Ace/Wing)  | Versatile; lots of run looks + boot/play-action           | Neutral script / early downs              |
@@ -113,7 +113,7 @@ You’ll be most consistent if you pick **two run families** and build everythin
 
 ### Run family cheat table
 
-| Family                 | Why you want it                                           | Best complements                 |
+| **Family**             | **Why you want it**                                       | **Best complements**             |
 | ---------------------- | --------------------------------------------------------- | -------------------------------- |
 | Inside zone / split    | Stay on schedule; works from almost any personnel         | Play-action crossers; boot flood |
 | Power / counter        | Defined angles; physical identity; great in short yardage | Boot/play-action; shot concepts  |
@@ -164,7 +164,7 @@ You’ll be most consistent if you pick **two run families** and build everythin
 
 ### Pass family cheat table
 
-| Family / concept         | What it gives you                | When to call                                    |
+| **Family / concept**     | **What it gives you**            | **When to call**                                |
 | ------------------------ | -------------------------------- | ----------------------------------------------- |
 | PA deep cross / Yankee   | Explosives off LB/safety trigger | After successful runs; 1st down near midfield   |
 | Boot / rollout flood     | Easy layered read; move pocket   | Early downs; vs heavy rush; “need a completion” |
@@ -227,7 +227,7 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 ### Situational call sheet table
 
-| Situation   | Go-to calls (examples)                                               | Point of emphasis                       |
+| **Situation**   | **Go-to calls (examples)**                                               | **Point of emphasis**                       |
 | ----------- | -------------------------------------------------------------------- | --------------------------------------- |
 | Early downs | Inside zone, power/counter, boot flood, PA cross (sprinkle)          | Stay on schedule; force safety trigger  |
 | 2nd & short | PA shot (post/cross), max protect dig, outside zone PA               | Attack; don’t “waste” advantage         |
@@ -283,7 +283,7 @@ Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix b
 
 ## “If they do X, I do Y” (defensive answers) 🛡️
 
-| Defensive look/problem      | Your answer                                 | Notes                                    |
+| **Defensive look/problem**      | **Your answer**                                 | **Notes**                                    |
 | --------------------------- | ------------------------------------------- | ---------------------------------------- |
 | Light box (two-high, dime)  | Run until they stop it; add stretch         | Make them add a fitter                   |
 | Aggressive LBs crashing run | PA crossers/seams; leak opposite run action | Throw where they vacated                 |
@@ -315,7 +315,7 @@ Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix b
 
 ## Roster building priorities 🧬
 
-| Priority | What to target                          | Why it matters in Pro Style                              |
+| **Priority** | **What to target**                          | **Why it matters in Pro Style**                              |
 | -------- | --------------------------------------- | -------------------------------------------------------- |
 | 1        | Offensive line (tackles especially)     | Protects longer play-action; keeps run game on schedule  |
 | 2        | RB who falls forward (contact balance)  | Turns 2-yard plays into 4; keeps 2nd/3rd down manageable |
@@ -532,23 +532,23 @@ This keeps Pro Style from feeling “slow,” while still letting you control th
 
 The goal of a Pro Style script is to established the run and force the defense to bring a safety down.
 
-| Play # | Situation / Note        | Concept / Call                | Why?                                          |
-| :----: | ----------------------- | ----------------------------- | --------------------------------------------- |
-|   1    | Scripted Opener (Safe)  | **Inside Zone** (Strong side) | Test the interior DL strength                 |
-|   2    | Scripted shot (PA?)     | **PA Crossers / Boot**        | Punish LBs for stepping up on play 1          |
-|   3    | Run: Base concept       | **Duo / Power**               | Establish physical downhill presence          |
-|   4    | Quick game / RPO        | **Stick / Quick Out**         | Easy completion if they play off              |
-|   5    | Run: Counter/Power      | **Counter GY**                | Show a different run blocking scheme          |
-|   6    | Shot play (Deep)        | **Yankee (Post + Cross)**     | Max protect deep shot                         |
-|   7    | Screen / Draw           | **Slip Screen**               | Catch aggressive pass rushers                 |
-|   8    | Base Pass               | **Mesh / Shallow Cross**      | Man-beater/zone-beater (safe yards)           |
-|   9    | Check with me (Audible) | **Run/Pass Check**            | Let QB verify coverage at the line            |
-|   10   | Run: Left hash          | **Stretch / Outside Zone**    | Force the defense to run sideline-to-sideline |
-|   11   | Run: Right hash         | **Cutback Zone**              | Exploit over-pursuit                          |
-|   12   | Play-Action Boot        | **Naked Boot / Slide**        | Get QB on the edge for easy throw/run         |
-|   13   | Trick / Special         | **Reverse / Flea Flicker**    | High risk/reward if they are biting           |
-|   14   | 2-Minute Drill practice | **4 Verts / Seams**           | Stress the deep safeties                      |
-|   15   | 4-Minute Drill practice | **Power / Jumbo Run**         | Practice closing out the game                 |
+| **Play #** | **Situation / Note**    | **Concept / Call**            | **Why?**                                         |
+| :--------: | ----------------------- | ----------------------------- | ------------------------------------------------ |
+|     1      | Scripted Opener (Safe)  | **Inside Zone** (Strong side) | 🟢 Test the interior DL strength                 |
+|     2      | Scripted shot (PA?)     | **PA Crossers / Boot**        | 🟡 Punish LBs for stepping up on play 1          |
+|     3      | Run: Base concept       | **Duo / Power**               | 🟢 Establish physical downhill presence          |
+|     4      | Quick game / RPO        | **Stick / Quick Out**         | 🟢 Easy completion if they play off              |
+|     5      | Run: Counter/Power      | **Counter GY**                | 🟡 Show a different run blocking scheme          |
+|     6      | Shot play (Deep)        | **Yankee (Post + Cross)**     | 🔴 Max protect deep shot                         |
+|     7      | Screen / Draw           | **Slip Screen**               | 🟡 Catch aggressive pass rushers                 |
+|     8      | Base Pass               | **Mesh / Shallow Cross**      | 🟢 Man-beater/zone-beater (safe yards)           |
+|     9      | Check with me (Audible) | **Run/Pass Check**            | 🟡 Let QB verify coverage at the line            |
+|     10     | Run: Left hash          | **Stretch / Outside Zone**    | 🟡 Force the defense to run sideline-to-sideline |
+|     11     | Run: Right hash         | **Cutback Zone**              | 🟢 Exploit over-pursuit                          |
+|     12     | Play-Action Boot        | **Naked Boot / Slide**        | 🟢 Get QB on the edge for easy throw/run         |
+|     13     | Trick / Special         | **Reverse / Flea Flicker**    | 🔴 High risk/reward if they are biting           |
+|     14     | 2-Minute Drill practice | **4 Verts / Seams**           | 🔴 Stress the deep safeties                      |
+|     15     | 4-Minute Drill practice | **Power / Jumbo Run**         | 🟢 Practice closing out the game                 |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -563,13 +563,13 @@ If you played a true Pro Style game, your stats should look like this:
 
 If you run Pro Style, prioritize these archetypes:
 
-| Position | Archetype / Key Stats             | Why?                                                |
-| :------- | --------------------------------- | --------------------------------------------------- |
-| **QB**   | **Field General** (THP, DAC, PAC) | Needs to hit deep PA shots + intermediate windows.  |
-| **HB**   | **Power Back** (TRK, BTK, SFA)    | Must fall forward for 4 yards on 1st & 10.          |
-| **TE**   | **Blocking** (RBK, PBK, STR)      | You need two. One must be a glorified tackle.       |
-| **WR**   | **Deep Threat** (SPD, DRR)        | Just one speedster to blow the top off post-PA.     |
-| **OL**   | **Power** (STR, RBP, IBL)         | Moving people against their will is the whole plan. |
+| **Position** | **Archetype / Key Stats**         | **Why?**                                               |
+| :----------- | --------------------------------- | ------------------------------------------------------ |
+| **QB**       | **Field General** (THP, DAC, PAC) | 🧠 Needs to hit deep PA shots + intermediate windows.  |
+| **HB**       | **Power Back** (TRK, BTK, SFA)    | 🏃 Must fall forward for 4 yards on 1st & 10.          |
+| **TE**       | **Blocking** (RBK, PBK, STR)      | 🧲 You need two. One must be a glorified tackle.       |
+| **WR**       | **Deep Threat** (SPD, DRR)        | 🧤 Just one speedster to blow the top off post-PA.     |
+| **OL**       | **Power** (STR, RBP, IBL)         | 🧱 Moving people against their will is the whole plan. |
 
 ---
 
@@ -590,12 +590,12 @@ Start here and **verify in-game**:
 
 “Pro Style” is also a broad NFL label, so think of this as teams that frequently major in a credible run game plus play-action and condensed formations.
 
-| NFL team (varies by year) | What matches Pro Style                            |
-| ------------------------- | ------------------------------------------------- |
-| San Francisco 49ers       | Run-game identity + play-action explosives        |
-| Los Angeles Rams          | Under-center play-action, condensed formations    |
-| Detroit Lions             | Physical run + play-action + intermediate passing |
-| Green Bay Packers         | West Coast-derived pro offense structure          |
+| **NFL team (varies by year)** | **What matches Pro Style**                        |
+| ----------------------------- | ------------------------------------------------- |
+| San Francisco 49ers           | Run-game identity + play-action explosives        |
+| Los Angeles Rams              | Under-center play-action, condensed formations    |
+| Detroit Lions                 | Physical run + play-action + intermediate passing |
+| Green Bay Packers             | West Coast-derived pro offense structure          |
 
 ---
 
@@ -603,11 +603,11 @@ Start here and **verify in-game**:
 
 Use this as a living list you update as you confirm playbook assignments in-game.
 
-| Team | In-game offensive playbook name | Notes (base personnel, favorite runs, favorite shots) |
-| ---- | ------------------------------- | ----------------------------------------------------- |
-|      |                                 |                                                       |
-|      |                                 |                                                       |
-|      |                                 |                                                       |
+| **Team** | **In-game offensive playbook name** | **Notes (base personnel, favorite runs, favorite shots)** |
+| -------- | ----------------------------------- | --------------------------------------------------------- |
+|          |                                     |                                                           |
+|          |                                     |                                                           |
+|          |                                     |                                                           |
 
 ---
 

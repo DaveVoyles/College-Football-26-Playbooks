@@ -59,10 +59,10 @@ Common modern variants also use:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in Run and Shoot            |
-| --------- | ------------------ | -------------------------------------------- |
-| 10        | 1 RB / 4 WR        | Classic spacing; maximum option-route stress |
-| 11        | 1 RB / 1 TE / 3 WR | Adds protection help + seam/flat answers     |
+| **Personnel** | **On-field**       | **Why you’d use it in Run and Shoot**        |
+| ------------- | ------------------ | -------------------------------------------- |
+| 10            | 1 RB / 4 WR        | Classic spacing; maximum option-route stress |
+| 11            | 1 RB / 1 TE / 3 WR | Adds protection help + seam/flat answers     |
 
 ### Role archetypes
 
@@ -88,7 +88,7 @@ Suggested “small menu”:
 
 ### Formation families (quick pick table)
 
-| Family            | What it’s great for                            | When to lean on it                  |
+| **Family**        | **What it’s great for**                        | **When to lean on it**              |
 | ----------------- | ---------------------------------------------- | ----------------------------------- |
 | Gun Spread / Wide | Core spacing + option routes + vertical stress | Base menu                           |
 | Gun Trips         | Matchup creation + switch releases             | When you want to isolate a defender |
@@ -484,23 +484,23 @@ Goal: you should be able to say “I’m throwing the slot option unless the def
 
 The Run and Shoot is about reading leverage on the fly. The script is less about "calling plays" and more about "calling reads."
 
-| Play # | Situation / Note | Concept / Call             | Why?                                  |
-| :----: | ---------------- | -------------------------- | ------------------------------------- |
-|   1    | The Base         | **Choice / Option**        | See how they cover the slot           |
-|   2    | Field Stretch    | **Go / Streaks**           | Run off the coverage                  |
-|   3    | Run: Draw        | **HB Draw**                | If ends are upfield, gash them inside |
-|   4    | Quick Out        | **Slide / 60 Slide**       | Flat control vs zone                  |
-|   5    | Deep Shot        | **Switch**                 | Confusion on the perimeter            |
-|   6    | Checkdown        | **RB Swing / Flat**        | Easy release valve                    |
-|   7    | Man-Beater       | **Mesh / Drag**            | Rubs and picks                        |
-|   8    | Run: Trap        | **0/1 Trap**               | Quick hitting inside run              |
-|   9    | Vertical Choice  | **Seam Read**              | Attack the deep middle                |
-|   10   | Red Zone: High   | **Fade / Back Shoulder**   | Isolation near the goal line          |
-|   11   | Counter          | **Shovel Pass / Option**   | Misdirection                          |
-|   12   | 3rd & Short      | **QB Sneak / Quick Slant** | High percentage                       |
-|   13   | 3rd & Long       | **4 Verts / Choice**       | Find the void in deep coverage        |
-|   14   | Screen: Slow     | **Middle Screen**          | Slow down aggressive rush             |
-|   15   | Finisher         | **Zone Read**              | If they ignore the QB                 |
+| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                                 |
+| :--------: | -------------------- | -------------------------- | ---------------------------------------- |
+|     1      | The Base             | **Choice / Option**        | 🟢 See how they cover the slot           |
+|     2      | Field Stretch        | **Go / Streaks**           | 🔴 Run off the coverage                  |
+|     3      | Run: Draw            | **HB Draw**                | 🟡 If ends are upfield, gash them inside |
+|     4      | Quick Out            | **Slide / 60 Slide**       | 🟢 Flat control vs zone                  |
+|     5      | Deep Shot            | **Switch**                 | 🔴 Confusion on the perimeter            |
+|     6      | Checkdown            | **RB Swing / Flat**        | 🟢 Easy release valve                    |
+|     7      | Man-Beater           | **Mesh / Drag**            | 🟢 Rubs and picks                        |
+|     8      | Run: Trap            | **0/1 Trap**               | 🟡 Quick hitting inside run              |
+|     9      | Vertical Choice      | **Seam Read**              | 🔴 Attack the deep middle                |
+|     10     | Red Zone: High       | **Fade / Back Shoulder**   | 🔴 Isolation near the goal line          |
+|     11     | Counter              | **Shovel Pass / Option**   | 🟡 Misdirection                          |
+|     12     | 3rd & Short          | **QB Sneak / Quick Slant** | 🟢 High percentage                       |
+|     13     | 3rd & Long           | **4 Verts / Choice**       | 🔴 Find the void in deep coverage        |
+|     14     | Screen: Slow         | **Middle Screen**          | 🟡 Slow down aggressive rush             |
+|     15     | Finisher             | **Zone Read**              | 🟢 If they ignore the QB                 |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -515,13 +515,13 @@ If you played a true Run and Shoot game, your stats should look like this:
 
 If you run the Run and Shoot, prioritize these archetypes:
 
-| Position | Archetype / Key Stats          | Why?                                                 |
-| :------- | ------------------------------ | ---------------------------------------------------- |
-| **QB**   | **Improviser** (AWR, RUN, TUP) | Needs to buy time and make smart reads.              |
-| **HB**   | **Receiving Back** (CTH, COD)  | Involved heavily in the passing game.                |
-| **SB**   | **Slot** (AWR, SRR, CIT)       | "Super Backs" (Slots) must read coverages perfectly. |
-| **WR**   | **Deep Threat** (SPD, DRR)     | Must stretch the field to open up underneath.        |
-| **OL**   | **Pass Protector** (PBP, PBF)  | Slide protection requires agile blockers.            |
+| **Position** | **Archetype / Key Stats**      | **Why?**                                                |
+| :----------- | ------------------------------ | ------------------------------------------------------- |
+| **QB**       | **Improviser** (AWR, RUN, TUP) | 🧠 Needs to buy time and make smart reads.              |
+| **HB**       | **Receiving Back** (CTH, COD)  | 🏃 Involved heavily in the passing game.                |
+| **SB**       | **Slot** (AWR, SRR, CIT)       | 👀 "Super Backs" (Slots) must read coverages perfectly. |
+| **WR**       | **Deep Threat** (SPD, DRR)     | 🧤 Must stretch the field to open up underneath.        |
+| **OL**       | **Pass Protector** (PBP, PBF)  | 🧱 Slide protection requires agile blockers.            |
 
 ---
 
@@ -539,21 +539,21 @@ Start here and **verify in-game**:
 
 The NFL doesn’t typically label teams “Run and Shoot” anymore, but option/choice routes are everywhere.
 
-| NFL team (varies by year) | What feels Run-and-Shoot-ish                |
-| ------------------------- | ------------------------------------------- |
-| New England Patriots      | Choice routes / option routes as core tools |
-| Kansas City Chiefs        | Option routes + spacing answers             |
-| Green Bay Packers         | Option-route packages + timing              |
+| **NFL team (varies by year)** | **What feels Run-and-Shoot-ish**            |
+| ----------------------------- | ------------------------------------------- |
+| New England Patriots          | Choice routes / option routes as core tools |
+| Kansas City Chiefs            | Option routes + spacing answers             |
+| Green Bay Packers             | Option-route packages + timing              |
 
 ---
 
 ## Teams in CFB26 that use a Run and Shoot playbook (fill this in) 🏟️
 
-| Team | In-game offensive playbook name | Notes (base personnel, option-route frequency, favorite shots) |
-| ---- | ------------------------------- | -------------------------------------------------------------- |
-|      |                                 |                                                                |
-|      |                                 |                                                                |
-|      |                                 |                                                                |
+| **Team** | **In-game offensive playbook name** | **Notes (base personnel, option-route frequency, favorite shots)** |
+| -------- | ----------------------------------- | ------------------------------------------------------------------ |
+|          |                                     |                                                                    |
+|          |                                     |                                                                    |
+|          |                                     |                                                                    |
 
 ---
 

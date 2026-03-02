@@ -56,11 +56,11 @@ Most Veer and Shoot looks are built from:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in Veer and Shoot                    |
-| --------- | ------------------ | ----------------------------------------------------- |
-| 10        | 1 RB / 4 WR        | Widest spacing, best for screens + access throws      |
-| 11        | 1 RB / 1 TE / 3 WR | Better protection; TE seams and RPO tags              |
-| 20        | 2 RB / 3 WR        | “Pony” mismatch package; good for option/RPO variants |
+| **Personnel** | **On-field**       | **Why you’d use it in Veer and Shoot**                |
+| ------------- | ------------------ | ----------------------------------------------------- |
+| 10            | 1 RB / 4 WR        | Widest spacing, best for screens + access throws      |
+| 11            | 1 RB / 1 TE / 3 WR | Better protection; TE seams and RPO tags              |
+| 20            | 2 RB / 3 WR        | “Pony” mismatch package; good for option/RPO variants |
 
 ### Role archetypes (what matters) 🔎
 
@@ -182,7 +182,7 @@ Common vertical families:
 
 ## Defensive looks and your answers (quick reference) 🧾
 
-| What you see           | What it’s trying to do       | Your best answers                                    |
+| **What you see**       | **What it’s trying to do**   | **Your best answers**                                |
 | ---------------------- | ---------------------------- | ---------------------------------------------------- |
 | Two-high, light box    | Invite run, rally to throws  | Inside zone; screens; patient access throws          |
 | Single-high, heavy box | Stop run, force tight throws | Quick access throws; RPO glance; shots if protected  |
@@ -364,7 +364,7 @@ If you’re building a Dynasty roster for Veer and Shoot, these are usually the 
 
 If you only keep 12–16 plays favorited, pick them by situation.
 
-| Situation              | Calls to favorite                                          |
+| **Situation**          | **Calls to favorite**                                      |
 | ---------------------- | ---------------------------------------------------------- |
 | Early downs            | inside zone; hitch/now; bubble/now; RPO bubble/glance      |
 | Medium (2nd/3rd & 4–6) | stick/spacing; tunnel screen; quick out                    |
@@ -407,23 +407,23 @@ If you don’t see a trigger, keep stacking efficient plays. The explosive usual
 
 The Veer and Shoot script is designed to identify how the defense aligns to your extreme splits and tempo.
 
-| Play # | Situation / Note       | Concept / Call               | Why?                                   |
-| :----: | ---------------------- | ---------------------------- | -------------------------------------- |
-|   1    | Scripted Opener (Fast) | **Inside Zone (RPO Bubble)** | See if they empty the box to cover WRs |
-|   2    | Tempo Shot             | **Deep Choice (Go/Post)**    | Test CB discipline immediately         |
-|   3    | Run: Base              | **Power Read / GT Counter**  | Physical running into light boxes      |
-|   4    | Quick Screen           | **Bubble / Tunnel Screen**   | Force perimeter tackling               |
-|   5    | RPO Staple             | **Glance / Slant RPO**       | Punish aggressive LBs                  |
-|   6    | Deep Shot              | **Switch Verticals**         | Confusion in the secondary             |
-|   7    | Constraint Play        | **QB Draw / designed run**   | Keep the DL honest                     |
-|   8    | Intermediate           | **Dig / deep crossing**      | Occupy the middle vacuum               |
-|   9    | Tempo: Gas             | **No-Huddle Same Play**      | Tire out their big men                 |
-|   10   | Run: Exploitation      | **Zone Read**                | Read the unblocked edge                |
-|   11   | Perimeter Shot         | **Fade / Back Shoulder**     | Isolation on the wide side             |
-|   12   | Screen: Slow           | **HB Slip Screen**           | Catch aggressive rushers napping       |
-|   13   | Red Zone: High         | **Fade / Jump Ball**         | Use height/crops                       |
-|   14   | Red Zone: Low          | **Shovel Option**            | Goal line misdirection                 |
-|   15   | Goal Line              | **QB Power**                 | 11-on-11 football                      |
+| **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                  |
+| :--------: | ---------------------- | ---------------------------- | ----------------------------------------- |
+|     1      | Scripted Opener (Fast) | **Inside Zone (RPO Bubble)** | 🟢 See if they empty the box to cover WRs |
+|     2      | Tempo Shot             | **Deep Choice (Go/Post)**    | 🔴 Test CB discipline immediately         |
+|     3      | Run: Base              | **Power Read / GT Counter**  | 🟢 Physical running into light boxes      |
+|     4      | Quick Screen           | **Bubble / Tunnel Screen**   | 🟡 Force perimeter tackling               |
+|     5      | RPO Staple             | **Glance / Slant RPO**       | 🟢 Punish aggressive LBs                  |
+|     6      | Deep Shot              | **Switch Verticals**         | 🔴 Confusion in the secondary             |
+|     7      | Constraint Play        | **QB Draw / designed run**   | 🟡 Keep the DL honest                     |
+|     8      | Intermediate           | **Dig / deep crossing**      | 🟡 Occupy the middle vacuum               |
+|     9      | Tempo: Gas             | **No-Huddle Same Play**      | 🟢 Tire out their big men                 |
+|     10     | Run: Exploitation      | **Zone Read**                | 🟢 Read the unblocked edge                |
+|     11     | Perimeter Shot         | **Fade / Back Shoulder**     | 🔴 Isolation on the wide side             |
+|     12     | Screen: Slow           | **HB Slip Screen**           | 🟡 Catch aggressive rushers napping       |
+|     13     | Red Zone: High         | **Fade / Jump Ball**         | 🔴 Use height/crops                       |
+|     14     | Red Zone: Low          | **Shovel Option**            | 🟡 Goal line misdirection                 |
+|     15     | Goal Line              | **QB Power**                 | 🟢 11-on-11 football                      |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -438,13 +438,13 @@ If you played a true Veer and Shoot game, your stats should look like this:
 
 If you run the Veer and Shoot, prioritize these archetypes:
 
-| Position | Archetype / Key Stats            | Why?                                            |
-| :------- | -------------------------------- | ----------------------------------------------- |
-| **QB**   | **Strong Arm** (THP, DAC)        | Must drive the ball outside the numbers.        |
-| **HB**   | **Elusive Back** (SPD, ACC, COD) | Operates in space. One missed tackle = TD.      |
-| **TE**   | **Vertical Threat** (SPD, CTH)   | Often a glorified big slot receiver.            |
-| **WR**   | **Deep Threat** (SPD, ACC, RLS)  | SPEED. If they can't run by a corner, they sit. |
-| **OL**   | **Agile** (AGI, PBF, RBK)        | Wide splits mean wider rush angles. Need feet.  |
+| **Position** | **Archetype / Key Stats**        | **Why?**                                           |
+| :----------- | -------------------------------- | -------------------------------------------------- |
+| **QB**       | **Strong Arm** (THP, DAC)        | 🧠 Must drive the ball outside the numbers.        |
+| **HB**       | **Elusive Back** (SPD, ACC, COD) | 🏃 Operates in space. One missed tackle = TD.      |
+| **TE**       | **Vertical Threat** (SPD, CTH)   | 🧲 Often a glorified big slot receiver.            |
+| **WR**       | **Deep Threat** (SPD, ACC, RLS)  | 🧤 SPEED. If they can't run by a corner, they sit. |
+| **OL**       | **Agile** (AGI, PBF, RBK)        | 🧱 Wide splits mean wider rush angles. Need feet.  |
 
 ---
 
@@ -463,12 +463,12 @@ Start here and **verify in-game**:
 
 The NFL rarely runs a true Veer and Shoot, but several teams use **wide splits + quick access** concepts that can feel similar.
 
-| NFL team (varies by year) | What matches the vibe                                |
-| ------------------------- | ---------------------------------------------------- |
-| Miami Dolphins            | Wide splits / spacing stress + quick throws          |
-| Los Angeles Rams          | Spacing + condensed-to-wide presentation, quick game |
-| Cincinnati Bengals        | Spread spacing + shot timing                         |
-| Kansas City Chiefs        | Space creation + quick answers                       |
+| **NFL team (varies by year)** | **What matches the vibe**                            |
+| ----------------------------- | ---------------------------------------------------- |
+| Miami Dolphins                | Wide splits / spacing stress + quick throws          |
+| Los Angeles Rams              | Spacing + condensed-to-wide presentation, quick game |
+| Cincinnati Bengals            | Spread spacing + shot timing                         |
+| Kansas City Chiefs            | Space creation + quick answers                       |
 
 ---
 
@@ -476,11 +476,11 @@ The NFL rarely runs a true Veer and Shoot, but several teams use **wide splits +
 
 Use this as a living table you update as you confirm playbook assignments in-game.
 
-| Team | In-game offensive playbook name | Notes (wide splits? tempo? favorite screens/shots?) |
-| ---- | ------------------------------- | --------------------------------------------------- |
-|      |                                 |                                                     |
-|      |                                 |                                                     |
-|      |                                 |                                                     |
+| **Team** | **In-game offensive playbook name** | **Notes (wide splits? tempo? favorite screens/shots?)** |
+| -------- | ----------------------------------- | ------------------------------------------------------- |
+|          |                                     |                                                         |
+|          |                                     |                                                         |
+|          |                                     |                                                         |
 
 ---
 

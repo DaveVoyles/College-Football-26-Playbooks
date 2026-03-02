@@ -51,33 +51,33 @@ Different teams “spread” differently. In games, the most common flavors are:
 
 The goal is to stretch them horizontally until they thin out inside.
 
-| Play # | Situation / Note | Concept / Call             | Why?                                |
-| :----: | ---------------- | -------------------------- | ----------------------------------- |
-|   1    | Opener           | **RPO Glance / Bubble**    | Make the conflict defender choose   |
-|   2    | Tempo Run        | **Inside Zone**            | Hand off if box count is favorable  |
-|   3    | Screen           | **Jet Sweep / Touch Pass** | Get your fastest guy to the edge    |
-|   4    | Counter          | **Q-Counter / Bash**       | Use QB legs to gain numbers         |
-|   5    | Shot Play        | **Post-Dig (Mills)**       | Classic spread shot vs safeties     |
-|   6    | Quick Game       | **Snag / Spot**            | Triangle read vs zone               |
-|   7    | RPO              | **Zone Read (Bubble)**     | The day-1 install play.             |
-|   8    | Screen           | **Jailbreak Screen**       | Slow down aggressive DEs            |
-|   9    | Base Pass        | **Drive**                  | High-low read over the middle       |
-|   10   | Run              | **Buck Sweep**             | Get OL out in space                 |
-|   11   | Trick            | **Double Pass**            | Catch DBs sleeping on a screen look |
-|   12   | Red Zone         | **Speed Option**           | Eliminate the edge defender         |
-|   13   | Goal Line        | **Q-Power**                | Direct snap physicality             |
+| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                               |
+| :--------: | -------------------- | -------------------------- | -------------------------------------- |
+|     1      | Opener               | **RPO Glance / Bubble**    | 🟢 Make the conflict defender choose   |
+|     2      | Tempo Run            | **Inside Zone**            | 🟢 Hand off if box count is favorable  |
+|     3      | Screen               | **Jet Sweep / Touch Pass** | 🟡 Get your fastest guy to the edge    |
+|     4      | Counter              | **Q-Counter / Bash**       | 🟡 Use QB legs to gain numbers         |
+|     5      | Shot Play            | **Post-Dig (Mills)**       | 🔴 Classic spread shot vs safeties     |
+|     6      | Quick Game           | **Snag / Spot**            | 🟢 Triangle read vs zone               |
+|     7      | RPO                  | **Zone Read (Bubble)**     | 🟢 The day-1 install play.             |
+|     8      | Screen               | **Jailbreak Screen**       | 🟡 Slow down aggressive DEs            |
+|     9      | Base Pass            | **Drive**                  | 🟢 High-low read over the middle       |
+|     10     | Run                  | **Buck Sweep**             | 🟡 Get OL out in space                 |
+|     11     | Trick                | **Double Pass**            | 🔴 Catch DBs sleeping on a screen look |
+|     12     | Red Zone             | **Speed Option**           | 🟡 Eliminate the edge defender         |
+|     13     | Goal Line            | **Q-Power**                | 🟢 Direct snap physicality             |
 
 ## Dynasty Recruiting Guide (quick targets) 🎓
 
 Spread teams need **athletes in space** and a diverse QB.
 
-| Position   | Archetype / Key Stats             | Why?                                            |
-| :--------- | --------------------------------- | ----------------------------------------------- |
-| **QB**     | **Scrambler** (SPD, ACC, THP)     | His legs +1 the run game math. Must be elusive. |
-| **HB**     | **Elusive Back** (COD, JKM, SPIN) | Needs to make the first guy miss in space.      |
-| **WR (S)** | **Slot** (ACC, COD, CIT)          | Need quick-twitch guys for screens/RPOs.        |
-| **WR (X)** | **Deep Threat** (SPD, DRR)        | One guy who forces the safety to back up.       |
-| **OL**     | **Agile** (ACC, AGI, RBK)         | They tackle in space on screens and zone runs.  |
+| **Position** | **Archetype / Key Stats**         | **Why?**                                           |
+| :----------- | --------------------------------- | -------------------------------------------------- |
+| **QB**       | **Scrambler** (SPD, ACC, THP)     | 🧠 His legs +1 the run game math. Must be elusive. |
+| **HB**       | **Elusive Back** (COD, JKM, SPIN) | 🏃 Needs to make the first guy miss in space.      |
+| **WR (S)**   | **Slot** (ACC, COD, CIT)          | 🧤 Need quick-twitch guys for screens/RPOs.        |
+| **WR (X)**   | **Deep Threat** (SPD, DRR)        | 🧤 One guy who forces the safety to back up.       |
+| **OL**       | **Agile** (ACC, AGI, RBK)         | 🧱 They tackle in space on screens and zone runs.  |
 
 ---
 
@@ -94,11 +94,11 @@ Spread playbooks commonly live in:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in Spread                        |
-| --------- | ------------------ | ------------------------------------------------- |
-| 11        | 1 RB / 1 TE / 3 WR | Best all-around base for RPO + zone + play-action |
-| 10        | 1 RB / 4 WR        | Maximum spacing; easiest box-count decisions      |
-| 20        | 2 RB / 3 WR        | Pony mismatches; motion; option/RPO variants      |
+| **Personnel** | **On-field**       | **Why you’d use it in Spread**                    |
+| ------------- | ------------------ | ------------------------------------------------- |
+| 11            | 1 RB / 1 TE / 3 WR | Best all-around base for RPO + zone + play-action |
+| 10            | 1 RB / 4 WR        | Maximum spacing; easiest box-count decisions      |
+| 20            | 2 RB / 3 WR        | Pony mismatches; motion; option/RPO variants      |
 
 ### Role archetypes
 
@@ -121,7 +121,7 @@ Spread in CFB-style playbooks often centers on:
 
 ### Formation families (quick pick table)
 
-| Family                   | What it’s great for                            | When to lean on it                 |
+| **Family**               | **What it’s great for**                        | **When to lean on it**             |
 | ------------------------ | ---------------------------------------------- | ---------------------------------- |
 | Gun Trips / Trips Offset | RPOs, quick game, simple box-count reads       | Base menu; tempo                   |
 | Gun Doubles (2x2)        | Balanced run/pass; mesh and intermediate reads | 3rd-and-medium; “stay on schedule” |
@@ -545,23 +545,23 @@ Practical habits:
 
 The Spread script is about finding where the "free hitter" is coming from and making them wrong.
 
-| Play # | Situation / Note       | Concept / Call               | Why?                                          |
-| :----: | ---------------------- | ---------------------------- | --------------------------------------------- |
-|   1    | Scripted Opener (Safe) | **Inside Zone Read**         | Read the DE. If he squeezes, pull and run.    |
-|   2    | Perimeter Test         | **Jet Sweep / Touch Pass**   | Can their LBs run sideline to sideline?       |
-|   3    | Quick Game             | **Stick (3-Rec side)**       | Instant yards if they play off coverage.      |
-|   4    | Run: Counter           | **Bash / GT Counter**        | Pulling linemen to create angles.             |
-|   5    | Screen                 | **Tunnel Screen**            | Punish the blitz.                             |
-|   6    | Base Pass              | **Y-Cross**                  | The Air Raid staple that fits perfectly here. |
-|   7    | Shot Play              | **Post-Wheel**               | Wheel route is often open vs man.             |
-|   8    | RPO                    | **Glance RPO**               | Read the LB. If he fills, throw the slant.    |
-|   9    | Run: QB Design         | **QB Draw**                  | Spread them out and run up the middle.        |
-|   10   | Trick / Tempo          | **Reveverse / Flea Flicker** | Catch them sleeping.                          |
-|   11   | Checkdown              | **RB Swing**                 | Get your athlete in space.                    |
-|   12   | Deep Shot              | **Deep Post / Go**           | Test the safety help.                         |
-|   13   | Red Zone: High         | **Fade**                     | 1-on-1 matchup.                               |
-|   14   | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
-|   15   | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
+| **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
+| :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
+|     1      | Scripted Opener (Safe) | **Inside Zone Read**         | Read the DE. If he squeezes, pull and run.    |
+|     2      | Perimeter Test         | **Jet Sweep / Touch Pass**   | Can their LBs run sideline to sideline?       |
+|     3      | Quick Game             | **Stick (3-Rec side)**       | Instant yards if they play off coverage.      |
+|     4      | Run: Counter           | **Bash / GT Counter**        | Pulling linemen to create angles.             |
+|     5      | Screen                 | **Tunnel Screen**            | Punish the blitz.                             |
+|     6      | Base Pass              | **Y-Cross**                  | The Air Raid staple that fits perfectly here. |
+|     7      | Shot Play              | **Post-Wheel**               | Wheel route is often open vs man.             |
+|     8      | RPO                    | **Glance RPO**               | Read the LB. If he fills, throw the slant.    |
+|     9      | Run: QB Design         | **QB Draw**                  | Spread them out and run up the middle.        |
+|     10     | Trick / Tempo          | **Reveverse / Flea Flicker** | Catch them sleeping.                          |
+|     11     | Checkdown              | **RB Swing**                 | Get your athlete in space.                    |
+|     12     | Deep Shot              | **Deep Post / Go**           | Test the safety help.                         |
+|     13     | Red Zone: High         | **Fade**                     | 1-on-1 matchup.                               |
+|     14     | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
+|     15     | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -576,13 +576,13 @@ If you played a true Spread game, your stats should look like this:
 
 If you run the Spread, prioritize these archetypes:
 
-| Position | Archetype / Key Stats            | Why?                                             |
-| :------- | -------------------------------- | ------------------------------------------------ |
-| **QB**   | **Scrambler** (SPD, ACC, THP)    | Must be a threat to run the Zone Read.           |
-| **HB**   | **Elusive Back** (SPD, ACC, COD) | Needs to make the first defender miss in space.  |
-| **TE**   | **Vertical Threat** (SPD, CTH)   | Creates mismatches vs LBs.                       |
-| **WR**   | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
-| **OL**   | **Agile** (AGI, PBF, RBK)        | Needs to move for screens and pulls.             |
+| **Position** | **Archetype / Key Stats**        | **Why?**                                         |
+| :----------- | -------------------------------- | ------------------------------------------------ |
+| **QB**       | **Scrambler** (SPD, ACC, THP)    | Must be a threat to run the Zone Read.           |
+| **HB**       | **Elusive Back** (SPD, ACC, COD) | Needs to make the first defender miss in space.  |
+| **TE**       | **Vertical Threat** (SPD, CTH)   | Creates mismatches vs LBs.                       |
+| **WR**       | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
+| **OL**       | **Agile** (AGI, PBF, RBK)        | Needs to move for screens and pulls.             |
 
 ---
 
@@ -603,22 +603,22 @@ Start here and **verify in-game**:
 
 Most NFL offenses incorporate spread elements now. These teams often lean into spread spacing, motion, and QB-driven answers.
 
-| NFL team (varies by year) | What feels “Spread-ish”            |
-| ------------------------- | ---------------------------------- |
-| Philadelphia Eagles       | Spread formations + QB run package |
-| Buffalo Bills             | Spread spacing + QB run threat     |
-| Kansas City Chiefs        | Spread passing menu + spacing      |
-| Dallas Cowboys            | Shot concepts from spread sets     |
+| **NFL team (varies by year)** | **What feels “Spread-ish”**        |
+| ----------------------------- | ---------------------------------- |
+| Philadelphia Eagles           | Spread formations + QB run package |
+| Buffalo Bills                 | Spread spacing + QB run threat     |
+| Kansas City Chiefs            | Spread passing menu + spacing      |
+| Dallas Cowboys                | Shot concepts from spread sets     |
 
 ---
 
 ## Teams in CFB26 that use a Spread playbook (fill this in) 🏟️
 
-| Team | In-game offensive playbook name | Notes (tempo, RPO frequency, QB run presence) |
-| ---- | ------------------------------- | --------------------------------------------- |
-|      |                                 |                                               |
-|      |                                 |                                               |
-|      |                                 |                                               |
+| **Team** | **In-game offensive playbook name** | **Notes (tempo, RPO frequency, QB run presence)** |
+| -------- | ----------------------------------- | ------------------------------------------------- |
+|          |                                     |                                                   |
+|          |                                     |                                                   |
+|          |                                     |                                                   |
 
 ---
 

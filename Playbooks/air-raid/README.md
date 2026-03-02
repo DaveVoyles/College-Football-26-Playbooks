@@ -48,35 +48,35 @@ It’s at its best when you can reliably throw on early downs, force the defense
 
 The goal is to find the "lazy" defender and throw at him repeatedly.
 
-| Play # | Situation / Note   | Concept / Call        | Why?                                 |
-| :----: | ------------------ | --------------------- | ------------------------------------ |
-|   1    | Scripted Opener    | **Mesh**              | Easy completion vs man or zone       |
-|   2    | Tempo Shot         | **4 Verts**           | Force safeties to back up early      |
-|   3    | Quick Game         | **Stick**             | Take the free 5 yards if LB retreats |
-|   4    | Screen             | **Bubble Screen**     | Punish off-coverage on the outside   |
-|   5    | Run (Honest Work)  | **Zone Read / Draw**  | If the box is light (5 or less)      |
-|   6    | Base Pass          | **Shallow Cross**     | The bread & butter. High % throw.    |
-|   7    | Shot Play          | **Y-Cross**           | Hits the intermediate void           |
-|   8    | Quick Game         | **Corner Strike**     | Beat cover 3 or man                  |
-|   9    | Screen             | **Tunnel Screen**     | Slow down the pass rush              |
-|   10   | Base Pass          | **Mesh (Return)**     | Go back to what works                |
-|   11   | Run (Draw)         | **HB Draw**           | Catch DL penetrating upfield         |
-|   12   | Red Zone High      | **Spacing**           | 5-yard hitch windows                 |
-|   13   | Goal Line          | **Sprint Out / Whip** | Create leverage in tight space       |
-|   14   | 2-Point / 4th Down | **Mesh (Wheel Tag)**  | The ultimate answers play            |
-|   15   | Shot (End of Q1)   | **Post-Wheel**        | Try to steal a TD                    |
+| **Play #** | **Situation / Note** | **Concept / Call**    | **Why?**                                |
+| :--------: | -------------------- | --------------------- | --------------------------------------- |
+|     1      | Scripted Opener      | **Mesh**              | 🟢 Easy completion vs man or zone       |
+|     2      | Tempo Shot           | **4 Verts**           | 🔴 Force safeties to back up early      |
+|     3      | Quick Game           | **Stick**             | 🟢 Take the free 5 yards if LB retreats |
+|     4      | Screen               | **Bubble Screen**     | 🟡 Punish off-coverage on the outside   |
+|     5      | Run (Honest Work)    | **Zone Read / Draw**  | 🟢 If the box is light (5 or less)      |
+|     6      | Base Pass            | **Shallow Cross**     | 🟢 The bread & butter. High % throw.    |
+|     7      | Shot Play            | **Y-Cross**           | 🔴 Hit the intermediate void            |
+|     8      | Quick Game           | **Corner Strike**     | 🟡 Beat cover 3 or man                  |
+|     9      | Screen               | **Tunnel Screen**     | 🟡 Slow down the pass rush              |
+|     10     | Base Pass            | **Mesh (Return)**     | 🟢 Go back to what works                |
+|     11     | Run (Draw)           | **HB Draw**           | 🟡 Catch DL penetrating upfield         |
+|     12     | Red Zone High        | **Spacing**           | 🟢 5-yard hitch windows                 |
+|     13     | Goal Line            | **Sprint Out / Whip** | 🟢 Create leverage in tight space       |
+|     14     | 2-Point / 4th Down   | **Mesh (Wheel Tag)**  | 🟢 The ultimate answers play            |
+|     15     | Shot (End of Q1)     | **Post-Wheel**        | 🔴 Try to steal a TD                    |
 
 ## Dynasty Recruiting Guide 🎓
 
 Air Raid recruiting is about **speed and hands**, not size or blocking strength.
 
-| Position | Archetype / Key Stats              | Why?                                                |
-| :------- | ---------------------------------- | --------------------------------------------------- |
-| **QB**   | **Improviser** (SAC, MAC, TUP)     | Accuracy > arm strength. Must throw under pressure. |
-| **HB**   | **Receiving Back** (CTH, CIT, SRR) | Basically a 5th WR in this offense.                 |
-| **WR**   | **Route Runner** (SRR, MRR, REL)   | Separation is everything. Need 10+ recruits here.   |
-| **TE**   | **Vertical Threat** (SPD, CTH)     | Doesn't need to block. Needs to win seam routes.    |
-| **OL**   | **Pass Protector** (PBP, PBF, AWR) | They will pass set 50 times a game.                 |
+| **Position** | **Archetype / Key Stats**          | **Why?**                                               |
+| :----------- | ---------------------------------- | ------------------------------------------------------ |
+| **QB**       | **Improviser** (SAC, MAC, TUP)     | 🧠 Accuracy > arm strength. Must throw under pressure. |
+| **HB**       | **Receiving Back** (CTH, CIT, SRR) | 🏃 Basically a 5th WR in this offense.                 |
+| **WR**       | **Route Runner** (SRR, MRR, REL)   | 🧤 Separation is everything. Need 10+ recruits here.   |
+| **TE**       | **Vertical Threat** (SPD, CTH)     | 🧲 Doesn't need to block. Needs to win seam routes.    |
+| **OL**       | **Pass Protector** (PBP, PBF, AWR) | 🧱 They will pass set 50 times a game.                 |
 
 ---
 
@@ -95,11 +95,11 @@ Air Raid playbooks commonly live in:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in Air Raid                          |
-| --------- | ------------------ | ----------------------------------------------------- |
-| 10        | 1 RB / 4 WR        | Maximum spacing; quick game and empty variations      |
-| 11        | 1 RB / 1 TE / 3 WR | Balanced base; seams/benders + better protection help |
-| 20        | 2 RB / 3 WR        | Pony mismatches; easy checkdowns and pass-pro options |
+| **Personnel** | **On-field**       | **Why you’d use it in Air Raid**                      |
+| ------------- | ------------------ | ----------------------------------------------------- |
+| 10            | 1 RB / 4 WR        | Maximum spacing; quick game and empty variations      |
+| 11            | 1 RB / 1 TE / 3 WR | Balanced base; seams/benders + better protection help |
+| 20            | 2 RB / 3 WR        | Pony mismatches; easy checkdowns and pass-pro options |
 
 ### Role archetypes (more useful than position labels)
 
@@ -124,7 +124,7 @@ You don’t need many. Pick a small “family” and get great at it.
 
 ### Formation families (quick pick table)
 
-| Family            | What it’s great for                                  | When to lean on it             |
+| **Family**        | **What it’s great for**                              | **When to lean on it**         |
 | ----------------- | ---------------------------------------------------- | ------------------------------ |
 | Gun Trips         | Spacing/stick/verts; consistent reads                | Early downs; tempo drives      |
 | Gun Doubles (2x2) | Mesh/Y-Cross/verts; balanced access                  | Base menu; 3rd-and-medium      |
@@ -520,7 +520,7 @@ These are programs commonly associated with Air Raid principles historically or 
 
 The NFL rarely runs a “pure” Air Raid, but many teams borrow the spacing/quick-game DNA.
 
-| NFL team (varies by year)                  | What feels Air Raid-ish                       |
+| **NFL team (varies by year)**              | **What feels Air Raid-ish**                   |
 | ------------------------------------------ | --------------------------------------------- |
 | Kansas City Chiefs                         | Spacing, quick game answers, option routes    |
 | Cincinnati Bengals                         | Shot plays off spread looks, rhythm passing   |
@@ -538,11 +538,11 @@ How to fill:
 1. In CFB26, view the team’s offensive playbook label.
 2. If it matches an Air Raid-style book (or plays like one), add it here.
 
-| Team | In-game offensive playbook name | Notes (formations you see a lot, standout concepts) |
-| ---- | ------------------------------- | --------------------------------------------------- |
-|      |                                 |                                                     |
-|      |                                 |                                                     |
-|      |                                 |                                                     |
+| **Team** | **In-game offensive playbook name** | **Notes (formations you see a lot, standout concepts)** |
+| -------- | ----------------------------------- | ------------------------------------------------------- |
+|          |                                     |                                                         |
+|          |                                     |                                                         |
+|          |                                     |                                                         |
 
 ---
 

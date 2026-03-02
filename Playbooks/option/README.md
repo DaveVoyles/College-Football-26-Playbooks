@@ -51,28 +51,28 @@ In games, option playbooks typically blend:
 
 The goal is to physically exhaust the DL and frustrate the LBs.
 
-| Play # | Situation / Note | Concept / Call           | Why?                            |
-| :----: | ---------------- | ------------------------ | ------------------------------- |
-|   1    | Opener           | **Triple Option / Veer** | Establish the read immediately  |
-|   2    | Constraint       | **Rocket Toss**          | Beat them to the edge fast      |
-|   3    | Counter          | **F-Counter / Trap**     | Catch LBs flowing to the motion |
-|   4    | Pass (Surprise)  | **Veer Pass / Pop**      | TE slips behind aggressive LBs  |
-|   5    | Run              | **Midline Option**       | Read the DT instead of the DE   |
-|   6    | Run              | **Triple Option**        | Repetition breaks the defense   |
-|   7    | Short Yardage    | **FB Dive**              | 4 yards and a cloud of dust     |
-|   8    | Shot Play        | **Switch Verticals**     | Wheel routes usually wide open  |
+| **Play #** | **Situation / Note** | **Concept / Call**       | **Why?**                        |
+| :--------: | -------------------- | ------------------------ | ------------------------------- |
+|     1      | Opener               | **Triple Option / Veer** | Establish the read immediately  |
+|     2      | Constraint           | **Rocket Toss**          | Beat them to the edge fast      |
+|     3      | Counter              | **F-Counter / Trap**     | Catch LBs flowing to the motion |
+|     4      | Pass (Surprise)      | **Veer Pass / Pop**      | TE slips behind aggressive LBs  |
+|     5      | Run                  | **Midline Option**       | Read the DT instead of the DE   |
+|     6      | Run                  | **Triple Option**        | Repetition breaks the defense   |
+|     7      | Short Yardage        | **FB Dive**              | 4 yards and a cloud of dust     |
+|     8      | Shot Play            | **Switch Verticals**     | Wheel routes usually wide open  |
 
 ## Dynasty Recruiting Guide (quick targets) 🎓
 
 Option recruiting is weird. You don't want "stars"; you want **specific traits**.
 
-| Position  | Archetype / Key Stats           | Why?                                                  |
-| :-------- | ------------------------------- | ----------------------------------------------------- |
-| **QB**    | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.        |
-| **HB/SB** | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionaly. |
-| **FB**    | **Power Back** (TRK, STR, CAR)  | The engine. 20 carries/game inside.                   |
-| **OL**    | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.    |
-| **WR**    | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                 |
+| **Position** | **Archetype / Key Stats**       | **Why?**                                              |
+| :----------- | ------------------------------- | ----------------------------------------------------- |
+| **QB**       | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.        |
+| **HB/SB**    | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionaly. |
+| **FB**       | **Power Back** (TRK, STR, CAR)  | The engine. 20 carries/game inside.                   |
+| **OL**       | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.    |
+| **WR**       | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                 |
 
 ---
 
@@ -89,11 +89,11 @@ Option systems vary more than other styles. Common groupings:
 
 ### Personnel cheat table
 
-| Personnel | On-field           | Why you’d use it in Option                              |
-| --------- | ------------------ | ------------------------------------------------------- |
-| 11        | 1 RB / 1 TE / 3 WR | Spread option base: zone read, RPO, QB keep             |
-| 20        | 2 RB / 3 WR        | Speed option/misdirection; pitch relationships in space |
-| 21        | 2 RB / 1 TE / 2 WR | More downhill; lead blockers; short yardage QB run menu |
+| **Personnel** | **On-field**       | **Why you’d use it in Option**                          |
+| ------------- | ------------------ | ------------------------------------------------------- |
+| 11            | 1 RB / 1 TE / 3 WR | Spread option base: zone read, RPO, QB keep             |
+| 20            | 2 RB / 3 WR        | Speed option/misdirection; pitch relationships in space |
+| 21            | 2 RB / 1 TE / 2 WR | More downhill; lead blockers; short yardage QB run menu |
 
 Traditional option variants sometimes use heavier looks (not always labeled cleanly in-game), but the “idea” is:
 
@@ -124,11 +124,11 @@ Common read keys:
 
 ### Read-key cheat table
 
-| Play family   | Typical read key        | Your decision                                  |
-| ------------- | ----------------------- | ---------------------------------------------- |
-| Zone read     | Backside DE             | Give vs squeeze/crash • Keep vs slow/play wide |
-| Speed option  | Play-side edge (DE/OLB) | Pitch if he takes QB • Keep if he takes pitch  |
-| Triple option | Dive key + pitch key    | Give/keep/pitch based on first commitment      |
+| **Play family** | **Typical read key**    | **Your decision**                              |
+| --------------- | ----------------------- | ---------------------------------------------- |
+| Zone read       | Backside DE             | Give vs squeeze/crash • Keep vs slow/play wide |
+| Speed option    | Play-side edge (DE/OLB) | Pitch if he takes QB • Keep if he takes pitch  |
+| Triple option   | Dive key + pitch key    | Give/keep/pitch based on first commitment      |
 
 If you can’t identify the key pre-snap, don’t call the play.
 
@@ -542,23 +542,23 @@ The QB run threat becomes stronger.
 
 The Option isn't just about reading the dive key; it's about forcing the defense to play disciplined football for 4 quarters.
 
-| Play # | Situation / Note       | Concept / Call               | Why?                                          |
-| :----: | ---------------------- | ---------------------------- | --------------------------------------------- |
-|   1    | Scripted Opener (Tone) | **Triple Option (Flexbone)** | Establish the read immediately.               |
-|   2    | Counter Punch          | **Rocket Toss**              | If they crash inside, sprint outside.         |
-|   3    | Run: Dive              | **FB Dive**                  | 3 yards and a cloud of dust.                  |
-|   4    | Play-Action Shot       | **Pop Pass**                 | LBs bite on the dive? Throw over their heads. |
-|   5    | Misdirection           | **Counter Option**           | Fake one way, pitch the other.                |
-|   6    | Base Pass              | **Curl / Out**               | Keep the secondary honest.                    |
-|   7    | Red Zone Setup         | **Midline Option**           | Isolate the DT.                               |
-|   8    | Shot Play              | **Wheel Route**              | RB out of the backfield is unattended.        |
-|   9    | Run: QB Keep           | **QB Sneak / Iso**           | Sometimes, just run the QB.                   |
-|   10   | Perimeter Check        | **Speed Option**             | Get the ball to your fastest player.          |
-|   11   | Tempo / Clock          | **FB Trap**                  | Quick hitter against aggressive DTs.          |
-|   12   | Deep Shot              | **Post / Corner**            | Safety comes down? Touchdown.                 |
-|   13   | 3rd & Short            | **FB Dive**                  | Always.                                       |
-|   14   | 4-Minute Drill         | **Triple Option**            | Grind the clock.                              |
-|   15   | Goal Line              | **Wishbone / Power**         | Put everyone in the box and push.             |
+| **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
+| :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
+|     1      | Scripted Opener (Tone) | **Triple Option (Flexbone)** | Establish the read immediately.               |
+|     2      | Counter Punch          | **Rocket Toss**              | If they crash inside, sprint outside.         |
+|     3      | Run: Dive              | **FB Dive**                  | 3 yards and a cloud of dust.                  |
+|     4      | Play-Action Shot       | **Pop Pass**                 | LBs bite on the dive? Throw over their heads. |
+|     5      | Misdirection           | **Counter Option**           | Fake one way, pitch the other.                |
+|     6      | Base Pass              | **Curl / Out**               | Keep the secondary honest.                    |
+|     7      | Red Zone Setup         | **Midline Option**           | Isolate the DT.                               |
+|     8      | Shot Play              | **Wheel Route**              | RB out of the backfield is unattended.        |
+|     9      | Run: QB Keep           | **QB Sneak / Iso**           | Sometimes, just run the QB.                   |
+|     10     | Perimeter Check        | **Speed Option**             | Get the ball to your fastest player.          |
+|     11     | Tempo / Clock          | **FB Trap**                  | Quick hitter against aggressive DTs.          |
+|     12     | Deep Shot              | **Post / Corner**            | Safety comes down? Touchdown.                 |
+|     13     | 3rd & Short            | **FB Dive**                  | Always.                                       |
+|     14     | 4-Minute Drill         | **Triple Option**            | Grind the clock.                              |
+|     15     | Goal Line              | **Wishbone / Power**         | Put everyone in the box and push.             |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -573,13 +573,13 @@ If you played a true Option game, your stats should look like this:
 
 If you run the Option, prioritize these archetypes:
 
-| Position | Archetype / Key Stats              | Why?                                               |
-| :------- | ---------------------------------- | -------------------------------------------------- |
-| **QB**   | **Scrambler / Athlete** (SPD, ACC) | Must be the best athlete on the field.             |
-| **HB**   | **Speed Back** (SPD, ACC)          | For pitches and toss plays.                        |
-| **FB**   | **Power Back** (TRK, STR, BTK)     | The engine. Needs to consistently gain 3 yards.    |
-| **WR**   | **Deep Threat** (SPD, RBK)         | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
-| **OL**   | **Run Blocker** (RBK, RBP, STR)    | They dictate the game.                             |
+| **Position** | **Archetype / Key Stats**          | **Why?**                                           |
+| :----------- | ---------------------------------- | -------------------------------------------------- |
+| **QB**       | **Scrambler / Athlete** (SPD, ACC) | Must be the best athlete on the field.             |
+| **HB**       | **Speed Back** (SPD, ACC)          | For pitches and toss plays.                        |
+| **FB**       | **Power Back** (TRK, STR, BTK)     | The engine. Needs to consistently gain 3 yards.    |
+| **WR**       | **Deep Threat** (SPD, RBK)         | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
+| **OL**       | **Run Blocker** (RBK, RBP, STR)    | They dictate the game.                             |
 
 ---
 
@@ -599,21 +599,21 @@ Start here and **verify in-game**:
 
 The NFL doesn’t run true triple option as a base offense, but several teams feature meaningful QB-run/option packages.
 
-| NFL team (varies by year) | What matches Option principles    |
-| ------------------------- | --------------------------------- |
-| Baltimore Ravens          | QB run game, read-option elements |
-| Philadelphia Eagles       | QB run/option packages            |
-| Buffalo Bills             | QB run threat + numbers advantage |
+| **NFL team (varies by year)** | **What matches Option principles** |
+| ----------------------------- | ---------------------------------- |
+| Baltimore Ravens              | QB run game, read-option elements  |
+| Philadelphia Eagles           | QB run/option packages             |
+| Buffalo Bills                 | QB run threat + numbers advantage  |
 
 ---
 
 ## Teams in CFB26 that use an Option playbook (fill this in) 🏟️
 
-| Team | In-game offensive playbook name | Notes (QB run %, option types, favorite constraint plays) |
-| ---- | ------------------------------- | --------------------------------------------------------- |
-|      |                                 |                                                           |
-|      |                                 |                                                           |
-|      |                                 |                                                           |
+| **Team** | **In-game offensive playbook name** | **Notes (QB run %, option types, favorite constraint plays)** |
+| -------- | ----------------------------------- | ------------------------------------------------------------- |
+|          |                                     |                                                               |
+|          |                                     |                                                               |
+|          |                                     |                                                               |
 
 ---
 

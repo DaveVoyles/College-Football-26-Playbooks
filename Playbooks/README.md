@@ -1,6 +1,6 @@
 # Playbooks (Offensive Scheme Families) 📚
 
-**Curated by Dave Voyles**
+Curated by Dave Voyles
 
 **New Features:** Each guide now includes a **Dynasty Recruiting Guide 🎓** and a **Sample 15-play Opening Script 📝**.
 
