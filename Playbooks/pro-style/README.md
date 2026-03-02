@@ -160,7 +160,7 @@ You’ll be most consistent if you pick **two run families** and build everythin
 
 ---
 
-## Core pass game families 🧨
+## Core pass game families / concept menu ⚙️
 
 ### Pass family cheat table
 
@@ -227,13 +227,13 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 
 ### Situational call sheet table
 
-| **Situation**   | **Go-to calls (examples)**                                               | **Point of emphasis**                       |
-| ----------- | -------------------------------------------------------------------- | --------------------------------------- |
-| Early downs | Inside zone, power/counter, boot flood, PA cross (sprinkle)          | Stay on schedule; force safety trigger  |
-| 2nd & short | PA shot (post/cross), max protect dig, outside zone PA               | Attack; don’t “waste” advantage         |
-| 3rd down    | 1–2: power/sneak/flat • 3–6: boot/smash • 7+: dagger/deep cross/mesh | Know your money concept by distance     |
-| Red zone    | Heavy run, PA TE corner/leak, fades/stops, bunch rubs                | Condensed field: win leverage quickly   |
-| Backed up   | Inside zone, boot to flat, safe quick game                           | Avoid sacks/TFLs; take easy completions |
+| **Situation** | **Go-to calls (examples)**                                           | **Point of emphasis**                   |
+| ------------- | -------------------------------------------------------------------- | --------------------------------------- |
+| Early downs   | Inside zone, power/counter, boot flood, PA cross (sprinkle)          | Stay on schedule; force safety trigger  |
+| 2nd & short   | PA shot (post/cross), max protect dig, outside zone PA               | Attack; don’t “waste” advantage         |
+| 3rd down      | 1–2: power/sneak/flat • 3–6: boot/smash • 7+: dagger/deep cross/mesh | Know your money concept by distance     |
+| Red zone      | Heavy run, PA TE corner/leak, fades/stops, bunch rubs                | Condensed field: win leverage quickly   |
+| Backed up     | Inside zone, boot to flat, safe quick game                           | Avoid sacks/TFLs; take easy completions |
 
 ### Early downs (establish identity)
 
@@ -270,7 +270,9 @@ Pro Style doesn’t have to be “deep or nothing.” Use:
 - Boot with immediate flat
 - Safe quick game from gun (if needed)
 
-## Standard Audible Package (Pro Check) 🗣️
+## Pre-snap plan (audibles + box count + motion) 🎮
+
+### Standard Audible Package (Pro Check) 🗣️
 
 Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix bad looks:
 
@@ -281,9 +283,47 @@ Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix b
 
 ---
 
-## “If they do X, I do Y” (defensive answers) 🛡️
+### Suggested audible set (example)
 
-| **Defensive look/problem**      | **Your answer**                                 | **Notes**                                    |
+Pro Style audibles should cover:
+
+- heavy box (throw quickly)
+- light box (run)
+- blitz (screen or quick throw)
+- two-high (run or intermediate concept)
+
+Suggested audible set (example):
+
+1. Power / inside zone (base)
+2. Quick slant/flat (answer vs heavy box)
+3. Boot flood (easy completion)
+4. Play-action shot (post/cross)
+5. Screen (blitz punish)
+
+Pre-snap checklist:
+
+- If they’re in dime: run it.
+- If corners are off: take quick game.
+- If safeties are creeping: shot play.
+
+---
+
+## QB operation (timing + progressions) ⏱️
+
+Pro Style lives on being “on time” with longer-developing plays.
+
+- **Quick answers:** if they load the box, take a fast throw (flat/slant/stick).
+- **Boot/rollouts:** set the edge first, then throw on time—don’t drift into sacks.
+- **Play-action shots:** treat them like shots (protect it, and be willing to check down).
+
+Repeatable progression patterns that show up a lot:
+
+- High-low the flat defender (boot flood, smash)
+- Clear-out + intermediate window (post clears for cross/dig)
+
+## Defensive looks and your counters 🛡️
+
+| **Defensive look/problem**  | **Your answer**                             | **Notes**                                |
 | --------------------------- | ------------------------------------------- | ---------------------------------------- |
 | Light box (two-high, dime)  | Run until they stop it; add stretch         | Make them add a fitter                   |
 | Aggressive LBs crashing run | PA crossers/seams; leak opposite run action | Throw where they vacated                 |
@@ -315,13 +355,13 @@ Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix b
 
 ## Roster building priorities 🧬
 
-| **Priority** | **What to target**                          | **Why it matters in Pro Style**                              |
-| -------- | --------------------------------------- | -------------------------------------------------------- |
-| 1        | Offensive line (tackles especially)     | Protects longer play-action; keeps run game on schedule  |
-| 2        | RB who falls forward (contact balance)  | Turns 2-yard plays into 4; keeps 2nd/3rd down manageable |
-| 3        | TE who can block (credible run looks)   | Makes heavy personnel real; improves PA and edges        |
-| 4        | True X receiver (wins 1-on-1)           | Punishes loaded boxes with isolations and comebacks/digs |
-| 5        | QB with play-action + mid/deep accuracy | Converts your “setup” into explosives                    |
+| **Priority** | **What to target**                      | **Why it matters in Pro Style**                          |
+| ------------ | --------------------------------------- | -------------------------------------------------------- |
+| 1            | Offensive line (tackles especially)     | Protects longer play-action; keeps run game on schedule  |
+| 2            | RB who falls forward (contact balance)  | Turns 2-yard plays into 4; keeps 2nd/3rd down manageable |
+| 3            | TE who can block (credible run looks)   | Makes heavy personnel real; improves PA and edges        |
+| 4            | True X receiver (wins 1-on-1)           | Punishes loaded boxes with isolations and comebacks/digs |
+| 5            | QB with play-action + mid/deep accuracy | Converts your “setup” into explosives                    |
 
 ---
 
@@ -351,7 +391,7 @@ This is not a rigid script—think of it as a pattern you can repeat during a ga
 
 ---
 
-## Personnel packages (what to major in and why) 🧩
+### Personnel packages (what to major in and why) 🧩
 
 Pro Style succeeds when you can force the defense to pick a poison:
 
@@ -384,32 +424,9 @@ Best for:
 
 ---
 
-## Audible package (so you can punish the look) 🎮
+## In-game execution notes 🎮
 
-Pro Style audibles should cover:
-
-- heavy box (throw quickly)
-- light box (run)
-- blitz (screen or quick throw)
-- two-high (run or intermediate concept)
-
-Suggested audible set (example):
-
-1. Power / inside zone (base)
-2. Quick slant/flat (answer vs heavy box)
-3. Boot flood (easy completion)
-4. Play-action shot (post/cross)
-5. Screen (blitz punish)
-
-Pre-snap checklist:
-
-- If they’re in dime: run it.
-- If corners are off: take quick game.
-- If safeties are creeping: shot play.
-
----
-
-## Clock and field-position plan (a Pro Style advantage) 🧭
+### Clock and field-position plan (a Pro Style advantage) 🧭
 
 If you like playing “real football,” Pro Style is excellent at controlling game state.
 
@@ -419,7 +436,7 @@ If you like playing “real football,” Pro Style is excellent at controlling g
 
 ---
 
-## Weekly install plan (Dynasty-friendly) 📚
+## Weekly install plan 📚
 
 ### Week 1: one run family + one boot
 
@@ -468,7 +485,7 @@ Fix:
 
 ---
 
-## Run-game diagnostics (how to know where to run) 🧾
+### Run-game diagnostics (how to know where to run) 🧾
 
 Pro Style becomes much easier when you stop calling runs “randomly” and start aiming them at defensive structure.
 
@@ -503,7 +520,9 @@ Even if the yardage is similar, the defender fits change, and that’s what crea
 
 ---
 
-## Short-yardage mini-playbook 🟥
+## Situational packages (what to favorite) ⭐
+
+### Short-yardage mini-playbook 🟥
 
 If you want Pro Style to feel dominant, decide your “3 calls” for 3rd & 1–2.
 
@@ -517,7 +536,7 @@ In games, short yardage is as much about avoiding negative plays as it is about 
 
 ---
 
-## Pace note (Pro Style can still go fast) ⏱️
+## Pace note ⏱️
 
 You don’t have to huddle every snap. A simple approach:
 
