@@ -504,6 +504,51 @@ Adjust on the fly:
 
 ---
 
+## Sample 15-play opening script (copy/paste idea) 📝
+
+The West Coast offense is about rhythm. The first drive must get the QB comfortable and the defense moving laterally.
+
+| Play # | Situation / Note       | Concept / Call             | Why?                                         |
+| :----: | ---------------------- | -------------------------- | -------------------------------------------- |
+|   1    | Scripted Opener (Safe) | **Slant / Flat**           | Easy read, gets the ball out fast            |
+|   2    | Rhythm Throws          | **Stick / Spacing**        | Force LBs to widen or freeze                 |
+|   3    | Run: Base Zone         | **Inside Zone**            | Keep the DL honest                           |
+|   4    | Quick Game             | **Dragon (Slant/Window)**  | Attack the middle voids                      |
+|   5    | Screen                 | **HB Slip Screen**         | Punish aggressive pass rush                  |
+|   6    | Base Concept           | **Mesh**                   | Man-beater staple; easy yards                |
+|   7    | Run: Outside           | **Stretch / Toss**         | Test their perimeter discipline              |
+|   8    | Play-Action Shot       | **PA Post / Cross**        | Capitalize on LBs biting up on the run/short |
+|   9    | Intermediate           | **Drive (Shallow + Dig)**  | High-low the LBs                             |
+|   10   | Run: Cutback           | **Split Zone**             | Misdirection with the TE                     |
+|   11   | Checkdown / Outlet     | **Texas (RB Angle)**       | Isolate the RB on a LB                       |
+|   12   | Deep Shot              | **All Go / 4 Verts**       | Stretch the field vertically                 |
+|   13   | Red Zone Prep          | **Smash (Hitch + Corner)** | High-low the CB                              |
+|   14   | 3rd Down Call          | **Levels / Y-Sail**        | Flood a zone with 3 levels of routes         |
+|   15   | Goal Line              | **FB Dive / QB Sneak**     | Simple, physical finish                      |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true West Coast game, your stats should look like this:
+
+- **Completion Percentage:** > 75% (Short, high-percentage throws)
+- **Yards Per Attempt:** ~7-8 (Efficiency over explosion)
+- **Time of Possession:** > 55% (Ball control passing)
+- **3rd Down Conversions:** > 50% (Manageable distances)
+
+## Dynasty Recruiting Guide 🎓
+
+If you run the West Coast, prioritize these archetypes:
+
+| Position | Archetype / Key Stats            | Why?                                                |
+| :------- | -------------------------------- | --------------------------------------------------- |
+| **QB**   | **Field General** (SAC, MAC)     | Short/Medium accuracy is non-negotiable.            |
+| **HB**   | **Receiving Back** (CTH, SRR)    | Your RB is your 5th receiver. They get 5+ catches.  |
+| **TE**   | **Possession** (CTH, CIT)        | Safety valve over the middle. Hands > Speed.        |
+| **WR**   | **Route Runner** (SRR, MRR, CTH) | Separation is created by cuts, not just speed.      |
+| **OL**   | **Pass Protector** (PBP, PBF)    | Quick sets are key; don't need maulers, need walls. |
+
+---
+
 ## Teams to check first in CFB26 (real-world scheme fit) 🔍
 
 West Coast is also a broad label in college, but these programs are commonly associated with pro-style timing concepts, boots, and layered progressions.

@@ -521,6 +521,51 @@ The QB run threat becomes stronger.
 
 ---
 
+## Sample 15-play opening script (copy/paste idea) 📝
+
+The Option isn't just about reading the dive key; it's about forcing the defense to play disciplined football for 4 quarters.
+
+| Play # | Situation / Note       | Concept / Call               | Why?                                          |
+| :----: | ---------------------- | ---------------------------- | --------------------------------------------- |
+|   1    | Scripted Opener (Tone) | **Triple Option (Flexbone)** | Establish the read immediately.               |
+|   2    | Counter Punch          | **Rocket Toss**              | If they crash inside, sprint outside.         |
+|   3    | Run: Dive              | **FB Dive**                  | 3 yards and a cloud of dust.                  |
+|   4    | Play-Action Shot       | **Pop Pass**                 | LBs bite on the dive? Throw over their heads. |
+|   5    | Misdirection           | **Counter Option**           | Fake one way, pitch the other.                |
+|   6    | Base Pass              | **Curl / Out**               | Keep the secondary honest.                    |
+|   7    | Red Zone Setup         | **Midline Option**           | Isolate the DT.                               |
+|   8    | Shot Play              | **Wheel Route**              | RB out of the backfield is unattended.        |
+|   9    | Run: QB Keep           | **QB Sneak / Iso**           | Sometimes, just run the QB.                   |
+|   10   | Perimeter Check        | **Speed Option**             | Get the ball to your fastest player.          |
+|   11   | Tempo / Clock          | **FB Trap**                  | Quick hitter against aggressive DTs.          |
+|   12   | Deep Shot              | **Post / Corner**            | Safety comes down? Touchdown.                 |
+|   13   | 3rd & Short            | **FB Dive**                  | Always.                                       |
+|   14   | 4-Minute Drill         | **Triple Option**            | Grind the clock.                              |
+|   15   | Goal Line              | **Wishbone / Power**         | Put everyone in the box and push.             |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true Option game, your stats should look like this:
+
+- **Rushing Attempts:** > 50 (Dominate the ground)
+- **Passing Attempts:** < 15 (Only pass when necessary)
+- **Time of Possession:** > 60% (Keep their offense off the field)
+- **Yards Per Carry:** > 4.5 (Move the chains)
+
+## Dynasty Recruiting Guide 🎓
+
+If you run the Option, prioritize these archetypes:
+
+| Position | Archetype / Key Stats              | Why?                                               |
+| :------- | ---------------------------------- | -------------------------------------------------- |
+| **QB**   | **Scrambler / Athlete** (SPD, ACC) | Must be the best athlete on the field.             |
+| **HB**   | **Speed Back** (SPD, ACC)          | For pitches and toss plays.                        |
+| **FB**   | **Power Back** (TRK, STR, BTK)     | The engine. Needs to consistently gain 3 yards.    |
+| **WR**   | **Deep Threat** (SPD, RBK)         | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
+| **OL**   | **Run Blocker** (RBK, RBP, STR)    | They dictate the game.                             |
+
+---
+
 ## Teams to check first in CFB26 (real-world scheme fit) 🔍
 
 If you want a true option feel, start with service academies and classic option programs.

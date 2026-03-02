@@ -2,6 +2,8 @@
 
 **Curated by Dave Voyles**
 
+**New Features:** Each guide now includes a **Dynasty Recruiting Guide 🎓** and a **Sample 15-play Opening Script 📝**.
+
 Each folder contains one long-form scheme guide.
 
 ## Major styles 🏈
@@ -16,8 +18,8 @@ Each folder contains one long-form scheme guide.
 
 ## Tools & Templates 🛠️
 
-- �️ [CFB Team Scheme Guide](CFB_TEAMS.md) (Find which teams run what offense)
-- �🏃‍♂️ [Route Concepts & Coverage Cheat Sheet](ROUTE_CONCEPTS.md) (When to throw what)
+- ️ [CFB Team Scheme Guide](../CFB_TEAMS.md) (Find which teams run what offense)
+- 🏃‍♂️ [Route Concepts & Coverage Cheat Sheet](../ROUTE_CONCEPTS.md) (When to throw what)
 - 📝 [Weekly Gameplan & Call Sheet Template](_templates/Call_Sheet_Template.md) (Copy this to plan your games)
 
 ## Scheme comparison (at a glance) 🧠

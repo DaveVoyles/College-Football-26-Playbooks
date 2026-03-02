@@ -533,6 +533,51 @@ Practical habits:
 
 ---
 
+## Sample 15-play opening script (copy/paste idea) 📝
+
+The Spread script is about finding where the "free hitter" is coming from and making them wrong.
+
+| Play # | Situation / Note       | Concept / Call               | Why?                                          |
+| :----: | ---------------------- | ---------------------------- | --------------------------------------------- |
+|   1    | Scripted Opener (Safe) | **Inside Zone Read**         | Read the DE. If he squeezes, pull and run.    |
+|   2    | Perimeter Test         | **Jet Sweep / Touch Pass**   | Can their LBs run sideline to sideline?       |
+|   3    | Quick Game             | **Stick (3-Rec side)**       | Instant yards if they play off coverage.      |
+|   4    | Run: Counter           | **Bash / GT Counter**        | Pulling linemen to create angles.             |
+|   5    | Screen                 | **Tunnel Screen**            | Punish the blitz.                             |
+|   6    | Base Pass              | **Y-Cross**                  | The Air Raid staple that fits perfectly here. |
+|   7    | Shot Play              | **Post-Wheel**               | Wheel route is often open vs man.             |
+|   8    | RPO                    | **Glance RPO**               | Read the LB. If he fills, throw the slant.    |
+|   9    | Run: QB Design         | **QB Draw**                  | Spread them out and run up the middle.        |
+|   10   | Trick / Tempo          | **Reveverse / Flea Flicker** | Catch them sleeping.                          |
+|   11   | Checkdown              | **RB Swing**                 | Get your athlete in space.                    |
+|   12   | Deep Shot              | **Deep Post / Go**           | Test the safety help.                         |
+|   13   | Red Zone: High         | **Fade**                     | 1-on-1 matchup.                               |
+|   14   | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
+|   15   | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true Spread game, your stats should look like this:
+
+- **Rushing Yards (QB):** > 50 (Keep the defense honest)
+- **Completion Percentage:** > 65% (High efficiency)
+- **Plays:** > 75 (Tempo and first downs)
+- **Turnovers:** < 1 (Read keys, don't force)
+
+## Dynasty Recruiting Guide 🎓
+
+If you run the Spread, prioritize these archetypes:
+
+| Position | Archetype / Key Stats            | Why?                                             |
+| :------- | -------------------------------- | ------------------------------------------------ |
+| **QB**   | **Scrambler** (SPD, ACC, THP)    | Must be a threat to run the Zone Read.           |
+| **HB**   | **Elusive Back** (SPD, ACC, COD) | Needs to make the first defender miss in space.  |
+| **TE**   | **Vertical Threat** (SPD, CTH)   | Creates mismatches vs LBs.                       |
+| **WR**   | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
+| **OL**   | **Agile** (AGI, PBF, RBK)        | Needs to move for screens and pulls.             |
+
+---
+
 ## Teams to check first in CFB26 (real-world scheme fit) 🔍
 
 Spread is extremely common, but these programs are widely associated with spread formations, tempo, and RPO/box-count football.

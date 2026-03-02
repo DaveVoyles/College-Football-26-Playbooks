@@ -400,6 +400,51 @@ If you don’t see a trigger, keep stacking efficient plays. The explosive usual
 
 ---
 
+## Sample 15-play opening script (copy/paste idea) 📝
+
+The Veer and Shoot script is designed to identify how the defense aligns to your extreme splits and tempo.
+
+| Play # | Situation / Note       | Concept / Call               | Why?                                   |
+| :----: | ---------------------- | ---------------------------- | -------------------------------------- |
+|   1    | Scripted Opener (Fast) | **Inside Zone (RPO Bubble)** | See if they empty the box to cover WRs |
+|   2    | Tempo Shot             | **Deep Choice (Go/Post)**    | Test CB discipline immediately         |
+|   3    | Run: Base              | **Power Read / GT Counter**  | Physical running into light boxes      |
+|   4    | Quick Screen           | **Bubble / Tunnel Screen**   | Force perimeter tackling               |
+|   5    | RPO Staple             | **Glance / Slant RPO**       | Punish aggressive LBs                  |
+|   6    | Deep Shot              | **Switch Verticals**         | Confusion in the secondary             |
+|   7    | Constraint Play        | **QB Draw / designed run**   | Keep the DL honest                     |
+|   8    | Intermediate           | **Dig / deep crossing**      | Occupy the middle vacuum               |
+|   9    | Tempo: Gas             | **No-Huddle Same Play**      | Tire out their big men                 |
+|   10   | Run: Exploitation      | **Zone Read**                | Read the unblocked edge                |
+|   11   | Perimeter Shot         | **Fade / Back Shoulder**     | Isolation on the wide side             |
+|   12   | Screen: Slow           | **HB Slip Screen**           | Catch aggressive rushers napping       |
+|   13   | Red Zone: High         | **Fade / Jump Ball**         | Use height/crops                       |
+|   14   | Red Zone: Low          | **Shovel Option**            | Goal line misdirection                 |
+|   15   | Goal Line              | **QB Power**                 | 11-on-11 football                      |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true Veer and Shoot game, your stats should look like this:
+
+- **Total Plays:** > 80 (Tempo creates more possessions)
+- **Big Plays (20+ yds):** > 5 (Explosive offense)
+- **Rushing Yards:** > 200 (Spread to run)
+- **Avg Depth of Target:** High (Vertical passing)
+
+## Dynasty Recruiting Guide 🎓
+
+If you run the Veer and Shoot, prioritize these archetypes:
+
+| Position | Archetype / Key Stats            | Why?                                            |
+| :------- | -------------------------------- | ----------------------------------------------- |
+| **QB**   | **Strong Arm** (THP, DAC)        | Must drive the ball outside the numbers.        |
+| **HB**   | **Elusive Back** (SPD, ACC, COD) | Operates in space. One missed tackle = TD.      |
+| **TE**   | **Vertical Threat** (SPD, CTH)   | Often a glorified big slot receiver.            |
+| **WR**   | **Deep Threat** (SPD, ACC, RLS)  | SPEED. If they can't run by a corner, they sit. |
+| **OL**   | **Agile** (AGI, PBF, RBK)        | Wide splits mean wider rush angles. Need feet.  |
+
+---
+
 ## Teams to check first in CFB26 (real-world scheme fit) 🔍
 
 Veer and Shoot is most often associated with wide splits, tempo, and access throws.

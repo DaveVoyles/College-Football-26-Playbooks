@@ -24,6 +24,12 @@ Use it to pick a scheme, understand **how it wants to win**, and build a consist
 3. Favorite a small set of plays using the guide’s “situational favorites” section.
 4. Add teams you confirm in-game to the scheme’s **CFB26 team list**.
 
+## Tools & Templates 🛠️
+
+- 🏟️ [CFB Team Scheme Guide](CFB_TEAMS.md) (Find which teams run what offense)
+- 🏃‍♂️ [Route Concepts & Coverage Cheat Sheet](ROUTE_CONCEPTS.md) (When to throw what)
+- 📝 [Weekly Gameplan & Call Sheet Template](Playbooks/_templates/Call_Sheet_Template.md) (Copy this to plan your games)
+
 ## Pick a scheme (fast chooser) 🧭
 
 | If you like…                     | Start with…                                          | Why                                          | Typical personnel (RB/TE/WR) |
