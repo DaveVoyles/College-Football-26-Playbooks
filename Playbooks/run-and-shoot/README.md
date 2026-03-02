@@ -518,6 +518,10 @@ Goal: you should be able to say “I’m throwing the slot option unless the def
 
 The Run and Shoot is about reading leverage on the fly. The script is less about "calling plays" and more about "calling reads."
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                                 |
 | :--------: | -------------------- | -------------------------- | ---------------------------------------- |
 |     1      | The Base             | **Choice / Option**        | 🟢 See how they cover the slot           |
@@ -536,6 +540,9 @@ The Run and Shoot is about reading leverage on the fly. The script is less about
 |     14     | Screen: Slow         | **Middle Screen**          | 🟡 Slow down aggressive rush             |
 |     15     | Finisher             | **Zone Read**              | 🟢 If they ignore the QB                 |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Run and Shoot game, your stats should look like this:
@@ -549,6 +556,10 @@ If you played a true Run and Shoot game, your stats should look like this:
 
 If you run the Run and Shoot, prioritize these archetypes:
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**      | **Why?**                                                |
 | :----------- | ------------------------------ | ------------------------------------------------------- |
 | **QB**       | **Improviser** (AWR, RUN, TUP) | 🧠 Needs to buy time and make smart reads.              |
@@ -556,6 +567,9 @@ If you run the Run and Shoot, prioritize these archetypes:
 | **SB**       | **Slot** (AWR, SRR, CIT)       | 👀 "Super Backs" (Slots) must read coverages perfectly. |
 | **WR**       | **Deep Threat** (SPD, DRR)     | 🧤 Must stretch the field to open up underneath.        |
 | **OL**       | **Pass Protector** (PBP, PBF)  | 🧱 Slide protection requires agile blockers.            |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -583,11 +597,18 @@ The NFL doesn’t typically label teams “Run and Shoot” anymore, but option/
 
 ## Teams in CFB26 that use a Run and Shoot playbook (fill this in) 🏟️
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (base personnel, option-route frequency, favorite shots)** |
 | -------- | ----------------------------------- | ------------------------------------------------------------------ |
 |          |                                     |                                                                    |
 |          |                                     |                                                                    |
 |          |                                     |                                                                    |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 

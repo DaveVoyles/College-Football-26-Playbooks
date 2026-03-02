@@ -542,6 +542,10 @@ The Option isn't just about reading the dive key; it's about forcing the defense
 
 ### Table format (copy/paste idea)
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
 | :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
 |     1      | Scripted Opener (Tone) | **Triple Option (Flexbone)** | Establish the read immediately.               |
@@ -560,9 +564,16 @@ The Option isn't just about reading the dive key; it's about forcing the defense
 |     14     | 4-Minute Drill         | **Triple Option**            | Grind the clock.                              |
 |     15     | Goal Line              | **Wishbone / Power**         | Put everyone in the box and push.             |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ### Mini opening script (Option grind)
 
 The goal is to physically exhaust the DL and frustrate the LBs.
+
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show mini-script table</summary>
 
 | **Play #** | **Situation / Note** | **Concept / Call**       | **Why?**                        |
 | :--------: | -------------------- | ------------------------ | ------------------------------- |
@@ -574,6 +585,9 @@ The goal is to physically exhaust the DL and frustrate the LBs.
 |     6      | Run                  | **Triple Option**        | Repetition breaks the defense   |
 |     7      | Short Yardage        | **FB Dive**              | 4 yards and a cloud of dust     |
 |     8      | Shot Play            | **Switch Verticals**     | Wheel routes usually wide open  |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -590,6 +604,10 @@ If you played a true Option game, your stats should look like this:
 
 Option recruiting is weird. You don't want "stars"; you want **specific traits**.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show quick-targets recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**       | **Why?**                                              |
 | :----------- | ------------------------------- | ----------------------------------------------------- |
 | **QB**       | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.        |
@@ -598,7 +616,14 @@ Option recruiting is weird. You don't want "stars"; you want **specific traits**
 | **OL**       | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.    |
 | **WR**       | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                 |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 If you run the Option, prioritize these archetypes:
+
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting priorities table</summary>
 
 | **Position** | **Archetype / Key Stats**          | **Why?**                                           |
 | :----------- | ---------------------------------- | -------------------------------------------------- |
@@ -607,6 +632,9 @@ If you run the Option, prioritize these archetypes:
 | **FB**       | **Power Back** (TRK, STR, BTK)     | The engine. Needs to consistently gain 3 yards.    |
 | **WR**       | **Deep Threat** (SPD, RBK)         | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
 | **OL**       | **Run Blocker** (RBK, RBP, STR)    | They dictate the game.                             |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -636,11 +664,18 @@ The NFL doesn’t run true triple option as a base offense, but several teams fe
 
 ## Teams in CFB26 that use an Option playbook (fill this in) 🏟️
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (QB run %, option types, favorite constraint plays)** |
 | -------- | ----------------------------------- | ------------------------------------------------------------- |
 |          |                                     |                                                               |
 |          |                                     |                                                               |
 |          |                                     |                                                               |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 

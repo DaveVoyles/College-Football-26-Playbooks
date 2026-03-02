@@ -556,6 +556,10 @@ The Spread script is about finding where the "free hitter" is coming from and ma
 
 ### Table format (copy/paste idea)
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
 | :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
 |     1      | Scripted Opener (Safe) | **Inside Zone Read**         | Read the DE. If he squeezes, pull and run.    |
@@ -574,9 +578,16 @@ The Spread script is about finding where the "free hitter" is coming from and ma
 |     14     | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
 |     15     | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ### Mini opening script (Spread RPO pacing)
 
 The goal is to stretch them horizontally until they thin out inside.
+
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show mini-script table</summary>
 
 | **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                               |
 | :--------: | -------------------- | -------------------------- | -------------------------------------- |
@@ -594,6 +605,9 @@ The goal is to stretch them horizontally until they thin out inside.
 |     12     | Red Zone             | **Speed Option**           | 🟡 Eliminate the edge defender         |
 |     13     | Goal Line            | **Q-Power**                | 🟢 Direct snap physicality             |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Spread game, your stats should look like this:
@@ -609,6 +623,10 @@ If you played a true Spread game, your stats should look like this:
 
 Spread teams need **athletes in space** and a diverse QB.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show quick-targets recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**         | **Why?**                                           |
 | :----------- | --------------------------------- | -------------------------------------------------- |
 | **QB**       | **Scrambler** (SPD, ACC, THP)     | 🧠 His legs +1 the run game math. Must be elusive. |
@@ -617,7 +635,14 @@ Spread teams need **athletes in space** and a diverse QB.
 | **WR (X)**   | **Deep Threat** (SPD, DRR)        | 🧤 One guy who forces the safety to back up.       |
 | **OL**       | **Agile** (ACC, AGI, RBK)         | 🧱 They tackle in space on screens and zone runs.  |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 If you run the Spread, prioritize these archetypes:
+
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting priorities table</summary>
 
 | **Position** | **Archetype / Key Stats**        | **Why?**                                         |
 | :----------- | -------------------------------- | ------------------------------------------------ |
@@ -626,6 +651,9 @@ If you run the Spread, prioritize these archetypes:
 | **TE**       | **Vertical Threat** (SPD, CTH)   | Creates mismatches vs LBs.                       |
 | **WR**       | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
 | **OL**       | **Agile** (AGI, PBF, RBK)        | Needs to move for screens and pulls.             |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -657,11 +685,18 @@ Most NFL offenses incorporate spread elements now. These teams often lean into s
 
 ## Teams in CFB26 that use a Spread playbook (fill this in) 🏟️
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (tempo, RPO frequency, QB run presence)** |
 | -------- | ----------------------------------- | ------------------------------------------------- |
 |          |                                     |                                                   |
 |          |                                     |                                                   |
 |          |                                     |                                                   |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 

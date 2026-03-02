@@ -569,6 +569,10 @@ Adjust on the fly:
 
 The West Coast offense is about rhythm. The first drive must get the QB comfortable and the defense moving laterally.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note**   | **Concept / Call**         | **Why?**                                        |
 | :--------: | ---------------------- | -------------------------- | ----------------------------------------------- |
 |     1      | Scripted Opener (Safe) | **Slant / Flat**           | 🟢 Easy read, gets the ball out fast            |
@@ -587,6 +591,9 @@ The West Coast offense is about rhythm. The first drive must get the QB comforta
 |     14     | 3rd Down Call          | **Levels / Y-Sail**        | 🟢 Flood a zone with 3 levels of routes         |
 |     15     | Goal Line              | **FB Dive / QB Sneak**     | 🟢 Simple, physical finish                      |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true West Coast game, your stats should look like this:
@@ -600,6 +607,10 @@ If you played a true West Coast game, your stats should look like this:
 
 If you run the West Coast, prioritize these archetypes:
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**        | **Why?**                                               |
 | :----------- | -------------------------------- | ------------------------------------------------------ |
 | **QB**       | **Field General** (SAC, MAC)     | 🧠 Short/Medium accuracy is non-negotiable.            |
@@ -607,6 +618,9 @@ If you run the West Coast, prioritize these archetypes:
 | **TE**       | **Possession** (CTH, CIT)        | 🧲 Safety valve over the middle. Hands > Speed.        |
 | **WR**       | **Route Runner** (SRR, MRR, CTH) | 🧤 Separation is created by cuts, not just speed.      |
 | **OL**       | **Pass Protector** (PBP, PBF)    | 🧱 Quick sets are key; don't need maulers, need walls. |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -636,11 +650,18 @@ Modern NFL offenses are largely West Coast-derived. These teams are commonly ass
 
 ## Teams in CFB26 that use a West Coast playbook (fill this in) 🏟️
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (favorite concepts, boot frequency, base personnel)** |
 | -------- | ----------------------------------- | ------------------------------------------------------------- |
 |          |                                     |                                                               |
 |          |                                     |                                                               |
 |          |                                     |                                                               |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 

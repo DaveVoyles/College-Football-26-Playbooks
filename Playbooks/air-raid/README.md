@@ -524,6 +524,10 @@ The goal is to find the "lazy" defender and throw at him repeatedly.
 
 ### Table format (Air Raid tempo)
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note** | **Concept / Call**    | **Why?**                                |
 | :--------: | -------------------- | --------------------- | --------------------------------------- |
 |     1      | Scripted Opener      | **Mesh**              | 🟢 Easy completion vs man or zone       |
@@ -542,6 +546,9 @@ The goal is to find the "lazy" defender and throw at him repeatedly.
 |     14     | 2-Point / 4th Down   | **Mesh (Wheel Tag)**  | 🟢 The ultimate answers play            |
 |     15     | Shot (End of Q1)     | **Post-Wheel**        | 🔴 Try to steal a TD                    |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Air Raid game, your stats should look like this:
@@ -555,6 +562,10 @@ If you played a true Air Raid game, your stats should look like this:
 
 Air Raid recruiting is about **speed and hands**, not size or blocking strength.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**          | **Why?**                                               |
 | :----------- | ---------------------------------- | ------------------------------------------------------ |
 | **QB**       | **Improviser** (SAC, MAC, TUP)     | 🧠 Accuracy > arm strength. Must throw under pressure. |
@@ -562,6 +573,9 @@ Air Raid recruiting is about **speed and hands**, not size or blocking strength.
 | **WR**       | **Route Runner** (SRR, MRR, REL)   | 🧤 Separation is everything. Need 10+ recruits here.   |
 | **TE**       | **Vertical Threat** (SPD, CTH)     | 🧲 Doesn't need to block. Needs to win seam routes.    |
 | **OL**       | **Pass Protector** (PBP, PBF, AWR) | 🧱 They will pass set 50 times a game.                 |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -613,11 +627,18 @@ How to fill:
 1. In CFB26, view the team’s offensive playbook label.
 2. If it matches an Air Raid-style book (or plays like one), add it here.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (formations you see a lot, standout concepts)** |
 | -------- | ----------------------------------- | ------------------------------------------------------- |
 |          |                                     |                                                         |
 |          |                                     |                                                         |
 |          |                                     |                                                         |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 

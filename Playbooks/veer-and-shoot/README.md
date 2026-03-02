@@ -424,6 +424,10 @@ If you don’t see a trigger, keep stacking efficient plays. The explosive usual
 
 The Veer and Shoot script is designed to identify how the defense aligns to your extreme splits and tempo.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show opening script table</summary>
+
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                  |
 | :--------: | ---------------------- | ---------------------------- | ----------------------------------------- |
 |     1      | Scripted Opener (Fast) | **Inside Zone (RPO Bubble)** | 🟢 See if they empty the box to cover WRs |
@@ -442,6 +446,9 @@ The Veer and Shoot script is designed to identify how the defense aligns to your
 |     14     | Red Zone: Low          | **Shovel Option**            | 🟡 Goal line misdirection                 |
 |     15     | Goal Line              | **QB Power**                 | 🟢 11-on-11 football                      |
 
+</details>
+<!-- markdownlint-enable MD033 -->
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Veer and Shoot game, your stats should look like this:
@@ -455,6 +462,10 @@ If you played a true Veer and Shoot game, your stats should look like this:
 
 If you run the Veer and Shoot, prioritize these archetypes:
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show recruiting table</summary>
+
 | **Position** | **Archetype / Key Stats**        | **Why?**                                           |
 | :----------- | -------------------------------- | -------------------------------------------------- |
 | **QB**       | **Strong Arm** (THP, DAC)        | 🧠 Must drive the ball outside the numbers.        |
@@ -462,6 +473,9 @@ If you run the Veer and Shoot, prioritize these archetypes:
 | **TE**       | **Vertical Threat** (SPD, CTH)   | 🧲 Often a glorified big slot receiver.            |
 | **WR**       | **Deep Threat** (SPD, ACC, RLS)  | 🧤 SPEED. If they can't run by a corner, they sit. |
 | **OL**       | **Agile** (AGI, PBF, RBK)        | 🧱 Wide splits mean wider rush angles. Need feet.  |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -493,11 +507,18 @@ The NFL rarely runs a true Veer and Shoot, but several teams use **wide splits +
 
 Use this as a living table you update as you confirm playbook assignments in-game.
 
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Show editable teams table</summary>
+
 | **Team** | **In-game offensive playbook name** | **Notes (wide splits? tempo? favorite screens/shots?)** |
 | -------- | ----------------------------------- | ------------------------------------------------------- |
 |          |                                     |                                                         |
 |          |                                     |                                                         |
 |          |                                     |                                                         |
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
