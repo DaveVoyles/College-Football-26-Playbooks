@@ -153,7 +153,25 @@ The goal is not 40 carries; it’s to punish light boxes and keep pass rush hone
 
 ---
 
-## The Run and Shoot decision model (simple and usable) 🧠
+## Pre-snap plan (audibles + box count + motion) 🎮
+
+Suggested audibles (example):
+
+1. Draw / inside zone (light box)
+2. Quick hitch / speed out (fast completion)
+3. Choice / option concept (base identity)
+4. Shallow / crossers (pressure answer)
+5. Four verts / seams (shot)
+
+Rules of thumb:
+
+- If the box is light: run draw/inside zone.
+- If corners are off: take quick game.
+- If you see obvious pressure: throw shallow/quick outs immediately.
+
+---
+
+## QB operation (timing + progressions) ⏱️
 
 ### Step 1: identify the shell
 
@@ -211,7 +229,7 @@ Option routes still work but windows tighten.
 
 ---
 
-## Defensive answers and your counters 🛡️
+## Defensive looks and your counters 🛡️
 
 ### They play press man
 
@@ -270,7 +288,7 @@ You’ll see these most often:
 
 ---
 
-## How to call Run and Shoot (sequencing matters) 🔁
+## Sequencing (how Run and Shoot stays efficient) 🔁
 
 This style is most explosive when you alternate:
 
@@ -291,7 +309,16 @@ The point is to keep the defense from guessing “option routes all drive.”
 
 ---
 
-## Protection plan (how to survive in spread sets) 🛡️
+## Protection + checkdowns + sack-avoidance rules 🛡️
+
+---
+
+## Pace note ⏱️
+
+Run and Shoot can go fast, but only if you keep your reads simple:
+
+- go no-huddle after quick completions to keep the same shell on the field
+- slow down after negative plays so the QB/WR reads reset cleanly
 
 Many Run and Shoot looks are pass-first and can invite pressure.
 
