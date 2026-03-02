@@ -211,17 +211,9 @@ Include both formats so every playbook is uniform.
 
 ### Table format
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show opening script table</summary>
-
-
 | **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
 | :--------: | -------------------- | ------------------ | -------- |
 |     1      |                      |                    |          |
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -323,10 +315,6 @@ Top 5 priorities (system-specific).
 
 ## Dynasty Recruiting Guide 🎓
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show recruiting table</summary>
-
 | **Position** | **Archetype / Key Stats** | **Why?** |
 | ------------ | ------------------------- | -------- |
 | QB           |                           |          |
@@ -334,9 +322,6 @@ Top 5 priorities (system-specific).
 | WR           |                           |          |
 | TE/FB        |                           |          |
 | OL           |                           |          |
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 

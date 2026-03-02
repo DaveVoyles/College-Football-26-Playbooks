@@ -556,9 +556,6 @@ The Spread script is about finding where the "free hitter" is coming from and ma
 
 ### Table format (copy/paste idea)
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show opening script table</summary>
 
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
 | :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
@@ -578,35 +575,25 @@ The Spread script is about finding where the "free hitter" is coming from and ma
 |     14     | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
 |     15     | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
 
-</details>
-<!-- markdownlint-enable MD033 -->
-
 ### Mini opening script (Spread RPO pacing)
 
 The goal is to stretch them horizontally until they thin out inside.
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show mini-script table</summary>
-
-| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                               |
+| **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
 | :--------: | -------------------- | -------------------------- | -------------------------------------- |
-|     1      | Opener               | **RPO Glance / Bubble**    | 🟢 Make the conflict defender choose   |
-|     2      | Tempo Run            | **Inside Zone**            | 🟢 Hand off if box count is favorable  |
-|     3      | Screen               | **Jet Sweep / Touch Pass** | 🟡 Get your fastest guy to the edge    |
-|     4      | Counter              | **Q-Counter / Bash**       | 🟡 Use QB legs to gain numbers         |
-|     5      | Shot Play            | **Post-Dig (Mills)**       | 🔴 Classic spread shot vs safeties     |
-|     6      | Quick Game           | **Snag / Spot**            | 🟢 Triangle read vs zone               |
-|     7      | RPO                  | **Zone Read (Bubble)**     | 🟢 The day-1 install play.             |
-|     8      | Screen               | **Jailbreak Screen**       | 🟡 Slow down aggressive DEs            |
-|     9      | Base Pass            | **Drive**                  | 🟢 High-low read over the middle       |
-|     10     | Run                  | **Buck Sweep**             | 🟡 Get OL out in space                 |
-|     11     | Trick                | **Double Pass**            | 🔴 Catch DBs sleeping on a screen look |
-|     12     | Red Zone             | **Speed Option**           | 🟡 Eliminate the edge defender         |
-|     13     | Goal Line            | **Q-Power**                | 🟢 Direct snap physicality             |
-
-</details>
-<!-- markdownlint-enable MD033 -->
+| 1 | Opener | **RPO Glance / Bubble** | 🟢 Make the conflict defender choose |
+| 2 | Tempo Run | **Inside Zone** | 🟢 Hand off if box count is favorable |
+| 3 | Screen | **Jet Sweep / Touch Pass** | 🟡 Get your fastest guy to the edge |
+| 4 | Counter | **Q-Counter / Bash** | 🟡 Use QB legs to gain numbers |
+| 5 | Shot Play | **Post-Dig (Mills)** | 🔴 Classic spread shot vs safeties |
+| 6 | Quick Game | **Snag / Spot** | 🟢 Triangle read vs zone |
+| 7 | RPO | **Zone Read (Bubble)** | 🟢 The day-1 install play. |
+| 8 | Screen | **Jailbreak Screen** | 🟡 Slow down aggressive DEs |
+| 9 | Base Pass | **Drive** | 🟢 High-low read over the middle |
+| 10 | Run | **Buck Sweep** | 🟡 Get OL out in space |
+| 11 | Trick | **Double Pass** | 🔴 Catch DBs sleeping on a screen look |
+| 12 | Red Zone | **Speed Option** | 🟡 Eliminate the edge defender |
+| 13 | Goal Line | **Q-Power** | 🟢 Direct snap physicality |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -623,37 +610,23 @@ If you played a true Spread game, your stats should look like this:
 
 Spread teams need **athletes in space** and a diverse QB.
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show quick-targets recruiting table</summary>
-
-| **Position** | **Archetype / Key Stats**         | **Why?**                                           |
+| **Position** | **Archetype / Key Stats** | **Why?** |
 | :----------- | --------------------------------- | -------------------------------------------------- |
-| **QB**       | **Scrambler** (SPD, ACC, THP)     | 🧠 His legs +1 the run game math. Must be elusive. |
-| **HB**       | **Elusive Back** (COD, JKM, SPIN) | 🏃 Needs to make the first guy miss in space.      |
-| **WR (S)**   | **Slot** (ACC, COD, CIT)          | 🧤 Need quick-twitch guys for screens/RPOs.        |
-| **WR (X)**   | **Deep Threat** (SPD, DRR)        | 🧤 One guy who forces the safety to back up.       |
-| **OL**       | **Agile** (ACC, AGI, RBK)         | 🧱 They tackle in space on screens and zone runs.  |
-
-</details>
-<!-- markdownlint-enable MD033 -->
+| **QB** | **Scrambler** (SPD, ACC, THP) | 🧠 His legs +1 the run game math. Must be elusive. |
+| **HB** | **Elusive Back** (COD, JKM, SPIN) | 🏃 Needs to make the first guy miss in space. |
+| **WR (S)** | **Slot** (ACC, COD, CIT) | 🧤 Need quick-twitch guys for screens/RPOs. |
+| **WR (X)** | **Deep Threat** (SPD, DRR) | 🧤 One guy who forces the safety to back up. |
+| **OL** | **Agile** (ACC, AGI, RBK) | 🧱 They tackle in space on screens and zone runs. |
 
 If you run the Spread, prioritize these archetypes:
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show recruiting priorities table</summary>
-
-| **Position** | **Archetype / Key Stats**        | **Why?**                                         |
+| **Position** | **Archetype / Key Stats** | **Why?** |
 | :----------- | -------------------------------- | ------------------------------------------------ |
-| **QB**       | **Scrambler** (SPD, ACC, THP)    | Must be a threat to run the Zone Read.           |
-| **HB**       | **Elusive Back** (SPD, ACC, COD) | Needs to make the first defender miss in space.  |
-| **TE**       | **Vertical Threat** (SPD, CTH)   | Creates mismatches vs LBs.                       |
-| **WR**       | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
-| **OL**       | **Agile** (AGI, PBF, RBK)        | Needs to move for screens and pulls.             |
-
-</details>
-<!-- markdownlint-enable MD033 -->
+| **QB** | **Scrambler** (SPD, ACC, THP) | Must be a threat to run the Zone Read. |
+| **HB** | **Elusive Back** (SPD, ACC, COD) | Needs to make the first defender miss in space. |
+| **TE** | **Vertical Threat** (SPD, CTH) | Creates mismatches vs LBs. |
+| **WR** | **Route Runner** (SRR, MRR, SPD) | Quick separation is key for RPOs and quick game. |
+| **OL** | **Agile** (AGI, PBF, RBK) | Needs to move for screens and pulls. |
 
 ---
 

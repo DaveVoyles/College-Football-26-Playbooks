@@ -518,30 +518,23 @@ Goal: you should be able to say “I’m throwing the slot option unless the def
 
 The Run and Shoot is about reading leverage on the fly. The script is less about "calling plays" and more about "calling reads."
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show opening script table</summary>
-
-| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                                 |
+| **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
 | :--------: | -------------------- | -------------------------- | ---------------------------------------- |
-|     1      | The Base             | **Choice / Option**        | 🟢 See how they cover the slot           |
-|     2      | Field Stretch        | **Go / Streaks**           | 🔴 Run off the coverage                  |
-|     3      | Run: Draw            | **HB Draw**                | 🟡 If ends are upfield, gash them inside |
-|     4      | Quick Out            | **Slide / 60 Slide**       | 🟢 Flat control vs zone                  |
-|     5      | Deep Shot            | **Switch**                 | 🔴 Confusion on the perimeter            |
-|     6      | Checkdown            | **RB Swing / Flat**        | 🟢 Easy release valve                    |
-|     7      | Man-Beater           | **Mesh / Drag**            | 🟢 Rubs and picks                        |
-|     8      | Run: Trap            | **0/1 Trap**               | 🟡 Quick hitting inside run              |
-|     9      | Vertical Choice      | **Seam Read**              | 🔴 Attack the deep middle                |
-|     10     | Red Zone: High       | **Fade / Back Shoulder**   | 🔴 Isolation near the goal line          |
-|     11     | Counter              | **Shovel Pass / Option**   | 🟡 Misdirection                          |
-|     12     | 3rd & Short          | **QB Sneak / Quick Slant** | 🟢 High percentage                       |
-|     13     | 3rd & Long           | **4 Verts / Choice**       | 🔴 Find the void in deep coverage        |
-|     14     | Screen: Slow         | **Middle Screen**          | 🟡 Slow down aggressive rush             |
-|     15     | Finisher             | **Zone Read**              | 🟢 If they ignore the QB                 |
-
-</details>
-<!-- markdownlint-enable MD033 -->
+| 1 | The Base | **Choice / Option** | 🟢 See how they cover the slot |
+| 2 | Field Stretch | **Go / Streaks** | 🔴 Run off the coverage |
+| 3 | Run: Draw | **HB Draw** | 🟡 If ends are upfield, gash them inside |
+| 4 | Quick Out | **Slide / 60 Slide** | 🟢 Flat control vs zone |
+| 5 | Deep Shot | **Switch** | 🔴 Confusion on the perimeter |
+| 6 | Checkdown | **RB Swing / Flat** | 🟢 Easy release valve |
+| 7 | Man-Beater | **Mesh / Drag** | 🟢 Rubs and picks |
+| 8 | Run: Trap | **0/1 Trap** | 🟡 Quick hitting inside run |
+| 9 | Vertical Choice | **Seam Read** | 🔴 Attack the deep middle |
+| 10 | Red Zone: High | **Fade / Back Shoulder** | 🔴 Isolation near the goal line |
+| 11 | Counter | **Shovel Pass / Option** | 🟡 Misdirection |
+| 12 | 3rd & Short | **QB Sneak / Quick Slant** | 🟢 High percentage |
+| 13 | 3rd & Long | **4 Verts / Choice** | 🔴 Find the void in deep coverage |
+| 14 | Screen: Slow | **Middle Screen** | 🟡 Slow down aggressive rush |
+| 15 | Finisher | **Zone Read** | 🟢 If they ignore the QB |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -556,20 +549,13 @@ If you played a true Run and Shoot game, your stats should look like this:
 
 If you run the Run and Shoot, prioritize these archetypes:
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show recruiting table</summary>
-
-| **Position** | **Archetype / Key Stats**      | **Why?**                                                |
+| **Position** | **Archetype / Key Stats** | **Why?** |
 | :----------- | ------------------------------ | ------------------------------------------------------- |
-| **QB**       | **Improviser** (AWR, RUN, TUP) | 🧠 Needs to buy time and make smart reads.              |
-| **HB**       | **Receiving Back** (CTH, COD)  | 🏃 Involved heavily in the passing game.                |
-| **SB**       | **Slot** (AWR, SRR, CIT)       | 👀 "Super Backs" (Slots) must read coverages perfectly. |
-| **WR**       | **Deep Threat** (SPD, DRR)     | 🧤 Must stretch the field to open up underneath.        |
-| **OL**       | **Pass Protector** (PBP, PBF)  | 🧱 Slide protection requires agile blockers.            |
-
-</details>
-<!-- markdownlint-enable MD033 -->
+| **QB** | **Improviser** (AWR, RUN, TUP) | 🧠 Needs to buy time and make smart reads. |
+| **HB** | **Receiving Back** (CTH, COD) | 🏃 Involved heavily in the passing game. |
+| **SB** | **Slot** (AWR, SRR, CIT) | 👀 "Super Backs" (Slots) must read coverages perfectly. |
+| **WR** | **Deep Threat** (SPD, DRR) | 🧤 Must stretch the field to open up underneath. |
+| **OL** | **Pass Protector** (PBP, PBF) | 🧱 Slide protection requires agile blockers. |
 
 ---
 

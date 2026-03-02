@@ -558,11 +558,6 @@ This keeps Pro Style from feeling “slow,” while still letting you control th
 
 The goal of a Pro Style script is to established the run and force the defense to bring a safety down.
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show opening script table</summary>
-
-| **Play #** | **Situation / Note**    | **Concept / Call**            | **Why?**                                         |
 | :--------: | ----------------------- | ----------------------------- | ------------------------------------------------ |
 |     1      | Scripted Opener (Safe)  | **Inside Zone** (Strong side) | 🟢 Test the interior DL strength                 |
 |     2      | Scripted shot (PA?)     | **PA Crossers / Boot**        | 🟡 Punish LBs for stepping up on play 1          |
@@ -580,9 +575,6 @@ The goal of a Pro Style script is to established the run and force the defense t
 |     14     | 2-Minute Drill practice | **4 Verts / Seams**           | 🔴 Stress the deep safeties                      |
 |     15     | 4-Minute Drill practice | **Power / Jumbo Run**         | 🟢 Practice closing out the game                 |
 
-</details>
-<!-- markdownlint-enable MD033 -->
-
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Pro Style game, your stats should look like this:
@@ -596,20 +588,13 @@ If you played a true Pro Style game, your stats should look like this:
 
 If you run Pro Style, prioritize these archetypes:
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Show recruiting table</summary>
-
-| **Position** | **Archetype / Key Stats**         | **Why?**                                               |
+| **Position** | **Archetype / Key Stats** | **Why?** |
 | :----------- | --------------------------------- | ------------------------------------------------------ |
 | **QB**       | **Field General** (THP, DAC, PAC) | 🧠 Needs to hit deep PA shots + intermediate windows.  |
 | **HB**       | **Power Back** (TRK, BTK, SFA)    | 🏃 Must fall forward for 4 yards on 1st & 10.          |
 | **TE**       | **Blocking** (RBK, PBK, STR)      | 🧲 You need two. One must be a glorified tackle.       |
 | **WR**       | **Deep Threat** (SPD, DRR)        | 🧤 Just one speedster to blow the top off post-PA.     |
 | **OL**       | **Power** (STR, RBP, IBL)         | 🧱 Moving people against their will is the whole plan. |
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
