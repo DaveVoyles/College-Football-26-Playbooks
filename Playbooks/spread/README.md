@@ -47,40 +47,6 @@ Different teams “spread” differently. In games, the most common flavors are:
 - CON: Red Zone can be crowded (windows shrink).
 ```
 
-## Sample opening script (Spread RPO pacing) 📝
-
-The goal is to stretch them horizontally until they thin out inside.
-
-| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                               |
-| :--------: | -------------------- | -------------------------- | -------------------------------------- |
-|     1      | Opener               | **RPO Glance / Bubble**    | 🟢 Make the conflict defender choose   |
-|     2      | Tempo Run            | **Inside Zone**            | 🟢 Hand off if box count is favorable  |
-|     3      | Screen               | **Jet Sweep / Touch Pass** | 🟡 Get your fastest guy to the edge    |
-|     4      | Counter              | **Q-Counter / Bash**       | 🟡 Use QB legs to gain numbers         |
-|     5      | Shot Play            | **Post-Dig (Mills)**       | 🔴 Classic spread shot vs safeties     |
-|     6      | Quick Game           | **Snag / Spot**            | 🟢 Triangle read vs zone               |
-|     7      | RPO                  | **Zone Read (Bubble)**     | 🟢 The day-1 install play.             |
-|     8      | Screen               | **Jailbreak Screen**       | 🟡 Slow down aggressive DEs            |
-|     9      | Base Pass            | **Drive**                  | 🟢 High-low read over the middle       |
-|     10     | Run                  | **Buck Sweep**             | 🟡 Get OL out in space                 |
-|     11     | Trick                | **Double Pass**            | 🔴 Catch DBs sleeping on a screen look |
-|     12     | Red Zone             | **Speed Option**           | 🟡 Eliminate the edge defender         |
-|     13     | Goal Line            | **Q-Power**                | 🟢 Direct snap physicality             |
-
-## Dynasty Recruiting Guide (quick targets) 🎓
-
-Spread teams need **athletes in space** and a diverse QB.
-
-| **Position** | **Archetype / Key Stats**         | **Why?**                                           |
-| :----------- | --------------------------------- | -------------------------------------------------- |
-| **QB**       | **Scrambler** (SPD, ACC, THP)     | 🧠 His legs +1 the run game math. Must be elusive. |
-| **HB**       | **Elusive Back** (COD, JKM, SPIN) | 🏃 Needs to make the first guy miss in space.      |
-| **WR (S)**   | **Slot** (ACC, COD, CIT)          | 🧤 Need quick-twitch guys for screens/RPOs.        |
-| **WR (X)**   | **Deep Threat** (SPD, DRR)        | 🧤 One guy who forces the safety to back up.       |
-| **OL**       | **Agile** (ACC, AGI, RBK)         | 🧱 They tackle in space on screens and zone runs.  |
-
----
-
 ## Typical personnel (who’s on the field) 🧩
 
 Spread playbooks commonly live in:
@@ -269,7 +235,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## How defenses try to stop the Spread (and what to do) 🛡️
+## Defensive looks and your counters 🛡️
 
 ### They play two-high and invite runs
 
@@ -303,7 +269,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## Tempo strategy (how to use pace as a weapon) ⚡
+## Pace note ⏱️
 
 Spread teams often talk about “playing fast,” but the best tempo is **selective**.
 
@@ -331,7 +297,9 @@ Then slow down and call the next play with intent.
 
 ---
 
-## RPO selection matrix (pick the right tag for the look) 🧾
+## Pre-snap plan (audibles + box count + motion) 🎮
+
+### RPO selection matrix (pick the right tag for the look) 🧾
 
 If your playbook has a lot of RPOs, it can feel overwhelming. Use a simple “if-then” matrix.
 
@@ -357,7 +325,7 @@ If your playbook has a lot of RPOs, it can feel overwhelming. Use a simple “if
 
 ---
 
-## Audible package (spread should always have answers) 🎮
+### Audible package (spread should always have answers) 🎮
 
 Build an audible set that covers four problems:
 
@@ -381,6 +349,22 @@ Pre-snap checklist:
 - Identify the conflict defender.
 
 ---
+
+## QB operation (timing + progressions) ⏱️
+
+Spread QB play is usually “one or two keys, then go.” Practical rules:
+
+- If the RPO key is cloudy or late: **hand it off**.
+- Throw access throws immediately (late throws = picks).
+- When you take a shot, do it on purpose (2nd & short / after a big gain).
+
+---
+
+## Protection + checkdowns + sack-avoidance rules 🛡️
+
+- Treat deep shots as “shot plays”: protect it and be willing to check down.
+- If you’re unsure: throw the checkdown and live for 2nd & 4.
+- Don’t drift in the pocket; hitch once and decide.
 
 ## “Spread but not soft” (short yardage and goal-line plan) 🟥
 
@@ -453,7 +437,7 @@ Fix:
 
 ---
 
-## Box-count examples (turn formation into a decision) 📦
+### Box-count examples (turn formation into a decision) 📦
 
 One of the biggest Spread advantages is you can make the defense “declare” numbers.
 
@@ -482,7 +466,7 @@ The point isn’t to be perfect; it’s to stop calling runs into heavy boxes an
 
 ---
 
-## Concept pairing (how Spread stays unpredictable) 🔁
+## Sequencing (how Spread stays unpredictable) 🔁
 
 Pick a small set of “pairs” that look the same to the defense pre-snap.
 
@@ -496,7 +480,7 @@ If you always call bubble after inside zone, the defense will start jumping. Rot
 
 ---
 
-## Situational favorites list (12–16 plays total) ⭐
+## Situational packages (what to favorite) ⭐
 
 ### Early-down efficiency
 
@@ -529,7 +513,7 @@ This “small favorites list” is usually better than trying to learn every for
 
 ---
 
-## Turnover avoidance (the spread killer) 🚫
+### Turnover avoidance (the spread killer) 🚫
 
 Spread offenses lose games when they gift short fields.
 
@@ -541,9 +525,29 @@ Practical habits:
 
 ---
 
-## Sample 15-play opening script (copy/paste idea) 📝
+## Sample 15-play opening script 📝
 
 The Spread script is about finding where the "free hitter" is coming from and making them wrong.
+
+### Quick list
+
+1. Inside Zone Read
+2. Jet Sweep / Touch Pass
+3. Stick
+4. Bash / GT Counter
+5. Tunnel Screen
+6. Y-Cross
+7. Post-Wheel
+8. Glance RPO
+9. QB Draw
+10. Reverse / Flea Flicker
+11. RB Swing
+12. Deep Post / Go
+13. Fade
+14. Speed Option
+15. QB Power
+
+### Table format (copy/paste idea)
 
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
 | :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
@@ -563,6 +567,26 @@ The Spread script is about finding where the "free hitter" is coming from and ma
 |     14     | Red Zone: Low          | **Speed Option**             | Get the ball to the edge.                     |
 |     15     | Goal Line              | **QB Power**                 | Your QB is your extra blocker.                |
 
+### Mini opening script (Spread RPO pacing)
+
+The goal is to stretch them horizontally until they thin out inside.
+
+| **Play #** | **Situation / Note** | **Concept / Call**         | **Why?**                               |
+| :--------: | -------------------- | -------------------------- | -------------------------------------- |
+|     1      | Opener               | **RPO Glance / Bubble**    | 🟢 Make the conflict defender choose   |
+|     2      | Tempo Run            | **Inside Zone**            | 🟢 Hand off if box count is favorable  |
+|     3      | Screen               | **Jet Sweep / Touch Pass** | 🟡 Get your fastest guy to the edge    |
+|     4      | Counter              | **Q-Counter / Bash**       | 🟡 Use QB legs to gain numbers         |
+|     5      | Shot Play            | **Post-Dig (Mills)**       | 🔴 Classic spread shot vs safeties     |
+|     6      | Quick Game           | **Snag / Spot**            | 🟢 Triangle read vs zone               |
+|     7      | RPO                  | **Zone Read (Bubble)**     | 🟢 The day-1 install play.             |
+|     8      | Screen               | **Jailbreak Screen**       | 🟡 Slow down aggressive DEs            |
+|     9      | Base Pass            | **Drive**                  | 🟢 High-low read over the middle       |
+|     10     | Run                  | **Buck Sweep**             | 🟡 Get OL out in space                 |
+|     11     | Trick                | **Double Pass**            | 🔴 Catch DBs sleeping on a screen look |
+|     12     | Red Zone             | **Speed Option**           | 🟡 Eliminate the edge defender         |
+|     13     | Goal Line            | **Q-Power**                | 🟢 Direct snap physicality             |
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Spread game, your stats should look like this:
@@ -573,6 +597,18 @@ If you played a true Spread game, your stats should look like this:
 - **Turnovers:** < 1 (Read keys, don't force)
 
 ## Dynasty Recruiting Guide 🎓
+
+### Quick targets
+
+Spread teams need **athletes in space** and a diverse QB.
+
+| **Position** | **Archetype / Key Stats**         | **Why?**                                           |
+| :----------- | --------------------------------- | -------------------------------------------------- |
+| **QB**       | **Scrambler** (SPD, ACC, THP)     | 🧠 His legs +1 the run game math. Must be elusive. |
+| **HB**       | **Elusive Back** (COD, JKM, SPIN) | 🏃 Needs to make the first guy miss in space.      |
+| **WR (S)**   | **Slot** (ACC, COD, CIT)          | 🧤 Need quick-twitch guys for screens/RPOs.        |
+| **WR (X)**   | **Deep Threat** (SPD, DRR)        | 🧤 One guy who forces the safety to back up.       |
+| **OL**       | **Agile** (ACC, AGI, RBK)         | 🧱 They tackle in space on screens and zone runs.  |
 
 If you run the Spread, prioritize these archetypes:
 
