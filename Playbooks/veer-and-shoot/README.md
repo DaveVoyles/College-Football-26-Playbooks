@@ -90,7 +90,15 @@ To keep the system consistent, pick:
 
 ---
 
-## Splits, alignment, and why it changes everything 🧷
+## QB operation (timing + progressions) ⏱️
+
+Veer and Shoot QB play is about playing **fast** off a small number of repeatable keys:
+
+- access is either free or it isn’t (decide instantly)
+- inside zone is the “veer” punish when the box is light
+- shots happen when safeties cheat or defenders start triggering downhill
+
+### Splits, alignment, and why it changes everything 🧷
 
 One of the defining “feel” features of Veer and Shoot is **how wide the offense aligns**.
 
@@ -109,7 +117,7 @@ One of the defining “feel” features of Veer and Shoot is **how wide the offe
 
 ---
 
-## Core concept menu (the engine room) ⚙️
+## Core pass game families / concept menu ⚙️
 
 The Veer and Shoot is about repeating a small set of concepts until the defense overreacts.
 
@@ -180,7 +188,7 @@ Common vertical families:
 
 ---
 
-## Defensive looks and your answers (quick reference) 🧾
+## Defensive looks and your counters 🛡️
 
 | **What you see**       | **What it’s trying to do**   | **Your best answers**                                |
 | ---------------------- | ---------------------------- | ---------------------------------------------------- |
@@ -235,7 +243,7 @@ The field compresses. Shift from “space” to “leverage.”
 
 ---
 
-## Tempo plan (use pace without self-destructing) ⚡
+## Pace note ⏱️
 
 Tempo is a weapon, but only if you protect yourself from chaos.
 
@@ -255,7 +263,7 @@ Tempo is a weapon, but only if you protect yourself from chaos.
 
 ---
 
-## The “two-play loop” (how Veer and Shoot stays efficient) 🔁
+## Sequencing (how Veer and Shoot stays efficient) 🔁
 
 When you’re not sure what to call, Veer and Shoot should fall back to a simple loop.
 
@@ -273,7 +281,7 @@ The point isn’t that these are your only plays—it’s that your base identit
 
 ---
 
-## Audible package (don’t get trapped) 🎮
+## Pre-snap plan (audibles + box count + motion) 🎮
 
 Suggested audibles:
 
@@ -291,7 +299,7 @@ Pre-snap checklist:
 
 ---
 
-## Weekly install plan (learn it fast) 📚
+## Weekly install plan 📚
 
 ### Week 1: inside zone + one access throw
 
@@ -360,7 +368,7 @@ If you’re building a Dynasty roster for Veer and Shoot, these are usually the 
 
 ---
 
-## Situational favorites list (copy into your in-game Favorites) ⭐
+## Situational packages (what to favorite) ⭐
 
 If you only keep 12–16 plays favorited, pick them by situation.
 
@@ -376,7 +384,9 @@ This keeps your calls consistent and makes tempo safer because you’re not scro
 
 ---
 
-## Practice-mode routine (10 minutes) 🏋️
+## In-game execution notes 🎮
+
+### Practice-mode routine (10 minutes) 🏋️
 
 If you want the scheme to feel automatic:
 
@@ -389,7 +399,7 @@ If you do this once per “week” in Dynasty, the offense will start to feel li
 
 ---
 
-## Shot-call triggers (when to take the “shoot” throw) 🎆
+### Shot-call triggers (when to take the “shoot” throw) 🎆
 
 Veer and Shoot becomes unstoppable when you stop forcing shots and start taking them **only when the defense tells you it’s time**.
 
