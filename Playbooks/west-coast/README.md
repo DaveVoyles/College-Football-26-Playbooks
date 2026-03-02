@@ -101,7 +101,7 @@ Suggested approach:
 
 ---
 
-## Core West Coast concept menu ⚙️
+## Core pass game families / concept menu ⚙️
 
 Below are “concept families” you’ll often find across West Coast playbooks.
 
@@ -217,7 +217,7 @@ Example play mix:
 
 ---
 
-## Defensive answers and your counters 🛡️
+## Defensive looks and your counters 🛡️
 
 ### They play zone and rally
 
@@ -248,7 +248,35 @@ Example play mix:
 
 ---
 
-## Timing and footwork cheat sheet (make the offense “feel” right) ⏱️
+## Sequencing (how West Coast creates explosives) 🔁
+
+West Coast “explosives” are usually created by sequencing:
+
+- show quick game/checkdowns early
+- run enough to make boots believable
+- call your shot on purpose (usually 2nd & short or after a run)
+
+---
+
+## Pre-snap plan (audibles + box count + motion) 🎮
+
+Suggested audible set (example):
+
+1. Inside zone / duo (light box)
+2. Slant/flat (quick answer vs heavy box)
+3. Stick / spacing (fast completion)
+4. Boot flood / sail (zone beater + easy reads)
+5. Screen / RB swing (blitz punish)
+
+Box-count / leverage rules:
+
+- If the box is light: run it.
+- If corners are off: take quick game.
+- If pressure is obvious: have a screen/swing ready.
+
+---
+
+## QB operation (timing + progressions) ⏱️
 
 West Coast succeeds when you throw on time. A simple way to keep your rhythm consistent is to tie concepts to your QB’s drop.
 
@@ -285,7 +313,7 @@ Examples:
 
 ---
 
-## Progression rules (keep it simple) 🧭
+### Progression rules (keep it simple) 🧭
 
 Different playbooks label reads differently, but West Coast progressions usually follow a few repeatable patterns.
 
@@ -319,7 +347,7 @@ Used in dagger-style concepts.
 
 ---
 
-## Motion and shifts (your best free information) 🔄
+### Motion and shifts (your best free information) 🔄
 
 In CFB-style games, motion is the simplest way to identify coverage and steal leverage.
 
@@ -340,7 +368,7 @@ In CFB-style games, motion is the simplest way to identify coverage and steal le
 
 ---
 
-## Protection and checkdowns (the invisible part of West Coast) 🛡️
+## Protection + checkdowns + sack-avoidance rules 🛡️
 
 West Coast doesn’t require you to bomb it deep every snap, but it does require you to avoid negative plays.
 
@@ -359,6 +387,29 @@ The checkdown isn’t a failure in West Coast—it’s part of the plan.
 ---
 
 ## Situational packages (what to “favorite”) ⭐
+
+---
+
+## Weekly install plan 📚
+
+### Week 1: quick game + one run
+
+- slant/flat
+- stick/spacing
+- inside zone / duo
+
+### Week 2: add a crosser concept
+
+- drive
+
+### Week 3: add a boot and one shot
+
+- boot flood / sail
+- play-action post/cross (or dagger)
+
+### Week 4: add a blitz punish
+
+- screen or RB swing
 
 If you want the offense to be consistent, favorite a small set of plays per situation.
 
@@ -382,7 +433,7 @@ If you want the offense to be consistent, favorite a small set of plays per situ
 
 ---
 
-## Troubleshooting (common reasons West Coast “doesn’t work”) 🧯
+## Troubleshooting 🧯
 
 ### Problem: “My routes are always covered.”
 
@@ -472,7 +523,7 @@ The purpose: you always know what your best 3 calls are for the current down/dis
 
 ---
 
-## Sample 15-play opening script (quick list) 📝
+## Sample 15-play opening script 📝
 
 This is an example of how a West Coast drive can probe the defense without being predictable.
 
@@ -499,7 +550,7 @@ Adjust on the fly:
 
 ---
 
-## In-game execution notes (small details that matter) 🎮
+## In-game execution notes 🎮
 
 - Favor throws that keep receivers moving (crossers/drive) to maximize RAC.
 - If you notice linebackers jumping underneath routes, call sail/flood or a deep cross to punish them.
@@ -507,7 +558,7 @@ Adjust on the fly:
 
 ---
 
-## Sample 15-play opening script (table format) 📝
+### Table format
 
 The West Coast offense is about rhythm. The first drive must get the QB comfortable and the defense moving laterally.
 
