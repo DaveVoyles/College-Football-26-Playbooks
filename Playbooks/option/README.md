@@ -564,16 +564,16 @@ The Option isn't just about reading the dive key; it's about forcing the defense
 
 The goal is to physically exhaust the DL and frustrate the LBs.
 
-| **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
+| **Play #** | **Situation / Note** | **Concept / Call**       | **Why?**                        |
 | :--------: | -------------------- | ------------------------ | ------------------------------- |
-| 1 | Opener | **Triple Option / Veer** | Establish the read immediately |
-| 2 | Constraint | **Rocket Toss** | Beat them to the edge fast |
-| 3 | Counter | **F-Counter / Trap** | Catch LBs flowing to the motion |
-| 4 | Pass (Surprise) | **Veer Pass / Pop** | TE slips behind aggressive LBs |
-| 5 | Run | **Midline Option** | Read the DT instead of the DE |
-| 6 | Run | **Triple Option** | Repetition breaks the defense |
-| 7 | Short Yardage | **FB Dive** | 4 yards and a cloud of dust |
-| 8 | Shot Play | **Switch Verticals** | Wheel routes usually wide open |
+|     1      | Opener               | **Triple Option / Veer** | Establish the read immediately  |
+|     2      | Constraint           | **Rocket Toss**          | Beat them to the edge fast      |
+|     3      | Counter              | **F-Counter / Trap**     | Catch LBs flowing to the motion |
+|     4      | Pass (Surprise)      | **Veer Pass / Pop**      | TE slips behind aggressive LBs  |
+|     5      | Run                  | **Midline Option**       | Read the DT instead of the DE   |
+|     6      | Run                  | **Triple Option**        | Repetition breaks the defense   |
+|     7      | Short Yardage        | **FB Dive**              | 4 yards and a cloud of dust     |
+|     8      | Shot Play            | **Switch Verticals**     | Wheel routes usually wide open  |
 
 ## Post-Game Metrics (Did I run it right?) 📊
 
@@ -590,23 +590,23 @@ If you played a true Option game, your stats should look like this:
 
 Option recruiting is weird. You don't want "stars"; you want **specific traits**.
 
-| **Position** | **Archetype / Key Stats** | **Why?** |
-| :----------- | ------------------------------- | ----------------------------------------------------- |
-| **QB** | **Scrambler** (SPD, ACC, CAR) | Carrying (CAR) is critical. Fumbles kill this. |
-| **HB/SB** | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionaly. |
-| **FB** | **Power Back** (TRK, STR, CAR) | The engine. 20 carries/game inside. |
-| **OL** | **Agile** (ACC, IBL, RBS) | Need speed to down-block LBs. Size doesn't matter. |
-| **WR** | **Blocking** (RBK, IBL, STR) | If they can't block, they don't play. |
+| **Position** | **Archetype / Key Stats**       | **Why?**                                               |
+| :----------- | ------------------------------- | ------------------------------------------------------ |
+| **QB**       | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.         |
+| **HB/SB**    | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionally. |
+| **FB**       | **Power Back** (TRK, STR, CAR)  | The engine. 20 carries/game inside.                    |
+| **OL**       | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.     |
+| **WR**       | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                  |
 
 If you run the Option, prioritize these archetypes:
 
-| **Position** | **Archetype / Key Stats** | **Why?** |
+| **Position** | **Archetype / Key Stats**          | **Why?**                                           |
 | :----------- | ---------------------------------- | -------------------------------------------------- |
-| **QB** | **Scrambler / Athlete** (SPD, ACC) | Must be the best athlete on the field. |
-| **HB** | **Speed Back** (SPD, ACC) | For pitches and toss plays. |
-| **FB** | **Power Back** (TRK, STR, BTK) | The engine. Needs to consistently gain 3 yards. |
-| **WR** | **Deep Threat** (SPD, RBK) | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
-| **OL** | **Run Blocker** (RBK, RBP, STR) | They dictate the game. |
+| **QB**       | **Scrambler / Athlete** (SPD, ACC) | Must be the best athlete on the field.             |
+| **HB**       | **Speed Back** (SPD, ACC)          | For pitches and toss plays.                        |
+| **FB**       | **Power Back** (TRK, STR, BTK)     | The engine. Needs to consistently gain 3 yards.    |
+| **WR**       | **Deep Threat** (SPD, RBK)         | **BLOCKING IS #1.** Secondary skill: Speed for PA. |
+| **OL**       | **Run Blocker** (RBK, RBP, STR)    | They dictate the game.                             |
 
 ---
 
