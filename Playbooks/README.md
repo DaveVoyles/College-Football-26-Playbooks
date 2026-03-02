@@ -29,7 +29,7 @@ These are **starting points**.
 - “CFB teams to check” = real-world programs commonly associated with the scheme family (verify in-game).
 - “NFL analogs” = teams that commonly use similar principles (varies by coordinator/season).
 
-| Scheme                                     | Typical personnel (RB/TE/WR) | Core idea                                 | CFB teams to check first (verify in-game)                                                             | NFL analogs (approx)                                                                               |
+| **Scheme**                                     | **Typical personnel (RB/TE/WR)** | **Core idea**                                 | **CFB teams to check first (verify in-game)**                                                             | **NFL analogs (approx)**                                                                               |
 | ------------------------------------------ | ---------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [Air Raid](air-raid/README.md)             | 10 / 11                      | Spacing + quick game + repeatable reads   | Texas Tech, Washington State, Mississippi State, Oklahoma (spread pass influence)                     | Chiefs (spread/quick), Bengals (shot + spread), Bills (spread), Cardinals (Air Raid-era influence) |
 | [Pro Style](pro-style/README.md)           | 12 / 21                      | Run game sets up PA, win in red zone      | Michigan, Georgia, Alabama, Notre Dame, Wisconsin, Iowa                                               | 49ers, Rams, Lions, Packers (West Coast-derived), Browns                                           |
@@ -43,7 +43,7 @@ These are **starting points**.
 
 This is a quick sanity check of common “generic playbook styles” you’ll see referenced in football/video game conversations.
 
-| Style family                                    | Status                       | Where it lives in this repo                                                      |
+| **Style family**                                    | **Status**                       | **Where it lives in this repo**                                                      |
 | ----------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------- |
 | Air Raid                                        | ✅ Covered                   | [Air Raid](air-raid/README.md)                                                   |
 | Pro Style / Balanced                            | ✅ Covered                   | [Pro Style](pro-style/README.md)                                                 |

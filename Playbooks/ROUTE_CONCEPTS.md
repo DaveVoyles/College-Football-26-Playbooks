@@ -10,7 +10,7 @@ Use this guide to understand **why** certain plays work against specific defense
 
 ## 1. Coverage Beaters (The "Rock, Paper, Scissors" of Passing) 👊✋✌️
 
-| If the Defense Plays...            | Their Weakness 📉                         | The "Killer" Routes/Concepts 🚀           | Why it works / Where to throw                                                |
+| **If the Defense Plays...**            | **Their Weakness 📉**                         | **The "Killer" Routes/Concepts 🚀**           | **Why it works / Where to throw**                                                |
 | :--------------------------------- | :---------------------------------------- | :---------------------------------------- | :--------------------------------------------------------------------------- |
 | **Cover 0 (Zero Blitz)**           | No deep help; 1-on-1 everywhere.          | **Go/Fade, Slant, Zig, Screen**           | Throw deep immediately or hit a slant/screen hot.                            |
 | **Cover 1 (Man Free)**             | 1 Safety deep; Man underneath.            | **Mesh, Drag, Slant, Double Moves**       | Crossing routes rub defenders off; double moves win vs man.                  |
@@ -56,7 +56,7 @@ _When they send the house, throw these NOW._
 
 Every playbook lets you set 4-5 audibles. Don't be random. Build a **toolbelt**.
 
-| Audible Slot     | Recommended Call   | Purpose (When to call it)                                      |
+| **Audible Slot**     | **Recommended Call**   | **Purpose (When to call it)**                                      |
 | :--------------- | :----------------- | :------------------------------------------------------------- |
 | **Run (Inside)** | Inside Zone / Dive | Call vs **Light Box** (High Safeties, Spread DL).              |
 | **Pass (Quick)** | Stick / Slants     | Call vs **Blitz** or Soft Off-Coverage.                        |
