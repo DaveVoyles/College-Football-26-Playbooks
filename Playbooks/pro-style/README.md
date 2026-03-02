@@ -558,7 +558,8 @@ This keeps Pro Style from feeling “slow,” while still letting you control th
 
 The goal of a Pro Style script is to establish the run and force the defense to bring a safety down.
 
-| :--------: | ----------------------- | ----------------------------- | ------------------------------------------------ |
+| **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
+| :--------: | -------------------- | ------------------ | -------- |
 | 1 | Scripted Opener (Safe) | **Inside Zone** (Strong side) | 🟢 Test the interior DL strength |
 | 2 | Scripted shot (PA?) | **PA Crossers / Boot** | 🟡 Punish LBs for stepping up on play 1 |
 | 3 | Run: Base concept | **Duo / Power** | 🟢 Establish physical downhill presence |
