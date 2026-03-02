@@ -47,35 +47,6 @@ In games, option playbooks typically blend:
 - CON: Turnover Risk (pitch timing must be perfect).
 ```
 
-## Sample opening script (Option grind) 📝
-
-The goal is to physically exhaust the DL and frustrate the LBs.
-
-| **Play #** | **Situation / Note** | **Concept / Call**       | **Why?**                        |
-| :--------: | -------------------- | ------------------------ | ------------------------------- |
-|     1      | Opener               | **Triple Option / Veer** | Establish the read immediately  |
-|     2      | Constraint           | **Rocket Toss**          | Beat them to the edge fast      |
-|     3      | Counter              | **F-Counter / Trap**     | Catch LBs flowing to the motion |
-|     4      | Pass (Surprise)      | **Veer Pass / Pop**      | TE slips behind aggressive LBs  |
-|     5      | Run                  | **Midline Option**       | Read the DT instead of the DE   |
-|     6      | Run                  | **Triple Option**        | Repetition breaks the defense   |
-|     7      | Short Yardage        | **FB Dive**              | 4 yards and a cloud of dust     |
-|     8      | Shot Play            | **Switch Verticals**     | Wheel routes usually wide open  |
-
-## Dynasty Recruiting Guide (quick targets) 🎓
-
-Option recruiting is weird. You don't want "stars"; you want **specific traits**.
-
-| **Position** | **Archetype / Key Stats**       | **Why?**                                              |
-| :----------- | ------------------------------- | ----------------------------------------------------- |
-| **QB**       | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.        |
-| **HB/SB**    | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionaly. |
-| **FB**       | **Power Back** (TRK, STR, CAR)  | The engine. 20 carries/game inside.                   |
-| **OL**       | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.    |
-| **WR**       | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                 |
-
----
-
 ## Typical personnel 🧩
 
 Option systems vary more than other styles. Common groupings:
@@ -110,7 +81,9 @@ Traditional option variants sometimes use heavier looks (not always labeled clea
 
 ---
 
-## Option fundamentals (the rules that make it work) 🧠
+## QB operation (timing + progressions) ⏱️
+
+### Option fundamentals (the rules that make it work) 🧠
 
 ### Rule #1: know who you’re reading
 
@@ -153,7 +126,7 @@ If they overplay the pitch, turn it into a play-action shot.
 
 ---
 
-## Core option run menu 🏃
+## Core run game families 🏃
 
 ### 1) Inside zone read
 
@@ -213,7 +186,7 @@ If your playbook includes these, they punish certain fronts by reading interior 
 
 ---
 
-## Passing complements (don’t be one-dimensional) 🧨
+## Core pass game families / concept menu ⚙️
 
 Option offenses need a **small, brutal passing menu**:
 
@@ -276,7 +249,7 @@ These punish overhang defenders who are trying to fit the run.
 
 ---
 
-## Defensive answers and your counters 🛡️
+## Defensive looks and your counters 🛡️
 
 ### They “scrape exchange” the read
 
@@ -401,7 +374,7 @@ Here’s a practical constraint menu to keep in your favorites.
 
 ---
 
-## Building an “Option audible package” (so you’re never trapped) 🎮
+## Pre-snap plan (audibles + box count + motion) 🎮
 
 Option offenses get wrecked when you call a read into a look that defeats it. Audibles prevent that.
 
@@ -538,9 +511,29 @@ The QB run threat becomes stronger.
 
 ---
 
-## Sample 15-play opening script (copy/paste idea) 📝
+## Sample 15-play opening script 📝
 
 The Option isn't just about reading the dive key; it's about forcing the defense to play disciplined football for 4 quarters.
+
+### Quick list
+
+1. Triple Option (Flexbone)
+2. Rocket Toss
+3. FB Dive
+4. Pop Pass
+5. Counter Option
+6. Curl / Out
+7. Midline Option
+8. Wheel Route
+9. QB Sneak / Iso
+10. Speed Option
+11. FB Trap
+12. Post / Corner
+13. FB Dive
+14. Triple Option
+15. Wishbone / Power
+
+### Table format (copy/paste idea)
 
 | **Play #** | **Situation / Note**   | **Concept / Call**           | **Why?**                                      |
 | :--------: | ---------------------- | ---------------------------- | --------------------------------------------- |
@@ -560,6 +553,21 @@ The Option isn't just about reading the dive key; it's about forcing the defense
 |     14     | 4-Minute Drill         | **Triple Option**            | Grind the clock.                              |
 |     15     | Goal Line              | **Wishbone / Power**         | Put everyone in the box and push.             |
 
+### Mini opening script (Option grind)
+
+The goal is to physically exhaust the DL and frustrate the LBs.
+
+| **Play #** | **Situation / Note** | **Concept / Call**       | **Why?**                        |
+| :--------: | -------------------- | ------------------------ | ------------------------------- |
+|     1      | Opener               | **Triple Option / Veer** | Establish the read immediately  |
+|     2      | Constraint           | **Rocket Toss**          | Beat them to the edge fast      |
+|     3      | Counter              | **F-Counter / Trap**     | Catch LBs flowing to the motion |
+|     4      | Pass (Surprise)      | **Veer Pass / Pop**      | TE slips behind aggressive LBs  |
+|     5      | Run                  | **Midline Option**       | Read the DT instead of the DE   |
+|     6      | Run                  | **Triple Option**        | Repetition breaks the defense   |
+|     7      | Short Yardage        | **FB Dive**              | 4 yards and a cloud of dust     |
+|     8      | Shot Play            | **Switch Verticals**     | Wheel routes usually wide open  |
+
 ## Post-Game Metrics (Did I run it right?) 📊
 
 If you played a true Option game, your stats should look like this:
@@ -570,6 +578,18 @@ If you played a true Option game, your stats should look like this:
 - **Yards Per Carry:** > 4.5 (Move the chains)
 
 ## Dynasty Recruiting Guide 🎓
+
+### Quick targets
+
+Option recruiting is weird. You don't want "stars"; you want **specific traits**.
+
+| **Position** | **Archetype / Key Stats**       | **Why?**                                              |
+| :----------- | ------------------------------- | ----------------------------------------------------- |
+| **QB**       | **Scrambler** (SPD, ACC, CAR)   | Carrying (CAR) is critical. Fumbles kill this.        |
+| **HB/SB**    | **All-Purpose** (SPD, ACC, CTH) | Speed kills on the pitch. Needs to catch occasionaly. |
+| **FB**       | **Power Back** (TRK, STR, CAR)  | The engine. 20 carries/game inside.                   |
+| **OL**       | **Agile** (ACC, IBL, RBS)       | Need speed to down-block LBs. Size doesn't matter.    |
+| **WR**       | **Blocking** (RBK, IBL, STR)    | If they can't block, they don't play.                 |
 
 If you run the Option, prioritize these archetypes:
 
