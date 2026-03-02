@@ -4,6 +4,13 @@ Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
+> [!TIP]
+> **How to use this guide in CFB26**
+>
+> - Build a small “core menu”: 2 runs + 4 passes + 1 shot
+> - Set audibles: 1 light-box run, 1 blitz answer, 1 man beater, 1 zone beater, 1 shot
+> - Use the opening script to identify coverage + box counts early
+
 ## Quick definition 🧠
 
 The West Coast offense is a **timing + rhythm passing system** that treats:
