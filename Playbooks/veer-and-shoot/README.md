@@ -1,6 +1,6 @@
 # Veer and Shoot 🚀 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -31,21 +31,19 @@ In real football it’s often associated with **ultra-wide WR splits**, fast pac
 
 ## Pros ✅ and cons ⚠️
 
-### Pros ✅
+```diff
++ PRO: Clear pre-snap answers (spacing = information).
++ PRO: Tempo leverage (prevents subs, creates chaos).
++ PRO: Explosive potential (one missed tackle = TD).
++ PRO: Easy to teach/call (small menu).
++ PRO: Hides average OL (ball comes out fast).
 
-- **Clear pre-snap answers**: spacing makes box counts and leverage reads obvious.
-- **Tempo leverage**: prevents substitutions and keeps the defense in vanilla rules.
-- **Explosive potential**: when safeties overreact to quick game, seams/posts open.
-- **Easy to teach / easy to call**: small concept menu, high repetition.
-- **Makes average OL look better**: defense is stretched; fewer bodies fit inside.
-
-### Cons ⚠️
-
-- Can feel “too horizontal” if you never call verticals on schedule.
-- **Negative plays hurt more** at tempo (TFLs and penalties derail series).
-- Requires WRs who can **catch + block** (screens are a major run game).
-- If your QB struggles with quick decisions, you’ll throw picks on late access throws.
-- Some defenses will play soft and rally, forcing you to be patient.
+- CON: Can feel too horizontal (need to shot vertically).
+- CON: Negative plays kill drives (must stay on schedule).
+- CON: Needs WR blocking (perimeter game is run game).
+- CON: Quick decision fatigue (late throws = INT).
+- CON: Defenses can rally and tackle in space.
+```
 
 ---
 
@@ -135,6 +133,11 @@ These are the “take it if they give it” passes:
 - quick smoke
 
 **Read:** corner cushion + alignment.
+
+```diff
++ GREEN:  Corner Off (6+ yds) -> THROW the Hitch/Now
+- RED:    Corner Press/Cloud  -> HAND OFF inside
+```
 
 - If the corner is off and bailing: take the hitch/now.
 - If the corner squats hard: you need a counter (double-move or run).

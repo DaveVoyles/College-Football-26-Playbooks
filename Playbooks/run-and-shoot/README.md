@@ -1,6 +1,6 @@
 # Run and Shoot 🎲 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -32,19 +32,17 @@ Unlike many systems where routes are fixed, Run and Shoot asks:
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: Infinite leverage (offense is always 'right').
++ PRO: Man/Zone Busting (built-in route conversions).
++ PRO: Stressful for Defense (one mistake = TD).
++ PRO: Elite 2-Minute Offense (spacing + sideline).
 
-- **Explosive passing potential**: big plays come from busted leverage.
-- **Man/zone adaptable**: option routes can find grass vs zone and win leverage vs man.
-- **Hard to “call” the defense into stops**: the offense can self-correct mid-play.
-- **Great 2-minute offense**: spacing + sideline access.
-
-### Cons
-
-- Requires **chemistry**: QB and WR must read the same thing.
-- Interception risk rises if you throw before confirming the receiver’s conversion.
-- Protection can be an issue in empty/spread looks.
-- Run game can be light unless your playbook includes strong draw/zone complements.
+- CON: Requires QB/WR chemistry (must see same read).
+- CON: High INT risk (wrong read = easy pick).
+- CON: Protection issues (often 5-man pro).
+- CON: Light Run Game (unless you commit to Draw/Choice).
+```
 
 ---
 
@@ -102,7 +100,7 @@ Suggested “small menu”:
 
 ---
 
-## Core concept menu (Run and Shoot staples)
+## Core concept menu (Run and Shoot staples) ⚙️
 
 Naming varies by playbook, but these ideas show up a lot.
 
@@ -112,10 +110,12 @@ Naming varies by playbook, but these ideas show up a lot.
 
 Common conversions:
 
-- sit in zone vs soft coverage
-- break out vs inside leverage
-- break in vs outside leverage
-- turn upfield vs “carry” by a flat defender
+```diff
++ GREEN:  Off Coverage (Soft Zone)    -> SIT in window
++ GREEN:  Inside Leverage  (Man/Zone) -> BREAK OUT
+- RED:    Outside Leverage (Man/Zone) -> BREAK IN
+! ALERT:  Press / Squat               -> GO UPFIELD
+```
 
 **QB coaching point:** don’t predetermine the break—confirm leverage and throw to space.
 
@@ -153,7 +153,7 @@ The goal is not 40 carries; it’s to punish light boxes and keep pass rush hone
 
 ---
 
-## The Run and Shoot decision model (simple and usable)
+## The Run and Shoot decision model (simple and usable) 🧠
 
 ### Step 1: identify the shell
 
@@ -176,7 +176,7 @@ Don’t hunt the perfect play. Take the first clean window to stay ahead of the 
 
 ---
 
-## Building your Run and Shoot call sheet (practical CFB26 plan)
+## Building your Run and Shoot call sheet (practical CFB26 plan) 🗂️
 
 ### 1st and 10
 
@@ -211,7 +211,7 @@ Option routes still work but windows tighten.
 
 ---
 
-## Defensive answers and your counters
+## Defensive answers and your counters 🛡️
 
 ### They play press man
 
@@ -233,7 +233,7 @@ Option routes still work but windows tighten.
 
 ---
 
-## Roster building priorities
+## Roster building priorities 🧬
 
 1. **QB quick release + accuracy**
 2. **WR route running/awareness** (option routes require “smart” receivers)
@@ -243,7 +243,7 @@ Option routes still work but windows tighten.
 
 ---
 
-## Option routes in practice (how to stop throwing “wrong-route” picks)
+## Option routes in practice (how to stop throwing “wrong-route” picks) 🧪
 
 Run and Shoot lives or dies on QB/WR agreement. In-game, you don’t have full real-life route language, so you need simple, repeatable rules.
 
@@ -270,7 +270,7 @@ You’ll see these most often:
 
 ---
 
-## How to call Run and Shoot (sequencing matters)
+## How to call Run and Shoot (sequencing matters) 🔁
 
 This style is most explosive when you alternate:
 
@@ -291,7 +291,7 @@ The point is to keep the defense from guessing “option routes all drive.”
 
 ---
 
-## Protection plan (how to survive in spread sets)
+## Protection plan (how to survive in spread sets) 🛡️
 
 Many Run and Shoot looks are pass-first and can invite pressure.
 
@@ -307,7 +307,7 @@ If your first two options are covered and the checkdown is guarded, a sack is so
 
 ---
 
-## Situational packages (what to favorite)
+## Situational packages (what to favorite) ⭐
 
 ### 3rd-and-short (1–2)
 
@@ -333,7 +333,7 @@ If your first two options are covered and the checkdown is guarded, a sack is so
 
 ---
 
-## Weekly install plan (learn it without getting overwhelmed)
+## Weekly install plan (learn it without getting overwhelmed) 📚
 
 ### Week 1: two concepts only
 
@@ -362,7 +362,7 @@ Goal: touchdowns, not field goals.
 
 ---
 
-## Troubleshooting
+## Troubleshooting 🧯
 
 ### Problem: “My receiver sits but I threw the out (pick).”
 
@@ -388,7 +388,7 @@ Fix:
 
 ---
 
-## Coverage examples (what to look for in real time)
+## Coverage examples (what to look for in real time) 👀
 
 This section is intentionally “pattern based,” since in-game labels can be imperfect.
 
@@ -432,7 +432,7 @@ What to do:
 
 ---
 
-## Situational mini-playbook (copy this into your favorites)
+## Situational mini-playbook (copy this into your favorites) 🟥
 
 If you only favorite 12–15 plays, pick them by situation.
 
@@ -465,7 +465,7 @@ The point is to remove decision fatigue: you already know your best calls for ea
 
 ---
 
-## QB/WR chemistry drills (practice-mode routine)
+## QB/WR chemistry drills (practice-mode routine) 🤝
 
 Because option routes convert, your best “training” is repetition with intent.
 
@@ -547,7 +547,7 @@ The NFL doesn’t typically label teams “Run and Shoot” anymore, but option/
 
 ---
 
-## Teams in CFB26 that use a Run and Shoot playbook (fill this in)
+## Teams in CFB26 that use a Run and Shoot playbook (fill this in) 🏟️
 
 | Team | In-game offensive playbook name | Notes (base personnel, option-route frequency, favorite shots) |
 | ---- | ------------------------------- | -------------------------------------------------------------- |
@@ -557,7 +557,7 @@ The NFL doesn’t typically label teams “Run and Shoot” anymore, but option/
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **Option route:** receiver adjusts route based on leverage/coverage.
 - **Switch release:** two receivers exchange lanes/releases to create rub/confusion.

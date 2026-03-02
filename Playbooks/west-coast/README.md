@@ -1,6 +1,6 @@
 # West Coast 🌊 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -33,20 +33,18 @@ Compared to Air Raid, West Coast is often more:
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: High completion percentage (rhythm/timing).
++ PRO: Elite vs Zone (layered concepts stress LBs).
++ PRO: Natural Play-Action (boots/rolls create easy reads).
++ PRO: YAC-Friendly (balls in space on the run).
++ PRO: Red Zone Versatility (quick outs/TE routes).
 
-- **High completion percentage** when executed well.
-- **Great vs zone**: layered concepts (levels/drive) stress underneath defenders.
-- **Natural play-action**: boots and half-rolls create simple reads.
-- **YAC-friendly**: crossing routes and flats put the ball on the move.
-- **Red zone versatility**: quick concepts, TE routes, and play-action all translate.
-
-### Cons
-
-- Requires **timing**: late throws become picks.
-- If your receivers can’t separate, you’ll see a lot of **contested catches**.
-- Some West Coast concepts are vulnerable vs **press man** without stacks/bunch.
-- If you abandon the run entirely, defenses will squat on underneath windows.
+- CON: Requires perfect timing (late = INT).
+- CON: Requires receivers who separate (contested catches are bad).
+- CON: Vulnerable to Press Man (without stacks/bunch).
+- CON: Underneath windows tighten if you abandon the run.
+```
 
 ---
 
@@ -103,7 +101,7 @@ Suggested approach:
 
 ---
 
-## Core West Coast concept menu
+## Core West Coast concept menu ⚙️
 
 Below are “concept families” you’ll often find across West Coast playbooks.
 
@@ -165,7 +163,7 @@ West Coast uses checkdowns intentionally:
 
 ---
 
-## Building your West Coast call sheet (practical CFB26 plan)
+## Building your West Coast call sheet (practical CFB26 plan) 🗂️
 
 ### Scripted opening drive (10–12 plays)
 
@@ -219,7 +217,7 @@ Example play mix:
 
 ---
 
-## Defensive answers and your counters
+## Defensive answers and your counters 🛡️
 
 ### They play zone and rally
 
@@ -240,7 +238,7 @@ Example play mix:
 
 ---
 
-## Roster building priorities
+## Roster building priorities 🧬
 
 1. **QB accuracy + anticipation**
 2. **WR route running + hands**
@@ -250,7 +248,7 @@ Example play mix:
 
 ---
 
-## Timing and footwork cheat sheet (make the offense “feel” right)
+## Timing and footwork cheat sheet (make the offense “feel” right) ⏱️
 
 West Coast succeeds when you throw on time. A simple way to keep your rhythm consistent is to tie concepts to your QB’s drop.
 
@@ -287,13 +285,18 @@ Examples:
 
 ---
 
-## Progression rules (keep it simple)
+## Progression rules (keep it simple) 🧭
 
 Different playbooks label reads differently, but West Coast progressions usually follow a few repeatable patterns.
 
 ### Pattern 1: high-low the flat defender
 
 Used in slant/flat, smash, and many boot floods.
+
+```diff
++ GREEN: Flat Defender Widens -> THROW Inside (Slant/Hitch)
+- RED:   Flat Defender Sits   -> THROW Outside (Flat/Out)
+```
 
 - If the flat defender widens: throw inside (slant/hitch).
 - If the flat defender sits inside: throw the flat/out.
@@ -316,7 +319,7 @@ Used in dagger-style concepts.
 
 ---
 
-## Motion and shifts (your best free information)
+## Motion and shifts (your best free information) 🔄
 
 In CFB-style games, motion is the simplest way to identify coverage and steal leverage.
 
@@ -337,7 +340,7 @@ In CFB-style games, motion is the simplest way to identify coverage and steal le
 
 ---
 
-## Protection and checkdowns (the invisible part of West Coast)
+## Protection and checkdowns (the invisible part of West Coast) 🛡️
 
 West Coast doesn’t require you to bomb it deep every snap, but it does require you to avoid negative plays.
 
@@ -355,7 +358,7 @@ The checkdown isn’t a failure in West Coast—it’s part of the plan.
 
 ---
 
-## Situational packages (what to “favorite”)
+## Situational packages (what to “favorite”) ⭐
 
 If you want the offense to be consistent, favorite a small set of plays per situation.
 
@@ -379,7 +382,7 @@ If you want the offense to be consistent, favorite a small set of plays per situ
 
 ---
 
-## Troubleshooting (common reasons West Coast “doesn’t work”)
+## Troubleshooting (common reasons West Coast “doesn’t work”) 🧯
 
 ### Problem: “My routes are always covered.”
 
@@ -417,7 +420,7 @@ Fix:
 
 ---
 
-## YAC coaching points (how West Coast turns 6 into 18)
+## YAC coaching points (how West Coast turns 6 into 18) 🏃
 
 West Coast can feel “dinky” until you start designing catches that allow run-after-catch.
 
@@ -432,7 +435,7 @@ If you’re consistently completing passes but not breaking tackles, it often me
 
 ---
 
-## Concept menu by situation (a West Coast “mini playbook”)
+## Concept menu by situation (a West Coast “mini playbook”) 🗂️
 
 ### Early downs
 
@@ -469,7 +472,7 @@ The purpose: you always know what your best 3 calls are for the current down/dis
 
 ---
 
-## Sample 15-play opening script (copy/paste idea)
+## Sample 15-play opening script (quick list) 📝
 
 This is an example of how a West Coast drive can probe the defense without being predictable.
 
@@ -496,7 +499,7 @@ Adjust on the fly:
 
 ---
 
-## In-game execution notes (small details that matter)
+## In-game execution notes (small details that matter) 🎮
 
 - Favor throws that keep receivers moving (crossers/drive) to maximize RAC.
 - If you notice linebackers jumping underneath routes, call sail/flood or a deep cross to punish them.
@@ -504,7 +507,7 @@ Adjust on the fly:
 
 ---
 
-## Sample 15-play opening script (copy/paste idea) 📝
+## Sample 15-play opening script (table format) 📝
 
 The West Coast offense is about rhythm. The first drive must get the QB comfortable and the defense moving laterally.
 
@@ -573,7 +576,7 @@ Modern NFL offenses are largely West Coast-derived. These teams are commonly ass
 
 ---
 
-## Teams in CFB26 that use a West Coast playbook (fill this in)
+## Teams in CFB26 that use a West Coast playbook (fill this in) 🏟️
 
 | Team | In-game offensive playbook name | Notes (favorite concepts, boot frequency, base personnel) |
 | ---- | ------------------------------- | --------------------------------------------------------- |
@@ -583,7 +586,7 @@ Modern NFL offenses are largely West Coast-derived. These teams are commonly ass
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **Rhythm throw:** ball out on the plant step; timing-based.
 - **Drive:** shallow + dig; classic West Coast man/zone beater.

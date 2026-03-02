@@ -1,6 +1,6 @@
 # Option 🏃‍♂️🧠 (Spread / Triple Option) — CFB26 Playbook Style
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -34,20 +34,18 @@ In games, option playbooks typically blend:
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: Portable Run Game (reads replace blocks).
++ PRO: Forces Discipline (punishes aggressive defense).
++ PRO: Controls Pace (shorten games, limit possessions).
++ PRO: +1 Numbers Advantage (QB creates the extra man).
++ PRO: Beats Light Boxes (two-high shells get gashed).
 
-- **Portable run game**: you can run effectively even with average OL because reads replace blocks.
-- **Forces disciplined defense**: aggressive defenders get punished.
-- **Controls pace**: you can shorten games and limit opponent possessions.
-- **QB becomes a weapon**, creating a constant +1 in the run game.
-- Great vs teams that play light in the box and want to live in two-high.
-
-### Cons
-
-- Requires a QB who can **take hits** and make quick decisions.
-- If you fall behind by multiple scores, pure option can be harder to run (clock + predictability).
-- Some defenses can “scrape exchange” or set hard edges, forcing you to prove you can pass.
-- Turnover risk increases if you get sloppy with pitch/keep timing.
+- CON: QB Durability (taking hits is part of the job).
+- CON: Hard to Chase Points (clock + predictability).
+- CON: Vulnerable to "Scrape Exchange" (requires passing answers).
+- CON: Turnover Risk (pitch timing must be perfect).
+```
 
 ## Sample opening script (Option grind) 📝
 
@@ -64,7 +62,7 @@ The goal is to physically exhaust the DL and frustrate the LBs.
 |   7    | Short Yardage    | **FB Dive**              | 4 yards and a cloud of dust     |
 |   8    | Shot Play        | **Switch Verticals**     | Wheel routes usually wide open  |
 
-## Dynasty Recruiting Guide 🎓
+## Dynasty Recruiting Guide (quick targets) 🎓
 
 Option recruiting is weird. You don't want "stars"; you want **specific traits**.
 
@@ -138,6 +136,11 @@ If you can’t identify the key pre-snap, don’t call the play.
 
 Option runs fail when you hesitate.
 
+```diff
++ GREEN: Key sits or widens -> GIVE the Dive
+- RED:   Key crashes down   -> PULL and Keep
+```
+
 Commit to give/keep/pitch based on the key’s first step.
 
 ### Rule #3: use constraint plays
@@ -150,7 +153,7 @@ If they overplay the pitch, turn it into a play-action shot.
 
 ---
 
-## Core option run menu
+## Core option run menu 🏃
 
 ### 1) Inside zone read
 
@@ -172,6 +175,11 @@ If they overplay the pitch, turn it into a play-action shot.
 - vs wide fronts
 - after inside reads make defenders squeeze
 
+```diff
++ GREEN: Edge Defender crashes QB -> PITCH immediately
+- RED:   Edge Defender widens     -> KEEP and turn upfield
+```
+
 **Pitch habit:** pitch early enough to avoid hit-sticks, late enough to force the defender to commit.
 
 ### 3) Triple option (if in your book)
@@ -183,6 +191,15 @@ Classic triple option typically creates:
 - pitch
 
 It’s deadly if you can keep your spacing and make clean decisions.
+
+```diff
+! 1ST READ (Dive Key)
++ key sits -> GIVE dive
+
+! 2ND READ (Pitch Key)
++ key takes QB    -> PITCH
+- key takes Pitch -> KEEP
+```
 
 ### 4) QB power / QB counter
 
@@ -196,7 +213,7 @@ If your playbook includes these, they punish certain fronts by reading interior 
 
 ---
 
-## Passing complements (don’t be one-dimensional)
+## Passing complements (don’t be one-dimensional) 🧨
 
 Option offenses need a **small, brutal passing menu**:
 
@@ -226,7 +243,7 @@ These punish overhang defenders who are trying to fit the run.
 
 ---
 
-## Building your Option call sheet (practical CFB26 plan)
+## Building your Option call sheet (practical CFB26 plan) 🗂️
 
 ### 1st and 10
 
@@ -259,7 +276,7 @@ These punish overhang defenders who are trying to fit the run.
 
 ---
 
-## Defensive answers and your counters
+## Defensive answers and your counters 🛡️
 
 ### They “scrape exchange” the read
 
@@ -284,7 +301,7 @@ Your answers:
 
 ---
 
-## Roster building priorities
+## Roster building priorities 🧬
 
 1. **QB durability + speed**
 2. **RB1 physical runner**
@@ -294,7 +311,7 @@ Your answers:
 
 ---
 
-## Formation packages (how to pick what “type” of option you are)
+## Formation packages (how to pick what “type” of option you are) 📐
 
 Most option playbooks can be played in two broad ways. Pick one as your base so your calls feel coherent.
 
@@ -333,7 +350,7 @@ If you’re not sure which one your roster supports, start with spread option. I
 
 ---
 
-## Pitch mechanics (how to avoid the two worst outcomes)
+## Pitch mechanics (how to avoid the two worst outcomes) ⚾
 
 The two worst outcomes on option plays are:
 
@@ -356,7 +373,7 @@ If you feel like pitches are always late, it usually means you’re letting the 
 
 ---
 
-## Constraint play menu (your “answers” when they sell out)
+## Constraint play menu (your “answers” when they sell out) 🧰
 
 Option is only unstoppable when you punish overreactions.
 
@@ -384,7 +401,7 @@ Here’s a practical constraint menu to keep in your favorites.
 
 ---
 
-## Building an “Option audible package” (so you’re never trapped)
+## Building an “Option audible package” (so you’re never trapped) 🎮
 
 Option offenses get wrecked when you call a read into a look that defeats it. Audibles prevent that.
 
@@ -404,7 +421,7 @@ Pre-snap checklist:
 
 ---
 
-## Weekly install plan (Dynasty-friendly)
+## Weekly install plan (Dynasty-friendly) 📚
 
 If you want the option game to feel automatic, practice in a simple progression.
 
@@ -427,7 +444,7 @@ If you want the option game to feel automatic, practice in a simple progression.
 
 ---
 
-## Troubleshooting (why option runs get blown up)
+## Troubleshooting (why option runs get blown up) 🧯
 
 ### Problem: “My QB keep gets tackled by someone unblocked.”
 
@@ -460,7 +477,7 @@ Fix:
 
 ---
 
-## Defensive-front cheat sheet (what options usually fit best)
+## Defensive-front cheat sheet (what options usually fit best) 🧾
 
 This is a simplified way to choose calls without memorizing every defensive front name.
 
@@ -492,7 +509,7 @@ Better calls:
 
 ---
 
-## Situational notes (option can still win “passing situations”)
+## Situational notes (option can still win “passing situations”) 🧠
 
 ### 2-minute offense
 
@@ -590,7 +607,7 @@ The NFL doesn’t run true triple option as a base offense, but several teams fe
 
 ---
 
-## Teams in CFB26 that use an Option playbook (fill this in)
+## Teams in CFB26 that use an Option playbook (fill this in) 🏟️
 
 | Team | In-game offensive playbook name | Notes (QB run %, option types, favorite constraint plays) |
 | ---- | ------------------------------- | --------------------------------------------------------- |
@@ -600,7 +617,7 @@ The NFL doesn’t run true triple option as a base offense, but several teams fe
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **Dive:** the inside handoff part of triple option.
 - **Pitch relationship:** spacing between QB and pitch back.

@@ -1,6 +1,6 @@
 # Air Raid 🎯 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -31,20 +31,18 @@ It’s at its best when you can reliably throw on early downs, force the defense
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: Elite down-to-down consistency when your QB is accurate.
++ PRO: Built-in answers vs pressure (hot routes & quick game).
++ PRO: Easy to call (small menu, high repetition).
++ PRO: Maximizes WR skill (separation/RAC > size).
++ PRO: Tempo-friendly (fast spacing, simple checks).
 
-- **Elite down-to-down consistency** when your QB is accurate and you can identify coverage.
-- **Answers vs pressure**: built-in hot routes, quick game, and spacing concepts punish blitzes.
-- **Easy to call** once your “base” menu is set (you don’t need 30 formations).
-- **Maximizes WR skill**: separation, route running, and RAC matter more than raw size.
-- **Tempo-friendly**: you can play fast without complex checks.
-
-### Cons
-
-- Can become **too horizontal** if you don’t take vertical shots on schedule.
-- **Red zone tightening**: spacing compresses inside the 15; you need goal-line answers.
-- If your QB is inaccurate under heat, the system can **stall quickly** (incompletions stop clock).
-- Some defenses will sit in **two-high shells** and rally/tackle, forcing you to string long drives.
+- CON: Can become too horizontal (need vertical discipline).
+- CON: Red zone tightening (spacing compresses inside the 15).
+- CON: Stalls quickly if QB is inaccurate (incompletions kill clock).
+- CON: Relies on patience vs soft 2-high shells.
+```
 
 ## Sample 15-play opening script (Air Raid tempo) 📝
 
@@ -140,7 +138,7 @@ You don’t need many. Pick a small “family” and get great at it.
 
 ---
 
-## Core concept menu (the Air Raid “greatest hits”)
+## Core concept menu (the Air Raid “greatest hits”) ⚙️
 
 The trick is not knowing 50 plays; it’s mastering **a small set of concepts** and how they beat different coverages.
 
@@ -155,7 +153,10 @@ The trick is not knowing 50 plays; it’s mastering **a small set of concepts** 
 
 **What you’re reading:**
 
-- Apex/flat defender: if he widens, hit the hitch; if he sits, throw the out.
+```diff
++ GREEN:  Apex Defender widens -> THROW the Hitch/Stick
+- RED:    Apex Defender sits   -> THROW the Out/Flat
+```
 
 **Common counters:**
 
@@ -223,7 +224,7 @@ You still need a real run call to punish light boxes.
 
 ---
 
-## Building your Air Raid call sheet (practical CFB26 plan)
+## Building your Air Raid call sheet (practical CFB26 plan) 🗂️
 
 This section is intentionally actionable: you can copy it into your in-game favorites.
 
@@ -282,7 +283,7 @@ Spacing shrinks; win with **leverage** and **pick concepts**.
 
 ---
 
-## Audibles and pre-snap plan
+## Audibles and pre-snap plan 🎮
 
 You want an audible set that answers:
 
@@ -307,7 +308,7 @@ You want an audible set that answers:
 
 ---
 
-## How defenses try to stop the Air Raid (and what to do)
+## How defenses try to stop the Air Raid (and what to do) 🛡️
 
 ### Two-high, rally-and-tackle
 
@@ -341,7 +342,7 @@ You want an audible set that answers:
 
 ---
 
-## Roster building (what to prioritize)
+## Roster building (what to prioritize) 🧬
 
 If you’re building a Dynasty roster, Air Raid priorities are usually:
 
@@ -355,7 +356,7 @@ Speed is nice, but consistent separation is what keeps drives alive.
 
 ---
 
-## Coverage cheat sheet (how your core concepts “want” to win)
+## Coverage cheat sheet (how your core concepts “want” to win) 🧾
 
 Air Raid is easiest when you understand what each concept is trying to stress.
 
@@ -395,7 +396,7 @@ Counter idea:
 
 ---
 
-## Install plan (make it automatic)
+## Install plan (make it automatic) 📚
 
 If you’re building favorites, build in layers so you can play fast without thinking.
 
@@ -426,7 +427,7 @@ Goal: make blitzing feel expensive.
 
 ---
 
-## Protection and “sack avoidance” rules
+## Protection and “sack avoidance” rules 🛡️
 
 Air Raid is about staying on schedule. A sack is often worse than a throwaway.
 
@@ -442,7 +443,7 @@ If you notice a specific edge rusher wrecking you, avoid calling longer-developi
 
 ---
 
-## Troubleshooting
+## Troubleshooting 🧯
 
 ### Problem: “I complete passes but never score.”
 
@@ -467,7 +468,7 @@ Fix:
 
 ---
 
-## Situational favorites list (a minimal Air Raid “toolbelt”)
+## Situational favorites list (a minimal Air Raid “toolbelt”) ⭐
 
 If you only favorite 12–18 plays, favor them by situation.
 
@@ -528,7 +529,7 @@ The NFL rarely runs a “pure” Air Raid, but many teams borrow the spacing/qui
 
 ---
 
-## Teams in CFB26 that use an Air Raid playbook (fill this in)
+## Teams in CFB26 that use an Air Raid playbook (fill this in) 🏟️
 
 Because team playbook assignments can change, this is a **tracking table**.
 
@@ -545,7 +546,7 @@ How to fill:
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **Apex defender:** the player between slot and box; key for RPO/spacing reads.
 - **Leverage:** defender positioning; throw away from it.

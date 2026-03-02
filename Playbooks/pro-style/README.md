@@ -1,6 +1,6 @@
-Mke # Pro Style 🧱 (CFB26 Playbook Style)
+# Pro Style 🧱 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -31,20 +31,18 @@ In video game terms, Pro Style is often the best “do everything” identity if
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: Game-script friendly (works whether ahead or behind).
++ PRO: Elite Red Zone offense (power + play-action + TE routes).
++ PRO: Personnel mismatches (12/13/21 sets force defense heavy).
++ PRO: Explosive Play-Action (deep crossers/posts naturally fit).
++ PRO: Clock Control (can shorten or lengthen games).
 
-- 🕰️ **Game-script friendly**: works while ahead, tied, or behind.
-- 🟥 **Great red zone offense**: condensed field favors power, play-action, and TE routes.
-- 🦄 **Personnel mismatch machine**: 12/13/21 personnel forces defenses to declare.
-- 💣 **Play-action explosives**: deep crossers, posts, and seams are natural complements.
-- ⏱️ **Clock control**: you can shorten games when needed.
-
-### Cons
-
-- 🧘 **Requires patience**: you’re “setting things up” with series-based calling.
-- 🐢 **Can feel slow**: if your OL struggles, you get stuck in 2nd-and-8 forever.
-- 🛡️ **Needs protection**: long-developing play-action is risky vs elite pass rush.
-- 🥊 **Needs isolation winners**: must have a WR who wins 1-on-1 when they load the box.
+- CON: Requires patience (setting up tendencies takes series).
+- CON: Can feel slow (if run game stalls, you face 3rd & long).
+- CON: Needs protection (long-developing PA is risky).
+- CON: Needs isolation winners (WRs must win 1-on-1 vs heavy boxes).
+```
 
 ---
 
@@ -136,6 +134,12 @@ You’ll be most consistent if you pick **two run families** and build everythin
 **In-game coaching points:**
 
 - Read the front; don’t sprint into the A-gap every time.
+
+```diff
++ GREEN: Squeeze/Double Team -> BOUNCE outside
+- RED:   Gap shoots/Blitz    -> CUTBACK inside
+```
+
 - If the defense pinches, bounce to the cutback.
 
 ### 2) Power / Counter
@@ -185,6 +189,12 @@ You’ll be most consistent if you pick **two run families** and build everythin
 **What it is:** moving pocket with a layered route (flat + intermediate + deep).
 
 **Why it works:** cuts the field in half; gives easy reads.
+
+```diff
+!  READ KEY: Flat Defender
++ GREEN:  Defender drops deep -> THROW Flat
+- RED:    Defender jumps flat -> THROW Corner/Cross
+```
 
 **Key coaching point:** don’t drift into sacks—set the edge and throw on time.
 
@@ -315,7 +325,7 @@ Don't wait for the OC to send in the perfect play. Use these 4 audibles to fix b
 
 ---
 
-## Sequencing (how Pro Style creates explosives)
+## Sequencing (how Pro Style creates explosives) 🔁
 
 Pro Style is at its best when you intentionally build tendencies and then break them.
 
@@ -341,7 +351,7 @@ This is not a rigid script—think of it as a pattern you can repeat during a ga
 
 ---
 
-## Personnel packages (what to major in and why)
+## Personnel packages (what to major in and why) 🧩
 
 Pro Style succeeds when you can force the defense to pick a poison:
 
@@ -374,7 +384,7 @@ Best for:
 
 ---
 
-## Audible package (so you can punish the look)
+## Audible package (so you can punish the look) 🎮
 
 Pro Style audibles should cover:
 
@@ -399,7 +409,7 @@ Pre-snap checklist:
 
 ---
 
-## Clock and field-position plan (a Pro Style advantage)
+## Clock and field-position plan (a Pro Style advantage) 🧭
 
 If you like playing “real football,” Pro Style is excellent at controlling game state.
 
@@ -409,7 +419,7 @@ If you like playing “real football,” Pro Style is excellent at controlling g
 
 ---
 
-## Weekly install plan (Dynasty-friendly)
+## Weekly install plan (Dynasty-friendly) 📚
 
 ### Week 1: one run family + one boot
 
@@ -430,7 +440,7 @@ If you like playing “real football,” Pro Style is excellent at controlling g
 
 ---
 
-## Troubleshooting
+## Troubleshooting 🧯
 
 ### Problem: “I can’t run the ball.”
 
@@ -458,7 +468,7 @@ Fix:
 
 ---
 
-## Run-game diagnostics (how to know where to run)
+## Run-game diagnostics (how to know where to run) 🧾
 
 Pro Style becomes much easier when you stop calling runs “randomly” and start aiming them at defensive structure.
 
@@ -493,7 +503,7 @@ Even if the yardage is similar, the defender fits change, and that’s what crea
 
 ---
 
-## Short-yardage mini-playbook
+## Short-yardage mini-playbook 🟥
 
 If you want Pro Style to feel dominant, decide your “3 calls” for 3rd & 1–2.
 
@@ -507,7 +517,7 @@ In games, short yardage is as much about avoiding negative plays as it is about 
 
 ---
 
-## Pace note (Pro Style can still go fast)
+## Pace note (Pro Style can still go fast) ⏱️
 
 You don’t have to huddle every snap. A simple approach:
 
@@ -589,7 +599,7 @@ Start here and **verify in-game**:
 
 ---
 
-## Teams in CFB26 that use a Pro Style playbook (fill this in)
+## Teams in CFB26 that use a Pro Style playbook (fill this in) 🏟️
 
 Use this as a living list you update as you confirm playbook assignments in-game.
 
@@ -601,7 +611,7 @@ Use this as a living list you update as you confirm playbook assignments in-game
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **Gap scheme:** linemen block down while a puller kicks/wraps (power/counter).
 - **Zone scheme:** linemen step together; RB reads leverage and cuts.

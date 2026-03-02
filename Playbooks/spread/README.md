@@ -1,6 +1,6 @@
 # Spread 🏃‍♂️💨 (CFB26 Playbook Style)
 
-**Author: Dave Voyles**
+Author: Dave Voyles
 
 [← Back to Index](../README.md)
 
@@ -34,20 +34,18 @@ Different teams “spread” differently. In games, the most common flavors are:
 
 ## Pros ✅ and cons ⚠️
 
-### Pros
+```diff
++ PRO: Easy Box Count Reads (math is simple).
++ PRO: One/Two-Key Reads (fast processing).
++ PRO: Tempo Leverage (keep defense vanilla).
++ PRO: Built-in Access (hitch/bubble punishes cushions).
++ PRO: QB Run Threat (the ultimate equalizer).
 
-- **Easy box-count decisions**: the formation often tells you whether to run or throw.
-- **Efficient QB reads**: many plays are one- or two-defender reads.
-- **Tempo leverage**: you can prevent substitutions and keep vanilla looks.
-- **Built-in answers**: bubbles, hitches, and quick outs punish soft coverage.
-- **QB run threat** creates a numbers advantage that is hard to simulate with pure dropback.
-
-### Cons
-
-- If you overuse quick game, defenses will **jump routes**.
-- Requires a QB who can **make decisions quickly** (and often run).
-- Some spread books struggle in **short yardage** if you don’t carry a power package.
-- Red zone can get crowded; you need **pick concepts** or **QB run** answers.
+- CON: Defense can Jump Routes (if predictable).
+- CON: Requires fast QB decisions (hesitation kills).
+- CON: Short Yardage struggles (without a power package).
+- CON: Red Zone can be crowded (windows shrink).
+```
 
 ## Sample opening script (Spread RPO pacing) 📝
 
@@ -69,7 +67,7 @@ The goal is to stretch them horizontally until they thin out inside.
 |   12   | Red Zone         | **Speed Option**           | Eliminate the edge defender         |
 |   13   | Goal Line        | **Q-Power**                | Direct snap physicality             |
 
-## Dynasty Recruiting Guide 🎓
+## Dynasty Recruiting Guide (quick targets) 🎓
 
 Spread teams need **athletes in space** and a diverse QB.
 
@@ -138,7 +136,7 @@ Spread in CFB-style playbooks often centers on:
 
 ---
 
-## Core concept menu
+## Core concept menu ⚙️
 
 ### 1) Inside Zone (the foundation)
 
@@ -163,6 +161,11 @@ Use it to punish defenses that overload the middle.
 
 - vs aggressive ends who chase inside zone
 - after you’ve shown inside zone a few times
+
+```diff
++ GREEN: DE Sits/Widens -> GIVE to RB
+- RED:   DE Crashes     -> PULL and Run
+```
 
 **Key habit:** commit quickly—hesitation kills read plays.
 
@@ -195,6 +198,11 @@ Common conflict defenders:
 - overhang safety
 - inside linebacker to the passing side
 
+```diff
++ GREEN: Conflict Defender bites on run -> THROW the slant/bubble
+- RED:   Conflict Defender hangs back   -> GIVE the run
+```
+
 If he fits the run, throw behind him.
 If he widens to the pass, run.
 
@@ -220,7 +228,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## Building your Spread call sheet (practical CFB26 plan)
+## Building your Spread call sheet (practical CFB26 plan) 🗂️
 
 ### 1st and 10
 
@@ -261,7 +269,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## How defenses try to stop the Spread (and what to do)
+## How defenses try to stop the Spread (and what to do) 🛡️
 
 ### They play two-high and invite runs
 
@@ -285,7 +293,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## Roster building priorities
+## Roster building priorities 🧬
 
 1. **QB processing + mobility**
 2. **Slot WR(s) with RAC**
@@ -295,7 +303,7 @@ Once quick game and RPOs widen the defense, you can hit:
 
 ---
 
-## Tempo strategy (how to use pace as a weapon)
+## Tempo strategy (how to use pace as a weapon) ⚡
 
 Spread teams often talk about “playing fast,” but the best tempo is **selective**.
 
@@ -323,7 +331,7 @@ Then slow down and call the next play with intent.
 
 ---
 
-## RPO selection matrix (pick the right tag for the look)
+## RPO selection matrix (pick the right tag for the look) 🧾
 
 If your playbook has a lot of RPOs, it can feel overwhelming. Use a simple “if-then” matrix.
 
@@ -349,7 +357,7 @@ If your playbook has a lot of RPOs, it can feel overwhelming. Use a simple “if
 
 ---
 
-## Audible package (spread should always have answers)
+## Audible package (spread should always have answers) 🎮
 
 Build an audible set that covers four problems:
 
@@ -374,7 +382,7 @@ Pre-snap checklist:
 
 ---
 
-## “Spread but not soft” (short yardage and goal-line plan)
+## “Spread but not soft” (short yardage and goal-line plan) 🟥
 
 One reason spread users struggle is they don’t carry a physical answer.
 
@@ -388,7 +396,7 @@ If the defense goes dime to stop your spread looks, punish them with this packag
 
 ---
 
-## Weekly install plan (build it in layers)
+## Weekly install plan (build it in layers) 📚
 
 ### Week 1: inside zone + bubble
 
@@ -411,7 +419,7 @@ The goal is to make your first 15 calls feel automatic.
 
 ---
 
-## Troubleshooting
+## Troubleshooting 🧯
 
 ### Problem: “RPOs keep getting picked.”
 
@@ -445,7 +453,7 @@ Fix:
 
 ---
 
-## Box-count examples (turn formation into a decision)
+## Box-count examples (turn formation into a decision) 📦
 
 One of the biggest Spread advantages is you can make the defense “declare” numbers.
 
@@ -474,7 +482,7 @@ The point isn’t to be perfect; it’s to stop calling runs into heavy boxes an
 
 ---
 
-## Concept pairing (how Spread stays unpredictable)
+## Concept pairing (how Spread stays unpredictable) 🔁
 
 Pick a small set of “pairs” that look the same to the defense pre-snap.
 
@@ -488,7 +496,7 @@ If you always call bubble after inside zone, the defense will start jumping. Rot
 
 ---
 
-## Situational favorites list (12–16 plays total)
+## Situational favorites list (12–16 plays total) ⭐
 
 ### Early-down efficiency
 
@@ -521,7 +529,7 @@ This “small favorites list” is usually better than trying to learn every for
 
 ---
 
-## Turnover avoidance (the spread killer)
+## Turnover avoidance (the spread killer) 🚫
 
 Spread offenses lose games when they gift short fields.
 
@@ -604,7 +612,7 @@ Most NFL offenses incorporate spread elements now. These teams often lean into s
 
 ---
 
-## Teams in CFB26 that use a Spread playbook (fill this in)
+## Teams in CFB26 that use a Spread playbook (fill this in) 🏟️
 
 | Team | In-game offensive playbook name | Notes (tempo, RPO frequency, QB run presence) |
 | ---- | ------------------------------- | --------------------------------------------- |
@@ -614,7 +622,7 @@ Most NFL offenses incorporate spread elements now. These teams often lean into s
 
 ---
 
-## Minimal glossary
+## Minimal glossary 📌
 
 - **RPO:** run-pass option; read one defender post-snap.
 - **Conflict defender:** the defender who can’t cover both run and pass.
