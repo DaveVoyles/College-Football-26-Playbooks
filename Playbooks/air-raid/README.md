@@ -44,42 +44,6 @@ It’s at its best when you can reliably throw on early downs, force the defense
 - CON: Relies on patience vs soft 2-high shells.
 ```
 
-## Sample 15-play opening script (Air Raid tempo) 📝
-
-The goal is to find the "lazy" defender and throw at him repeatedly.
-
-| **Play #** | **Situation / Note** | **Concept / Call**    | **Why?**                                |
-| :--------: | -------------------- | --------------------- | --------------------------------------- |
-|     1      | Scripted Opener      | **Mesh**              | 🟢 Easy completion vs man or zone       |
-|     2      | Tempo Shot           | **4 Verts**           | 🔴 Force safeties to back up early      |
-|     3      | Quick Game           | **Stick**             | 🟢 Take the free 5 yards if LB retreats |
-|     4      | Screen               | **Bubble Screen**     | 🟡 Punish off-coverage on the outside   |
-|     5      | Run (Honest Work)    | **Zone Read / Draw**  | 🟢 If the box is light (5 or less)      |
-|     6      | Base Pass            | **Shallow Cross**     | 🟢 The bread & butter. High % throw.    |
-|     7      | Shot Play            | **Y-Cross**           | 🔴 Hit the intermediate void            |
-|     8      | Quick Game           | **Corner Strike**     | 🟡 Beat cover 3 or man                  |
-|     9      | Screen               | **Tunnel Screen**     | 🟡 Slow down the pass rush              |
-|     10     | Base Pass            | **Mesh (Return)**     | 🟢 Go back to what works                |
-|     11     | Run (Draw)           | **HB Draw**           | 🟡 Catch DL penetrating upfield         |
-|     12     | Red Zone High        | **Spacing**           | 🟢 5-yard hitch windows                 |
-|     13     | Goal Line            | **Sprint Out / Whip** | 🟢 Create leverage in tight space       |
-|     14     | 2-Point / 4th Down   | **Mesh (Wheel Tag)**  | 🟢 The ultimate answers play            |
-|     15     | Shot (End of Q1)     | **Post-Wheel**        | 🔴 Try to steal a TD                    |
-
-## Dynasty Recruiting Guide 🎓
-
-Air Raid recruiting is about **speed and hands**, not size or blocking strength.
-
-| **Position** | **Archetype / Key Stats**          | **Why?**                                               |
-| :----------- | ---------------------------------- | ------------------------------------------------------ |
-| **QB**       | **Improviser** (SAC, MAC, TUP)     | 🧠 Accuracy > arm strength. Must throw under pressure. |
-| **HB**       | **Receiving Back** (CTH, CIT, SRR) | 🏃 Basically a 5th WR in this offense.                 |
-| **WR**       | **Route Runner** (SRR, MRR, REL)   | 🧤 Separation is everything. Need 10+ recruits here.   |
-| **TE**       | **Vertical Threat** (SPD, CTH)     | 🧲 Doesn't need to block. Needs to win seam routes.    |
-| **OL**       | **Pass Protector** (PBP, PBF, AWR) | 🧱 They will pass set 50 times a game.                 |
-
----
-
 ## Typical personnel (who’s on the field) 🧩
 
 Air Raid playbooks commonly live in:
@@ -111,7 +75,7 @@ Air Raid playbooks commonly live in:
 
 ---
 
-## Typical formations (what you should major in) 📐
+## Typical formations 📐
 
 You don’t need many. Pick a small “family” and get great at it.
 
@@ -136,9 +100,17 @@ You don’t need many. Pick a small “family” and get great at it.
 - Major: Trips + Doubles
 - Minor: Empty (third-and-medium), Bunch (red zone / short yardage passes)
 
+
+## Core run game families 🏃
+
+Air Raid is pass-first, but you still need a simple “honest” run menu to punish light boxes.
+
+- **Inside zone / split zone**: your stay-on-schedule run.
+- **Draw**: the easiest pass tendency punish.
+
 ---
 
-## Core concept menu (the Air Raid “greatest hits”) ⚙️
+## Core pass game families / concept menu ⚙️
 
 The trick is not knowing 50 plays; it’s mastering **a small set of concepts** and how they beat different coverages.
 
@@ -224,6 +196,15 @@ You still need a real run call to punish light boxes.
 
 ---
 
+## Sequencing (how Air Raid creates explosives) 🔁
+
+Air Raid explosives usually come from patience:
+
+- take quick game repeatedly until defenders start squatting
+- call your shot on purpose (2nd & short, after a big completion, or once safeties cheat)
+
+---
+
 ## Building your Air Raid call sheet (practical CFB26 plan) 🗂️
 
 This section is intentionally actionable: you can copy it into your in-game favorites.
@@ -283,7 +264,7 @@ Spacing shrinks; win with **leverage** and **pick concepts**.
 
 ---
 
-## Audibles and pre-snap plan 🎮
+## Pre-snap plan (audibles + box count + motion) 🎮
 
 You want an audible set that answers:
 
@@ -308,7 +289,7 @@ You want an audible set that answers:
 
 ---
 
-## How defenses try to stop the Air Raid (and what to do) 🛡️
+## Defensive looks and your counters 🛡️
 
 ### Two-high, rally-and-tackle
 
@@ -342,7 +323,7 @@ You want an audible set that answers:
 
 ---
 
-## Roster building (what to prioritize) 🧬
+## Roster building priorities 🧬
 
 If you’re building a Dynasty roster, Air Raid priorities are usually:
 
@@ -356,7 +337,17 @@ Speed is nice, but consistent separation is what keeps drives alive.
 
 ---
 
-## Coverage cheat sheet (how your core concepts “want” to win) 🧾
+## QB operation (timing + progressions) ⏱️
+
+Practical Air Raid QB rules:
+
+- Quick game is only “safe” if it’s on time—late throws are picks.
+- If you don’t like the leverage by the time the rush arrives: check it down or throw it away.
+- Know one repeatable progression pattern you can trust:
+  - high-low the flat defender (stick/spacing, slant/flat variants)
+  - clear-out + intermediate window (verts clearing space for cross/dig)
+
+### Coverage cheat sheet (how your core concepts “want” to win) 🧾
 
 Air Raid is easiest when you understand what each concept is trying to stress.
 
@@ -396,7 +387,7 @@ Counter idea:
 
 ---
 
-## Install plan (make it automatic) 📚
+## Weekly install plan 📚
 
 If you’re building favorites, build in layers so you can play fast without thinking.
 
@@ -427,7 +418,7 @@ Goal: make blitzing feel expensive.
 
 ---
 
-## Protection and “sack avoidance” rules 🛡️
+## Protection + checkdowns + sack-avoidance rules 🛡️
 
 Air Raid is about staying on schedule. A sack is often worse than a throwaway.
 
@@ -468,7 +459,7 @@ Fix:
 
 ---
 
-## Situational favorites list (a minimal Air Raid “toolbelt”) ⭐
+## Situational packages (what to favorite) ⭐
 
 If you only favorite 12–18 plays, favor them by situation.
 
@@ -502,6 +493,84 @@ If you only favorite 12–18 plays, favor them by situation.
 This keeps your play calling fast and reduces “random” calls that don’t fit your identity.
 
 ---
+
+## Sample 15-play opening script 📝
+
+The goal is to find the "lazy" defender and throw at him repeatedly.
+
+### Quick list
+
+1. Mesh
+2. 4 Verts
+3. Stick
+4. Bubble Screen
+5. Zone Read / Draw
+6. Shallow Cross
+7. Y-Cross
+8. Corner Strike
+9. Tunnel Screen
+10. Mesh (Return)
+11. HB Draw
+12. Spacing
+13. Sprint Out / Whip
+14. Mesh (Wheel Tag)
+15. Post-Wheel
+
+### Table format (Air Raid tempo)
+
+| **Play #** | **Situation / Note** | **Concept / Call**    | **Why?**                                |
+| :--------: | -------------------- | --------------------- | --------------------------------------- |
+|     1      | Scripted Opener      | **Mesh**              | 🟢 Easy completion vs man or zone       |
+|     2      | Tempo Shot           | **4 Verts**           | 🔴 Force safeties to back up early      |
+|     3      | Quick Game           | **Stick**             | 🟢 Take the free 5 yards if LB retreats |
+|     4      | Screen               | **Bubble Screen**     | 🟡 Punish off-coverage on the outside   |
+|     5      | Run (Honest Work)    | **Zone Read / Draw**  | 🟢 If the box is light (5 or less)      |
+|     6      | Base Pass            | **Shallow Cross**     | 🟢 The bread & butter. High % throw.    |
+|     7      | Shot Play            | **Y-Cross**           | 🔴 Hit the intermediate void            |
+|     8      | Quick Game           | **Corner Strike**     | 🟡 Beat cover 3 or man                  |
+|     9      | Screen               | **Tunnel Screen**     | 🟡 Slow down the pass rush              |
+|     10     | Base Pass            | **Mesh (Return)**     | 🟢 Go back to what works                |
+|     11     | Run (Draw)           | **HB Draw**           | 🟡 Catch DL penetrating upfield         |
+|     12     | Red Zone High        | **Spacing**           | 🟢 5-yard hitch windows                 |
+|     13     | Goal Line            | **Sprint Out / Whip** | 🟢 Create leverage in tight space       |
+|     14     | 2-Point / 4th Down   | **Mesh (Wheel Tag)**  | 🟢 The ultimate answers play            |
+|     15     | Shot (End of Q1)     | **Post-Wheel**        | 🔴 Try to steal a TD                    |
+
+## Post-Game Metrics (Did I run it right?) 📊
+
+If you played a true Air Raid game, your stats should look like this:
+
+- **Completion Percentage:** > 70% (staying on schedule)
+- **3rd Down Conversions:** > 50% (quick game + crossers)
+- **Explosives (15+ yards):** 6+ (shots on purpose, not random)
+- **Sacks:** 2 or fewer (throwaways/checkdowns count as wins)
+
+## Dynasty Recruiting Guide 🎓
+
+Air Raid recruiting is about **speed and hands**, not size or blocking strength.
+
+| **Position** | **Archetype / Key Stats**          | **Why?**                                               |
+| :----------- | ---------------------------------- | ------------------------------------------------------ |
+| **QB**       | **Improviser** (SAC, MAC, TUP)     | 🧠 Accuracy > arm strength. Must throw under pressure. |
+| **HB**       | **Receiving Back** (CTH, CIT, SRR) | 🏃 Basically a 5th WR in this offense.                 |
+| **WR**       | **Route Runner** (SRR, MRR, REL)   | 🧤 Separation is everything. Need 10+ recruits here.   |
+| **TE**       | **Vertical Threat** (SPD, CTH)     | 🧲 Doesn't need to block. Needs to win seam routes.    |
+| **OL**       | **Pass Protector** (PBP, PBF, AWR) | 🧱 They will pass set 50 times a game.                 |
+
+---
+
+## In-game execution notes 🎮
+
+- If the defense gives you 5 yards, take it 10 times.
+- When users start lurking crossers, throw away from the user (outs/flats/backside hitches).
+- Don’t confuse “horizontal” with “bad”—it’s only bad if you never take the seam/shot.
+
+---
+
+## Pace note ⏱️
+
+- Go fast after easy completions/screens (keep the same shell on the field).
+- Slow down after negative plays and pick your next concept intentionally.
 
 ## Teams to check first in CFB26 (real-world scheme fit) 🔍
 
