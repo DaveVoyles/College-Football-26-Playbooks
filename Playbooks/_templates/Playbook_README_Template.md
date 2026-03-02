@@ -211,6 +211,12 @@ Include both formats so every playbook is uniform.
 
 ### Table format
 
+> [!NOTE]
+> Table formatting rule of thumb:
+>
+> - Keep the header row and the separator row (GitHub can render weirdly if the separator becomes the “header”).
+> - It’s fine if a formatter re-aligns spacing or numbering—just don’t delete table structure.
+
 | **Play #** | **Situation / Note** | **Concept / Call** | **Why?** |
 | :--------: | -------------------- | ------------------ | -------- |
 |     1      |                      |                    |          |
