@@ -20,6 +20,7 @@ _Pass-first philosophy, wide splits, 4-WR sets._
 | **Colorado**          | Big 12  | ⭐⭐       | ⭐⭐⭐⭐    | 🏃‍♂️ Spread/Zone     | Pass-heavy spread; HB screens and swing routes featured.   | Shedeur/Prime era leaned heavily on spread passing. |
 | **Mississippi State** | SEC     | ⭐⭐       | ⭐⭐⭐     | 💨 Tempo/Veer        | Air Raid + Veer DNA; aggressive tempo passing attack.      | Lebby's Veer-and-Shoot has Air Raid DNA.            |
 | **Washington State**  | Pac-12  | ⭐⭐       | ⭐⭐⭐     | 💨 Tempo/Spread      | Classic Leach tree; outside zone wrinkles, 4-WR base.      | Historical Air Raid (Mike Leach legacy).            |
+| **Purdue**            | Big Ten | ⭐⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Spread      | Air Raid scheme under Josh Henson.                         | Air Raid scheme under Josh Henson.                  |
 
 ---
 
@@ -35,6 +36,7 @@ _TE/FB usage, under-center runs, play-action._
 | **Iowa**       | Big Ten | ⭐⭐⭐⭐    | ⭐⭐      | 🪵 Zone/Power        | Conservative game manager; relies on defense and field position. | The definition of conservative Pro Style / Zone Run.     |
 | **Notre Dame** | Indep   | ⭐⭐⭐⭐    | ⭐⭐⭐     | 🎯 Multiple          | Pro-spread blend; TEs flex out; balanced run/pass splits.  | Freeman/Denbrock mix spread & pro concepts.              |
 | **Alabama**    | SEC     | ⭐⭐⭐     | ⭐⭐⭐⭐    | 🎯 Multiple          | Physical DNA meets modern spread concepts; versatile HB usage. | DeBoer brings spread, but Bama DNA is physical/multiple. |
+| **Boise State** | MWC     | ⭐⭐⭐⭐    | ⭐⭐⭐     | 🎯 Multiple          | Heavy pre-snap motion; TEs create mismatches in space.     | Multiple/Pro, but heavily shift/motion based.               |
 | **LSU**        | SEC     | ⭐⭐⭐     | ⭐⭐⭐⭐    | 🎯 Multiple          | Aggressive downfield passing; HBs involved in swing/wheel routes. | Pro-style passing concepts, aggressive downfield.        |
 
 ---
@@ -50,6 +52,7 @@ _11 Personnel, Gun runs, Screen game._
 | **Ole Miss**   | SEC     | ⭐⭐      | ⭐⭐⭐⭐    | 💨 Tempo/Zone        | Aggressive shot plays; HBs featured in wheel and angle routes. | Kiffin. Tempo, aggressive shots, unique run schemes.   |
 | **Clemson**    | ACC     | ⭐⭐      | ⭐⭐⭐     | 🏃‍♂️ Spread/Zone     | Air Raid-Spread hybrid; quick game with zone read base.    | Riley. Garrett Riley's version of the Air Raid/Spread. |
 | **TCU**        | Big 12  | ⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Spread      | Air Raid/Spread hybrid; quick mesh and spacing concepts.   | Dykes. Air Raid/Spread hybrid.                         |
+| **UCF**        | Big 12  | ⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Spread      | Balanced Spread scheme under Gus Malzahn.                  | Malzahn runs a balanced Spread scheme in CFB 27.    |
 | **Arizona**    | Big 12  | ⭐⭐⭐     | ⭐⭐⭐⭐    | 🏃‍♂️ Zone/Stretch     | Pro-spread blend; HBs as receivers out of the backfield.   | Brennan/Fisch era established pro-spread concepts.     |
 | **Liberty**    | CUSA    | ⭐⭐      | ⭐⭐⭐     | 🏃‍♂️ Spread/Option   | Spread option with triple-option wrinkles; read-based run game. | Chadwell. Spread option / "New" Triple Option.         |
 
@@ -63,7 +66,6 @@ _Ultra-wide splits, extreme tempo, choice verticals._
 | :------------ | :----- | :------- | :------ | :------------------- | :--------------------------------------------------------- | :--------------------------------------------------- |
 | **Tennessee** | SEC    | ⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Veer        | Gold standard tempo; choice routes stress man coverage.    | Heupel. The gold standard for Veer & Shoot.          |
 | **USF**       | AAC    | ⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Veer        | Blazing tempo; HBs used in quick screens and swing routes. | Golesh (Heupel tree). Fastest offense in the game?   |
-| **UCF**       | Big 12 | ⭐⭐      | ⭐⭐⭐     | 💨 Tempo/Spread      | Heupel DNA lingers; fast tempo with zone read base.        | Malzahn/Heupel DNA still lingers.                    |
 | **Baylor**    | Big 12 | ⭐⭐⭐     | ⭐⭐⭐     | 🏃‍♂️ Zone/Spread     | Historical Briles-tree fit; less pure V&S under Aranda.    | Aranda has moved away, but historical playbook fits. |
 | **Oklahoma**  | SEC    | ⭐⭐⭐     | ⭐⭐⭐     | 🎯 Multiple          | Briles-tree roots with modern multiple wrinkles.           | Venables/Littrell mix, but has Briles-tree roots.    |
 
@@ -78,8 +80,6 @@ _Horizontal passing, rhythm throws, YAC._
 | **Texas**       | SEC     | ⭐⭐⭐     | ⭐⭐⭐⭐    | 🏃‍♂️ Zone/Stretch     | Deep West Coast; HBs as elite check-down/wheel threats.    | Sarkisian. "All Gas No Brakes" is actually deep West Coast. |
 | **Florida**     | SEC     | ⭐⭐⭐     | ⭐⭐⭐⭐    | 🏃‍♂️ Zone/Stretch     | Shanahan tree; outside zone + bootleg passing.             | Napier. Shanahan-tree influence (stretch run + boots).      |
 | **Stanford**    | ACC     | ⭐⭐⭐     | ⭐⭐⭐     | 🏃‍♂️ Zone/West Coast | Unique passing system; rhythm-based timing attack.         | Taylor. Troy Taylor runs a unique passing system.           |
-| **Boise State** | MWC     | ⭐⭐⭐⭐    | ⭐⭐⭐     | 🎯 Multiple          | Heavy pre-snap motion; TEs create mismatches in space.     | Multiple/Pro, but heavily shift/motion based.               |
-| **Purdue**      | Big Ten | ⭐⭐⭐     | ⭐⭐⭐     | 🏃‍♂️ Zone/Spread     | Air Raid to West Coast transition; rhythm passing focus.   | Harrell (Air Raid) -> Walters transition.                   |
 
 ---
 
